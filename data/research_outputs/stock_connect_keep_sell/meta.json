@@ -1,0 +1,12 @@
+{
+  "events_path": "data/research_outputs/core/master_events_normalized.csv",
+  "out_dir": "data/research_outputs/stock_connect_keep_sell",
+  "horizon_trading_days": 60,
+  "keep_return_threshold": 0.0,
+  "lag_days": 0,
+  "max_staleness_days": 540,
+  "peer_overrides_csv": "data/peer_overrides.csv",
+  "include_forward_pe_snapshot": false,
+  "rows": 104,
+  "skipped_rows": 1
+}

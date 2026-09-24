@@ -1,0 +1,6 @@
+max_staleness_days,min_ticker_cov,min_year_cov,min_split_cov,rows_full,full_cov,full_status,full_pr_auc,full_roc_auc,rows_subset,subset_cov,subset_status,subset_pr_auc,subset_roc_auc
+540,0.25,0.1,0.05,1884,0.020700636942675158,skip_low_fundamental_coverage,,,30,1.0,skip_small_sample,,
+720,0.25,0.1,0.05,1884,0.020700636942675158,skip_low_fundamental_coverage,,,30,1.0,skip_small_sample,,
+720,0.1,0.05,0.03,1884,0.020700636942675158,skip_low_fundamental_coverage,,,32,1.0,skip_small_sample,,
+900,0.1,0.05,0.02,1884,0.020700636942675158,skip_low_fundamental_coverage,,,32,1.0,skip_small_sample,,
+900,0.05,0.03,0.01,1884,0.020700636942675158,skip_low_fundamental_coverage,,,32,1.0,skip_small_sample,,

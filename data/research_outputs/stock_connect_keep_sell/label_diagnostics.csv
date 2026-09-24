@@ -1,0 +1,5 @@
+metric,value
+rows_total,104.0
+rows_skipped_no_anchor,1.0
+y_keep_known,100.0
+keep_rate,0.51

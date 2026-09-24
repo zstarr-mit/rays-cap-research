@@ -1,0 +1,67 @@
+source_row_id,date,index,change_type_raw,ticker,ticker_normalized,company
+1466,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00002 ^,00002.HK,CHINA VANKE
+1467,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00019 ^,00019.HK,BAOSTEEL
+1468,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00021,00021.HK,KAIFA
+1469,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00026 ^,00026.HK,COSCO SHIP ENGY
+1470,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00028 ^,00028.HK,SINOPEC CORP
+1471,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00030,00030.HK,CITIC SEC
+1472,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00035,00035.HK,CHINA TIANYING
+1473,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00036,00036.HK,CM BANK
+1474,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00039,00039.HK,CIMC
+1475,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00050,00050.HK,TIANMA
+1476,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00050 ^,00050.HK,CHINA UNICOM
+1477,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00062,00062.HK,CR DOUBLE-CRANE
+1478,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00063 ^,00063.HK,ZTE
+1479,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00066,00066.HK,CGT GROUP
+1480,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00089,00089.HK,TBEA
+1481,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00100 ^,00100.HK,TCL TECH.
+1482,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00153,00153.HK,C&D INC.
+1483,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00183,00183.HK,SYTECH
+1484,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00196 ^,00196.HK,FOSUN PHARMA
+1485,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00274 ^,00274.HK,SUNGROW POWER SUPPLY
+1486,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00282,00282.HK,NISCO
+1487,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00323,00323.HK,GRANDBLUE ENV
+1488,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00338,00338.HK,WEICHAI POWER
+1489,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00377,00377.HK,JIANGSU EXPRESS
+1490,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00406,00406.HK,NARI-TECH
+1491,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00513,00513.HK,LIVZON PHARMA
+1492,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00600 ^,00600.HK,TSINGTAO BREW
+1493,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00725 ^,00725.HK,BOE
+1494,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00728,00728.HK,GUOYUAN SECURITIES
+1495,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00750 ^,00750.HK,CATL
+1496,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00776,00776.HK,GF SEC
+1497,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00803 ^,00803.HK,ENN-EC
+1498,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00837 ^,00837.HK,HAITONG SEC
+1499,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00898,00898.HK,ANGANG STEEL
+1500,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00921,00921.HK,HISENSE HA
+1501,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00941 ^,00941.HK,CHINA MOBILE
+1502,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00958 ^,00958.HK,DFZQ
+1503,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01138 ^,01138.HK,FOXCONN INDUSTRIAL IN
+1504,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01238 ^,01238.HK,GAC GROUP
+1505,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01289,01289.HK,CHINA LONGYUAN
+1506,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01318 ^,01318.HK,PING AN
+1507,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01727 ^,01727.HK,SH ELECTRIC
+1508,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01808 ^,01808.HK,CHINA OILFIELD
+1509,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01818 ^,01818.HK,CEB BANK
+1510,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01877 ^,01877.HK,CHINT ELECTRICS
+1511,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01899 ^,01899.HK,ZIJIN MINING
+1512,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01919 ^,01919.HK,COSCO SHIP HOLD
+1513,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01979,01979.HK,CMSK
+1514,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01988 ^,01988.HK,BANK OF CHINA
+1515,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02078,02078.HK,SUN PAPER
+1516,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02179,02179.HK,JONHON
+1517,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02202,02202.HK,GOLDWIND
+1518,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02230,02230.HK,IFLYTEK
+1519,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02241,02241.HK,GOERTEK
+1520,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02340,02340.HK,GEM
+1521,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02371,02371.HK,NAURA
+1522,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02460 ^,02460.HK,GANFENGLITHIUM
+1523,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02493,02493.HK,RSPC
+1524,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02531,02531.HK,TITAN
+1525,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02594 ^,02594.HK,BYD COMPANY
+1526,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02601 ^,02601.HK,LBG
+1527,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02714,02714.HK,MUYUAN
+1528,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02815,02815.HK,SUNTAK
+1529,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02916,02916.HK,SCC
+1530,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,03816,03816.HK,CGN POWER
+1531,2024-09-09,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,88981 ^,88981.HK,SMIC

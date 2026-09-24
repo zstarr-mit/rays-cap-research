@@ -1,0 +1,11 @@
+metric,value
+panel_rows_total,6743.0
+unique_tickers,613.0
+unique_obs_dates,11.0
+rows_fully_observed,5517.0
+positive_inclusion_fully_observed,7.0
+positive_exclusion_fully_observed,2.0
+positive_any_change_fully_observed,13.0
+inclusion_rate_fully_observed,0.0012688055102410732
+exclusion_rate_fully_observed,0.00036251586006887804
+any_change_rate_fully_observed,0.002356353090447707

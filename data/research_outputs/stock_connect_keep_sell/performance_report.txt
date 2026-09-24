@@ -1,0 +1,109 @@
+Stock Connect keep/sell — performance analysis
+============================================================
+
+Run configuration (meta.json)
+----------------------------------------
+  horizon_trading_days: 60
+  keep_return_threshold: 0.0
+  lag_days: 0
+  max_staleness_days: 540
+  include_forward_pe_snapshot: False
+  rows: 104
+  skipped_rows: 1
+
+Model training summary (keep_sell_summary.json)
+----------------------------------------
+  split_mode: fallback_time_split
+  rows_total_with_label: 100
+  pos_rate_total: 0.51
+
+  WARNING: forward_total_return was used as a model feature — this is label leakage.
+  Re-train with train_keep_sell_baseline.py after removing that column from features.
+
+Labels and forward returns (full training table, y_keep known)
+----------------------------------------
+  rows_with_label: 100
+  keep_rate (y_keep=1): 0.5100
+  forward_total_return: mean=0.0507 median=0.0032 std=0.2569
+    q10: -0.1827
+    q25: -0.1049
+    q50: 0.0032
+    q75: 0.1718
+    q90: 0.3051
+
+By year (see performance_by_year.csv)
+ year  n  keep_rate  mean_fwd_ret
+ 2018  1   0.000000     -0.040921
+ 2019 16   0.187500     -0.090971
+ 2020 18   0.555556      0.059698
+ 2021 25   0.400000     -0.015485
+ 2022  4   0.750000      0.102996
+ 2024 32   0.687500      0.165680
+ 2025  4   0.750000      0.042013
+
+By index (top 15 by count; full table in performance_by_index.csv)
+                                                   index  n  keep_rate  mean_fwd_ret
+Hang Seng Stock Connect Greater Bay Area Composite Index 67   0.567164      0.088824
+           Hang Seng Stock Connect China AH Index Series 17   0.176471     -0.088027
+         Hang Seng Stock Connect China Enterprises Index 12   0.583333      0.037497
+    Hang Seng HKEX Stock Connect China Enterprises Index  4   0.750000      0.042013
+
+Feature coverage (fraction non-null)
+----------------------------------------
+  market_cap_approx_asof: 1.000
+  ps_ttm: 0.020
+  pe_ttm: 0.020
+  fundamentals_available: 1.000
+  peer_group: 0.990
+  sector_snapshot: 0.990
+
+Prediction subset (rows with y_score_oof)
+----------------------------------------
+  n_scored: 25 / 100 labeled rows
+
+Classification metrics @ threshold 0.5 (scored rows only)
+----------------------------------------
+  accuracy: 0.9200
+  balanced_accuracy: 0.8904
+  precision (keep): 0.9474
+  recall (keep): 0.9474
+  f1 (keep): 0.9474
+  matthews_corrcoef: 0.7807
+  confusion_matrix [rows actual 0,1; cols pred 0,1]:
+    TN=5 FP=1
+    FN=1 TP=18
+
+Ranking / probability quality (scored rows only)
+----------------------------------------
+  roc_auc: 0.9737
+  pr_auc (average_precision): 0.9922
+  brier_score: 0.0561
+  log_loss: 0.2053
+
+Baselines (same scored rows)
+----------------------------------------
+  majority_class_accuracy: 0.7600
+  prevalence P(keep): 0.7600
+  precision@1% (by score): 1.0000
+  precision@5% (by score): 1.0000
+  precision@10% (by score): 1.0000
+
+Decile lift by predicted score (high decile = higher score; see performance_decile_lift.csv)
+----------------------------------------
+ decile  n  mean_score  keep_rate  mean_forward_return  median_forward_return
+      1  3    0.072314   0.000000            -0.305614              -0.126857
+      2  2    0.281032   0.500000            -0.016044              -0.016044
+      3  3    0.526896   0.333333            -0.031617              -0.007965
+      4  2    0.781220   1.000000             0.136759               0.136759
+      5  3    0.831091   1.000000             0.162770               0.169757
+      6  2    0.866234   1.000000             0.098377               0.098377
+      7  2    0.917810   1.000000             0.214765               0.214765
+      8  3    0.941360   1.000000             0.194427               0.167619
+      9  2    0.989032   1.000000             0.369630               0.369630
+     10  3    0.999989   1.000000             0.951813               0.948519
+
+Notes
+----------------------------------------
+  - Metrics apply only to rows with non-null y_score_oof (e.g. test fold in time split).
+  - If ROC-AUC is very high, verify the model did not use forward_total_return as a feature.
+  - Decile lift should show monotone-ish keep_rate if the score ranks inclusions usefully.

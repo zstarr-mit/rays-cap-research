@@ -1,0 +1,1883 @@
+date,index,change_type,ticker,ticker_normalized,company
+3/14/16,Hang Seng China 50 Index,Exclusion,1211 / 002594,1211.HK / 002594.SZ,BYD Co. Ltd.
+3/14/16,Hang Seng China 50 Index,Exclusion,1359,1359.HK,"China Cinda Asset Management Co., Ltd."
+3/14/16,Hang Seng China 50 Index,Exclusion,2333 / 601633,2333.HK / 601633.SH,Great Wall Motor Co. Ltd.
+3/14/16,Hang Seng China 50 Index,Inclusion,1186 / 601186,1186.HK / 601186.SH,China Railway Construction Corporation Ltd.
+3/14/16,Hang Seng China 50 Index,Inclusion,1776 / 000776,1776.HK / 000776.SZ,"GF Securities Co., Ltd."
+3/14/16,Hang Seng China 50 Index,Inclusion,601211,601211.SH,Guotai Junan Securities Co. Ltd.
+3/14/16,Hang Seng China AH Index Series,Inclusion,317 / 600685,0317.HK / 600685.SH,CSSC Offshore & Marine Engineering (Group) Co.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,54,0054.HK,Hopewell Holdings Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,829,0829.HK,Shenguan Holdings (Group) Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1157,1157.HK,"Zoomlion Heavy Industry Science and Technology Co., Ltd-H Sh"
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1528,1528.HK,Red Star Macalline Group Corporation Ltd. - H Shares
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,87001,87001,Hui Xian Real Estate Investment Trust
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,10,0010.HK,Hang Lung Group Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,109,0109.HK,Good Resources Holdings Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,136,0136.HK,HengTen Networks Group Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,400,0400.HK,Cogobuy Group
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,405,0405.HK,Yuexiu Real Estate Investment Trust
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,607,0607.HK,Fullshare Holdings Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,715,0715.HK,China Oceanwide Holdings Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,911,0911.HK,Hang Fat Ginseng Holdings Co. Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,958,0958.HK,Huaneng Renewables Corporation Ltd. - H Shares
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1071,1071.HK,Huadian Power International Corporation Ltd. - H Shares
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1282,1282.HK,China Goldjoy Group Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1308,1308.HK,SITC International Holdings Co. Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1363,1363.HK,CT Environmental Group Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1432,1432.HK,China Shengmu Organic Milk Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1508,1508.HK,China Reinsurance (Group) Corporation - H Shares
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1970,1970.HK,"IMAX China Holding, Inc."
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2066,2066.HK,"Shengjing Bank Co., Ltd. - H Shares"
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2098,2098.HK,Zall Development Group Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2298,2298.HK,Cosmo Lady (China) Holdings Co. Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3698,3698.HK,Huishang Bank Corporation Ltd. - H shares
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3823,3823.HK,Tech Pro Technology Development Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3886,3886.HK,Town Health International Medical Group Ltd.
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3908,3908.HK,China International Capital Corporation Ltd. - H Shares
+3/14/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3996,3996.HK,China Energy Engineering Corporation Ltd. - H Shares
+3/14/16,Hang Seng Index,Exclusion,291,0291.HK,China Resources Beer
+3/14/16,Hang Seng Index,Inclusion,1038,1038.HK,Cheung Kong Infrastructure
+6/6/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1578,1578.HK,"Bank of Tianjin Co., Ltd. – H Shares MidCap Financials"
+6/6/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2016,2016.HK,"China Zheshang Bank Co., Ltd. – H Shares MidCap Financials"
+9/5/16,Hang Seng China 50 Index,Exclusion,600958,600958.SH,Orient Securities Company Limited
+9/5/16,Hang Seng China 50 Index,Inclusion,600606,600606.SH,Greenland Holdings Corporation Limited
+9/5/16,Hang Seng China A Industry Top Index,Exclusion,000839,000839.SZ,"CITIC Guoan Information Industry Co.,Ltd"
+9/5/16,Hang Seng China A Industry Top Index,Exclusion,002241,002241.SZ,Goertek Inc.
+9/5/16,Hang Seng China A Industry Top Index,Exclusion,600111,600111.SH,"China Northern Rare Earth (Group) High-Tech Co.,Ltd"
+9/5/16,Hang Seng China A Industry Top Index,Inclusion,600027,600027.SH,Huadian Power International Corporation Limited
+9/5/16,Hang Seng China A Industry Top Index,Inclusion,600271,600271.SH,Aisino Corporation
+9/5/16,Hang Seng China A Industry Top Index,Inclusion,600688,600688.SH,Sinopec Shanghai Petrochemical Company Limited
+9/5/16,Hang Seng China A Industry Top Index,Inclusion,600704,600704.SH,"Materials Industry Zhongda Group Co., Ltd."
+9/5/16,Hang Seng China A Industry Top Index,Inclusion,601018,601018.SH,Ningbo Port Company Limited
+9/5/16,Hang Seng China A Industry Top Index,Inclusion,601186,601186.SH,China Railway Construction Corporation Limited
+9/5/16,Hang Seng China A Industry Top Index,Inclusion,601318,601318.SH,"Ping An Insurance (Group) Company of China, Ltd."
+9/5/16,Hang Seng China A Industry Top Index,Inclusion,603993,603993.SH,"China Molybdenum Co.,Ltd."
+9/5/16,Hang Seng China A Top 100 Index,Exclusion,000157,000157.SZ,"Zoomlion Heavy Industry Science and Technology Co., Ltd."
+9/5/16,Hang Seng China A Top 100 Index,Exclusion,600031,600031.SH,"Sany Heavy Industry Co.,Ltd."
+9/5/16,Hang Seng China A Top 100 Index,Exclusion,600875,600875.SH,Dongfang Electric Corporation Limited
+9/5/16,Hang Seng China A Top 100 Index,Exclusion,601225,601225.SH,Shaanxi Coal Industry Company Limited
+9/5/16,Hang Seng China A Top 100 Index,Exclusion,601898,601898.SH,China Coal Energy Company Limited
+9/5/16,Hang Seng China A Top 100 Index,Exclusion,601989,601989.SH,China Shipbuilding Industry Company Limited
+9/5/16,Hang Seng China A Top 100 Index,Inclusion,001979,001979.SZ,"China Merchants Shekou Industrial Zone Holdings Co.,Ltd"
+9/5/16,Hang Seng China A Top 100 Index,Inclusion,600606,600606.SH,Greenland Holdings Corporation Limited
+9/5/16,Hang Seng China A Top 100 Index,Inclusion,600958,600958.SH,Orient Securities Company Limited
+9/5/16,Hang Seng China A Top 100 Index,Inclusion,601009,601009.SH,"Bank of Nanjing Co.,Ltd."
+9/5/16,Hang Seng China A Top 100 Index,Inclusion,601018,601018.SH,Ningbo Port Company Limited
+9/5/16,Hang Seng China A Top 100 Index,Inclusion,601211,601211.SH,"Guotai Junan Securities Co., Ltd."
+9/5/16,Hang Seng China Enterprises Index,Exclusion,3323,3323.HK,China National Building Material Co. Ltd. - H Shares
+9/5/16,Hang Seng China Enterprises Index,Inclusion,3898,3898.HK,"Zhuzhou CRRC Times Electric Co., Ltd. - H Shares"
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,81,0081.HK,China Overseas Grand Oceans Group Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,207,0207.HK,Joy City Property Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,283,0283.HK,Goldin Properties Holdings Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,530,0530.HK,Goldin Financial Holdings Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,639,0639.HK,Shougang Fushan Resources Group Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,754,0754.HK,Hopson Development Holdings Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1076,1076.HK,Imperial Pacific International Holdings Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1111,1111.HK,Chong Hing Bank Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1165,1165.HK,Shunfeng International Clean Energy Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1212,1212.HK,Lifestyle International Holdings Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,245,0245.HK,China Minsheng Financial Holding Corporation Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,338,0338.HK,Sinopec Shanghai Petrochemical Co. Ltd. - H Shares
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,345,0345.HK,Vitasoy International Holdings Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,412,0412.HK,China Innovative Finance Group Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,460,0460.HK,Sihuan Pharmaceutical Holdings Group Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,680,0680.HK,Nan Hai Corporation Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,696,0696.HK,TravelSky Technology Ltd. - H Shares
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,884,0884.HK,CIFI Holdings (Group) Co. Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1958,1958.HK,BAIC Motor Corporation Ltd. - H Shares
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2199,2199.HK,Regina Miracle International (Holdings) Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2326,2326.HK,BEP International Holdings Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2588,2588.HK,BOC Aviation Ltd.
+9/5/16,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2888,2888.HK,Standard Chartered PLC
+9/5/16,Hang Seng Index,Exclusion,322,0322.HK,Tingyi (Cayman Islands)
+9/5/16,Hang Seng Index,Inclusion,2018,2018.HK,AAC Technologies Holdings
+12/5/16,Hang Seng China Enterprises Index,Exclusion,2883,2883.HK,China Oilfield Services Ltd. - H Shares
+12/5/16,Hang Seng China Enterprises Index,Inclusion,1186,1186.HK,China Railway Construction Corporation Ltd. - H Shares
+3/6/17,Hang Seng China 50 Index,Exclusion,902 / 600011,0902.HK / 600011.SH,"Huaneng Power International, Inc."
+3/6/17,Hang Seng China 50 Index,Exclusion,601006,601006.SH,"Daqin Railway Co., Ltd."
+3/6/17,Hang Seng China 50 Index,Exclusion,601985,601985.SH,"China National Nuclear Power Co., Ltd."
+3/6/17,Hang Seng China 50 Index,Inclusion,000333,000333.SZ,"Midea Group Co., Ltd."
+3/6/17,Hang Seng China 50 Index,Inclusion,1658,1658.HK,"Postal Savings Bank of China Co., Ltd."
+3/6/17,Hang Seng China 50 Index,Inclusion,601229,601229.SH,"Bank of Shanghai Co., Ltd."
+3/6/17,Hang Seng China AH Index Series,Exclusion,168 / 600600,0168.HK / 600600.SH,Tsingtao Brewery Co. Ltd.
+3/6/17,Hang Seng China AH Index Series,Exclusion,991 / 601991,0991.HK / 601991.SH,"Datang International Power Generation Co., Ltd."
+3/6/17,Hang Seng China AH Index Series,Exclusion,1072 / 600875,1072.HK / 600875.SH,Dongfang Electric Corporation Ltd.
+3/6/17,Hang Seng China AH Index Series,Exclusion,2039 / 000039,2039.HK / 000039.SZ,"China Int'l Marine Containers (Group) Co., Ltd."
+3/6/17,Hang Seng China AH Index Series,Exclusion,2238 / 601238,2238.HK / 601238.SH,"Guangzhou Automobile Group Co., Ltd."
+3/6/17,Hang Seng China AH Index Series,Exclusion,2883 / 601808,2883.HK / 601808.SH,China Oilfield Services Ltd.
+3/6/17,Hang Seng China AH Index Series,Inclusion,3958 / 600958,3958.HK / 600958.SH,DFZQ
+3/6/17,Hang Seng China AH Index Series,Inclusion,6099 / 600999,6099.HK / 600999.SH,"China Merchants Securities Co., Ltd."
+3/6/17,Hang Seng China AH Index Series,Inclusion,6178 / 601788,6178.HK / 601788.SH,Everbright Securities Co. Ltd.
+3/6/17,Hang Seng China Enterprises Index,Exclusion,168,0168.HK,Tsingtao Brewery Co. Ltd. - H Shares
+3/6/17,Hang Seng China Enterprises Index,Inclusion,1658,1658.HK,"Postal Savings Bank of China Co., Ltd. - H Shares"
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,86,0086.HK,Sun Hung Kai & Co. Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,109,0109.HK,Good Resources Holdings Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,136,0136.HK,HengTen Networks Group Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,412,0412.HK,China Innovative Finance Group Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,715,0715.HK,China Oceanwide Holdings Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,911,0911.HK,Qianhai Health Holdings Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1071,1071.HK,Huadian Power International Corporation Ltd. - H Shares
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1205,1205.HK,CITIC Resources Holdings Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1728,1728.HK,China ZhengTong Auto Services Holdings Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2066,2066.HK,"Shengjing Bank Co., Ltd. - H Shares"
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2326,2326.HK,BEP International Holdings Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,658,0658.HK,"China High Speed Transmission Equipment Group Co., Ltd."
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,777,0777.HK,NetDragon Websoft Holdings Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1315,1315.HK,Vision Fame International Holding Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1357,1357.HK,"Meitu, Inc."
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1458,1458.HK,Zhou Hei Ya International Holdings Co. Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3320,3320.HK,China Resources Pharmaceutical Group Ltd.
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,6099,6099.HK,"China Merchants Securities Co., Ltd. - H Shares"
+3/6/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,87001,87001,Hui Xian Real Estate Investment Trust
+3/6/17,Hang Seng Index,Exclusion,494,0494.HK,Li & Fung Ltd.
+3/6/17,Hang Seng Index,Inclusion,175,0175.HK,Geely Automobile Holdings Ltd.
+9/4/17,Hang Seng China 50 Index,Exclusion,600606,600606.SH,Greenland Holdings Corporation Limited
+9/4/17,Hang Seng China 50 Index,Inclusion,000858,000858.SZ,"Wuliangye Yibin Co., Ltd."
+9/4/17,Hang Seng China A Industry Top Index,Exclusion,000009,000009.SZ,"China Baoan Group Co., Ltd."
+9/4/17,Hang Seng China A Industry Top Index,Exclusion,000063,000063.SZ,ZTE Corporation
+9/4/17,Hang Seng China A Industry Top Index,Exclusion,000069,000069.SZ,"Shenzhen Overseas Chinese Town Co., Ltd."
+9/4/17,Hang Seng China A Industry Top Index,Exclusion,600271,600271.SH,Aisino Corporation
+9/4/17,Hang Seng China A Industry Top Index,Exclusion,600362,600362.SH,Jiangxi Copper Company Limited
+9/4/17,Hang Seng China A Industry Top Index,Exclusion,601727,601727.SH,Shanghai Electric Group Company Limited
+9/4/17,Hang Seng China A Industry Top Index,Exclusion,601808,601808.SH,China Oilfield Services Limited
+9/4/17,Hang Seng China A Industry Top Index,Exclusion,603993,603993.SH,"China Molybdenum Co., Ltd."
+9/4/17,Hang Seng China A Industry Top Index,Inclusion,002027,002027.SZ,"Focus Media Information Technology Co., Ltd."
+9/4/17,Hang Seng China A Industry Top Index,Inclusion,002241,002241.SZ,Goertek Inc.
+9/4/17,Hang Seng China A Industry Top Index,Inclusion,002352,002352.SZ,"S.F. Holding Co., Ltd."
+9/4/17,Hang Seng China A Industry Top Index,Inclusion,600309,600309.SH,"Wanhua Chemical Group Co., Ltd."
+9/4/17,Hang Seng China A Industry Top Index,Inclusion,600547,600547.SH,"Shandong Gold Mining Co., Ltd."
+9/4/17,Hang Seng China A Industry Top Index,Inclusion,600637,600637.SH,"Shanghai Oriental Pearl Media Co., Ltd."
+9/4/17,Hang Seng China A Industry Top Index,Inclusion,601225,601225.SH,Shaanxi Coal Industry Company Limited
+9/4/17,Hang Seng China A Top 100 Index,Exclusion,000039,000039.SZ,"China International Marine Containers (Group) Co., Ltd."
+9/4/17,Hang Seng China A Top 100 Index,Exclusion,000063,000063.SZ,ZTE Corporation
+9/4/17,Hang Seng China A Top 100 Index,Exclusion,600583,600583.SH,"Offshore Oil Engineering Co., Ltd."
+9/4/17,Hang Seng China A Top 100 Index,Exclusion,600600,600600.SH,Tsingtao Brewery Co. Ltd.
+9/4/17,Hang Seng China A Top 100 Index,Exclusion,601727,601727.SH,Shanghai Electric Group Company Limited
+9/4/17,Hang Seng China A Top 100 Index,Exclusion,601808,601808.SH,China Oilfield Services Limited
+9/4/17,Hang Seng China A Top 100 Index,Exclusion,601991,601991.SH,"Datang International Power Generation Co., Ltd."
+9/4/17,Hang Seng China A Top 100 Index,Inclusion,002352,002352.SZ,"S.F. Holding Co., Ltd."
+9/4/17,Hang Seng China A Top 100 Index,Inclusion,600068,600068.SH,China Gezhouba Group Company Limited
+9/4/17,Hang Seng China A Top 100 Index,Inclusion,600297,600297.SH,"China Grand Automotive Services Co., Ltd."
+9/4/17,Hang Seng China A Top 100 Index,Inclusion,600688,600688.SH,Sinopec Shanghai Petrochemical Company Limited
+9/4/17,Hang Seng China A Top 100 Index,Inclusion,600919,600919.SH,"Bank of Jiangsu Co., Ltd."
+9/4/17,Hang Seng China A Top 100 Index,Inclusion,601229,601229.SH,"Bank of Shanghai Co., Ltd."
+9/4/17,Hang Seng China A Top 100 Index,Inclusion,601881,601881.SH,"China Galaxy Securities Co., Ltd."
+9/4/17,Hang Seng China AH Index Series,Exclusion,1033 / 600871,1033.HK / 600871.SH,Sinopec Oilfield Service Corporation
+9/4/17,Hang Seng China AH Index Series,Exclusion,3958 / 600958,3958.HK / 600958.SH,DFZQ
+9/4/17,Hang Seng China AH Index Series,Exclusion,6178 / 601788,6178.HK / 601788.SH,Everbright Securities Co. Ltd.
+9/4/17,Hang Seng China AH Index Series,Inclusion,168 / 600600,0168.HK / 600600.SH,Tsingtao Brewery Co. Ltd.
+9/4/17,Hang Seng China AH Index Series,Inclusion,177 / 600377,0177.HK / 600377.SH,Jiangsu Expressway Co. Ltd.
+9/4/17,Hang Seng China AH Index Series,Inclusion,323 / 600808,0323.HK / 600808.SH,Maanshan Iron & Steel Co. Ltd.
+9/4/17,Hang Seng China AH Index Series,Inclusion,548 / 600548,0548.HK / 600548.SH,Shenzhen Expressway Co. Ltd.
+9/4/17,Hang Seng China AH Index Series,Inclusion,921 / 000921,0921.HK / 000921.SZ,Hisense Kelon Electrical Holdings Co. Ltd.
+9/4/17,Hang Seng China AH Index Series,Inclusion,991 / 601991,0991.HK / 601991.SH,"Datang International Power Generation Co., Ltd."
+9/4/17,Hang Seng China AH Index Series,Inclusion,1065 / 600874,1065.HK / 600874.SH,Tianjin Capital Environmental Protection Group Co. Ltd.
+9/4/17,Hang Seng China AH Index Series,Inclusion,1138 / 600026,1138.HK / 600026.SH,"COSCO SHIPPING Energy Transportation Co., Ltd."
+9/4/17,Hang Seng China AH Index Series,Inclusion,1812 / 000488,1812.HK / 000488.SZ,Shandong Chenming Paper Holdings Ltd.
+9/4/17,Hang Seng China AH Index Series,Inclusion,2039 / 000039,2039.HK / 000039.SZ,"China Int'l Marine Containers (Group) Co., Ltd."
+9/4/17,Hang Seng China AH Index Series,Inclusion,2238 / 601238,2238.HK / 601238.SH,"Guangzhou Automobile Group Co., Ltd."
+9/4/17,Hang Seng China AH Index Series,Inclusion,2611 / 601211,2611.HK / 601211.SH,"Guotai Junan Securities Co., Ltd."
+9/4/17,Hang Seng China AH Index Series,Inclusion,2883 / 601808,2883.HK / 601808.SH,China Oilfield Services Ltd.
+9/4/17,Hang Seng China AH Index Series,Inclusion,6881 / 601881,6881.HK / 601881.SH,"China Galaxy Securities Co., Ltd."
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,245,0245.HK,China Minsheng Financial Holding Corporation Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,297,0297.HK,Sinofert Holdings Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,933,0933.HK,Brightoil Petroleum (Holdings) Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,991,0991.HK,"Datang International Power Generation Co., Ltd. - H Shares"
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1230,1230.HK,Yashili International Holdings Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1387,1387.HK,Renhe Commercial Holdings Co. Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2298,2298.HK,Cosmo Lady (China) Holdings Co. Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2877,2877.HK,China Shineway Pharmaceutical Group Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,3308,3308.HK,Golden Eagle Retail Group Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Exclusion,3823,3823.HK,Tech Pro Technology Development Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,43,0043.HK,C. P. Pokphand Co. Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,136,0136.HK,HengTen Networks Group Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,698,0698.HK,Tongda Group Holdings Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1031,1031.HK,Kingston Financial Group Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1212,1212.HK,Lifestyle International Holdings Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1515,1515.HK,China Resources Phoenix Healthcare Holdings Co. Ltd.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2269,2269.HK,WuXi Biologics (Cayman) Inc.
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2611,2611.HK,"Guotai Junan Securities Co., Ltd. - H Shares"
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2799,2799.HK,"China Huarong Asset Management Co., Ltd. - H Shares"
+9/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3606,3606.HK,"Fuyao Glass Industry Group Co., Ltd. - H Shares"
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,000039,000039.SZ,"China International Marine Containers (Group) Co., Ltd."
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,000825,000825.SZ,"Shanxi Taigang Stainless Steel Co., Ltd."
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,363,0363.HK,Shanghai Industrial Holdings Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,552,0552.HK,China Communications Services Corporation Ltd. - H Shares
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,670,0670.HK,China Eastern Airlines Corporation Ltd. - H Shares
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,998,0998.HK,China CITIC Bank Corporation Ltd. - H Shares
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,1113,1113.HK,Cheung Kong Property Holdings Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,1333,1333.HK,China Zhongwang Holdings Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,1339,1339.HK,The People's Insurance Co. (Group) of China Ltd. - H Shares
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,1963,1963.HK,"Bank of Chongqing Co., Ltd. - H Shares"
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,1999,1999.HK,Man Wah Holdings Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,3898,3898.HK,"Zhuzhou CRRC Times Electric Co., Ltd. - H Shares"
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,600600,600600.SH,Tsingtao Brewery Co. Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,601818,601818.SH,China Everbright Bank Company Limited
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,6818,6818.HK,China Everbright Bank Co. Ltd. - H Shares
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,20,0020.HK,Wheelock and Co. Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,002202,002202.SZ,"Xinjiang Goldwind Science & Technology Co., Ltd."
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,323,0323.HK,Maanshan Iron & Steel Co. Ltd. - H Shares
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,347,0347.HK,Angang Steel Co. Ltd. - H Shares
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,480,0480.HK,HKR International Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,506,0506.HK,China Foods Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,778,0778.HK,Fortune Real Estate Investment Trust
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,991,0991.HK,"Datang International Power Generation Co., Ltd. - H Shares"
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1109,1109.HK,China Resources Land Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1316,1316.HK,Nexteer Automotive Group Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1347,1347.HK,Hua Hong Semiconductor Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,2208,2208.HK,"Xinjiang Goldwind Science & Technology Co., Ltd. - H Shares"
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,2238,2238.HK,"Guangzhou Automobile Group Co., Ltd. - H Shares"
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,3377,3377.HK,Sino-Ocean Group Holding Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,3800,3800.HK,GCL-Poly Energy Holdings Ltd.
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,601238,601238.SH,"Guangzhou Automobile Group Co., Ltd."
+9/4/17,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,601991,601991.SH,"Datang International Power Generation Co., Ltd."
+9/4/17,Hang Seng Corporate Sustainability Index,Exclusion,69,0069.HK,Shangri-La Asia Ltd.
+9/4/17,Hang Seng Corporate Sustainability Index,Inclusion,390,0390.HK,China Railway Group Ltd. - H Shares
+9/4/17,Hang Seng Index,Inclusion,288,0288.HK,WH Group Ltd. 65 Commerce & Industry
+12/4/17,Hang Seng China Enterprises Index,Exclusion,916,0916.HK,China Longyuan Power Group Corporation Ltd. - H Shares
+12/4/17,Hang Seng China Enterprises Index,Inclusion,2238,2238.HK,"Guangzhou Automobile Group Co., Ltd. - H Shares"
+12/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,6060,6060.HK,ZhongAn Online P & C Insurance
+12/4/17,Hang Seng Composite LargeCap & MidCap Index,Inclusion,6088,6088.HK,FIT Hong Teng Ltd. MidCap Information Technology
+12/4/17,Hang Seng Index,Exclusion,135,0135.HK,Kunlun Energy Co. Ltd.
+12/4/17,Hang Seng Index,Exclusion,293,0293.HK,Cathay Pacific Airways Ltd.
+12/4/17,Hang Seng Index,Inclusion,2007,2007.HK,Country Garden Holdings Co. Ltd.
+12/4/17,Hang Seng Index,Inclusion,2382,2382.HK,Sunny Optical Technology (Group) Co. Ltd.
+3/5/18,Hang Seng China 50 Index,Exclusion,000166,000166.SZ,"Shenwan Hongyuan Group Co., Ltd."
+3/5/18,Hang Seng China 50 Index,Exclusion,002736,002736.SZ,"Guosen Securities Co., Ltd."
+3/5/18,Hang Seng China 50 Index,Exclusion,1339,1339.HK,The People's Insurance Co. (Group) of China Ltd.
+3/5/18,Hang Seng China 50 Index,Exclusion,1776 / 000776,1776.HK / 000776.SZ,"GF Securities Co., Ltd."
+3/5/18,Hang Seng China 50 Index,Exclusion,601989,601989.SH,China Shipbuilding Industry Company Limited
+3/5/18,Hang Seng China 50 Index,Inclusion,002352,002352.SZ,"S.F. Holding Co., Ltd."
+3/5/18,Hang Seng China 50 Index,Inclusion,1336 / 601336,1336.HK / 601336.SH,New China Life Insurance Co. Ltd.
+3/5/18,Hang Seng China 50 Index,Inclusion,2007,2007.HK,Country Garden Holdings Co. Ltd.
+3/5/18,Hang Seng China 50 Index,Inclusion,3333,3333.HK,China Evergrande Group
+3/5/18,Hang Seng China 50 Index,Inclusion,600019,600019.SH,"Baoshan Iron & Steel Co., Ltd."
+3/5/18,Hang Seng China 50 Index,Inclusion,600050,600050.SH,China United Network Communications Limited
+3/5/18,Hang Seng China AH Index Series,Exclusion,548 / 600548,0548.HK / 600548.SH,Shenzhen Expressway Co. Ltd.
+3/5/18,Hang Seng China AH Index Series,Exclusion,1065 / 600874,1065.HK / 600874.SH,Tianjin Capital Environmental Protection Group Co. Ltd.
+3/5/18,Hang Seng China AH Index Series,Inclusion,1513 / 000513,1513.HK / 000513.SZ,Livzon Pharmaceutical Group Inc.
+3/5/18,Hang Seng China AH Index Series,Inclusion,3958 / 600958,3958.HK / 600958.SH,Orient Securities Company Limited
+3/5/18,Hang Seng China Enterprises Index,Exclusion,1186,1186.HK,China Railway Construction Corporation Ltd. - H Shares
+3/5/18,Hang Seng China Enterprises Index,Inclusion,267,0267.HK,CITIC Ltd.
+3/5/18,Hang Seng China Enterprises Index,Inclusion,270,0270.HK,Guangdong Investment Ltd.
+3/5/18,Hang Seng China Enterprises Index,Inclusion,384,0384.HK,China Gas Holdings Ltd.
+3/5/18,Hang Seng China Enterprises Index,Inclusion,700,0700.HK,Tencent Holdings Ltd.
+3/5/18,Hang Seng China Enterprises Index,Inclusion,883,0883.HK,CNOOC Ltd.
+3/5/18,Hang Seng China Enterprises Index,Inclusion,941,0941.HK,China Mobile Ltd.
+3/5/18,Hang Seng China Enterprises Index,Inclusion,1044,1044.HK,Hengan International Group Co. Ltd.
+3/5/18,Hang Seng China Enterprises Index,Inclusion,1093,1093.HK,CSPC Pharmaceutical Group Ltd.
+3/5/18,Hang Seng China Enterprises Index,Inclusion,1109,1109.HK,China Resources Land Ltd.
+3/5/18,Hang Seng China Enterprises Index,Inclusion,2313,2313.HK,Shenzhou International Group Holdings Ltd.
+3/5/18,Hang Seng China Enterprises Index,Inclusion,6060,6060.HK,"ZhongAn Online P & C Insurance Co., Ltd. - H Shares"
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,41,0041.HK,Great Eagle Holdings Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,787,0787.HK,Global Brands Group Holding Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,861,0861.HK,Digital China Holdings Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1031,1031.HK,Kingston Financial Group Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1315,1315.HK,Vision Fame International Holding Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2199,2199.HK,Regina Miracle International (Holdings) Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2329,2329.HK,Guorui Properties Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2888,2888.HK,Standard Chartered PLC
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,3331,3331.HK,Vinda International Holdings Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,3698,3698.HK,Huishang Bank Corporation Ltd. - H shares
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,45,0045.HK,"The Hongkong and Shanghai Hotels, Ltd."
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,87,0087.HK,Swire Pacific Ltd. 'B'
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,127,0127.HK,Chinese Estates Holdings Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,582,0582.HK,Landing International Development Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,754,0754.HK,Hopson Development Holdings Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,772,0772.HK,China Literature Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1030,1030.HK,Future Land Development Holdings Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1141,1141.HK,CMBC Capital Holdings Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1269,1269.HK,China First Capital Group Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1378,1378.HK,China Hongqiao Group Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1628,1628.HK,Yuzhou Properties Co. Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1638,1638.HK,Kaisa Group Holdings Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2196,2196.HK,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd. - H Shares"
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2232,2232.HK,Crystal International Group Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2858,2858.HK,Yixin Group Ltd.
+3/5/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3993,3993.HK,"China Molybdenum Co., Ltd. - H Shares"
+3/5/18,Hang Seng Index,Exclusion,4,0004.HK,The Wharf (Holdings) Ltd.
+6/4/18,Hang Seng China Enterprises Index,Exclusion,3898,3898.HK,"Zhuzhou CRRC Times Electric Co., Ltd. - H Shares"
+6/4/18,Hang Seng China Enterprises Index,Inclusion,2799,2799.HK,"China Huarong Asset Management Co., Ltd. - H Shares"
+6/4/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,6158,6158.HK,Zhenro Properties Group Limited MidCap Properties & Construction
+6/4/18,Hang Seng Index,Exclusion,992,0992.HK,Lenovo Group Ltd.
+6/4/18,Hang Seng Index,Inclusion,1093,1093.HK,CSPC Pharmaceutical Group Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Exclusion,000001,000001.SZ,"Ping An Bank Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Exclusion,000063,000063.SZ,ZTE Corporation
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Exclusion,002024,002024.SZ,"Suning.com Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Exclusion,600000,600000.SH,"Shanghai Pudong Development Bank Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Exclusion,600036,600036.SH,"China Merchants Bank Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Exclusion,600098,600098.SH,Guangzhou Development Group Incorporated
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Exclusion,600999,600999.SH,"China Merchants Securities Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Exclusion,601088,601088.SH,China Shenhua Energy Co. Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Exclusion,601166,601166.SH,"Industrial Bank Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Exclusion,601628,601628.SH,China Life Insurance Co. Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Exclusion,601939,601939.SH,China Construction Bank Corporation
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000898,000898.SZ,Angang Steel Co. Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,002594,002594.SZ,BYD Co. Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600027,600027.SH,Huadian Power International Corporation Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600115,600115.SH,China Eastern Airlines Corporation Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601288,601288.SH,Agricultural Bank of China Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601336,601336.SH,New China Life Insurance Co. Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601601,601601.SH,"China Pacific Insurance (Group) Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601618,601618.SH,Metallurgical Corporation of China Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601766,601766.SH,CRRC Corporation Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601800,601800.SH,China Communications Construction Co. Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601877,601877.SH,"Zhejiang CHINT Electrics Co.,Ltd"
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Exclusion,000001,000001.SZ,"Ping An Bank Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Exclusion,000063,000063.SZ,ZTE Corporation
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Exclusion,600000,600000.SH,"Shanghai Pudong Development Bank Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Exclusion,600036,600036.SH,"China Merchants Bank Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Exclusion,601628,601628.SH,China Life Insurance Co. Ltd.
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Exclusion,601939,601939.SH,China Construction Bank Corporation
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Inclusion,000002,000002.SZ,"China Vanke Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600019,600019.SH,"Baoshan Iron & Steel Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600196,600196.SH,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601238,601238.SH,"Guangzhou Automobile Group Co., Ltd."
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601877,601877.SH,"Zhejiang CHINT Electrics Co., Ltd"
+9/10/18,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601919,601919.SH,"COSCO Shipping Holdings Co., Ltd."
+9/10/18,Hang Seng China 50 Index,Exclusion,1186 / 601186,1186.HK / 601186.SH,China Railway Construction Corporation Ltd.
+9/10/18,Hang Seng China 50 Index,Exclusion,601229,601229.SH,"Bank of Shanghai Co., Ltd."
+9/10/18,Hang Seng China 50 Index,Exclusion,6837 / 600837,6837.HK / 600837.SH,"Haitong Securities Co., Ltd."
+9/10/18,Hang Seng China 50 Index,Inclusion,600276,600276.SH,"Jiangsu Hengrui Medicine Co., Ltd."
+9/10/18,Hang Seng China 50 Index,Inclusion,600887,600887.SH,"Inner Mongolia Yili Industrial Group Co., Ltd."
+9/10/18,Hang Seng China 50 Index,Inclusion,601138,601138.SH,"Foxconn Industrial Internet Co., Ltd."
+9/10/18,Hang Seng China A Industry Top Index,Exclusion,002241,002241.SZ,Goertek Inc.
+9/10/18,Hang Seng China A Industry Top Index,Exclusion,600027,600027.SH,Huadian Power International Corporation Ltd.
+9/10/18,Hang Seng China A Industry Top Index,Exclusion,600547,600547.SH,"Shandong Gold Mining Co., Ltd."
+9/10/18,Hang Seng China A Industry Top Index,Exclusion,600637,600637.SH,"Shanghai Oriental Pearl Group Co., Ltd."
+9/10/18,Hang Seng China A Industry Top Index,Exclusion,600704,600704.SH,"Wuchan Zhongda Group Co., Ltd."
+9/10/18,Hang Seng China A Industry Top Index,Exclusion,601633,601633.SH,Great Wall Motor Co. Ltd.
+9/10/18,Hang Seng China A Industry Top Index,Inclusion,000063,000063.SZ,ZTE Corporation
+9/10/18,Hang Seng China A Industry Top Index,Inclusion,000858,000858.SZ,"Wuliangye Yibin Co.,Ltd"
+9/10/18,Hang Seng China A Industry Top Index,Inclusion,601138,601138.SH,"Foxconn Industrial Internet Co., Ltd."
+9/10/18,Hang Seng China A Industry Top Index,Inclusion,601600,601600.SH,Aluminum Corporation of China Ltd.
+9/10/18,Hang Seng China A Industry Top Index,Inclusion,601985,601985.SH,"China National Nuclear Power Co., Ltd."
+9/10/18,Hang Seng China A Top 100 Index,Exclusion,000876,000876.SZ,"New Hope Liuhe Co., Ltd"
+9/10/18,Hang Seng China A Top 100 Index,Exclusion,600027,600027.SH,Huadian Power International Corporation Ltd.
+9/10/18,Hang Seng China A Top 100 Index,Exclusion,600170,600170.SH,"Shanghai Construction Group Co., Ltd."
+9/10/18,Hang Seng China A Top 100 Index,Exclusion,600958,600958.SH,Orient Securities Company Limited
+9/10/18,Hang Seng China A Top 100 Index,Exclusion,601117,601117.SH,"China National Chemical Engineering Co., Ltd."
+9/10/18,Hang Seng China A Top 100 Index,Inclusion,000063,000063.SZ,ZTE Corporation
+9/10/18,Hang Seng China A Top 100 Index,Inclusion,601138,601138.SH,"Foxconn Industrial Internet Co., Ltd."
+9/10/18,Hang Seng China A Top 100 Index,Inclusion,601225,601225.SH,Shaanxi Coal Industry Company Limited
+9/10/18,Hang Seng China A Top 100 Index,Inclusion,601727,601727.SH,Shanghai Electric Group Co. Ltd.
+9/10/18,Hang Seng China A Top 100 Index,Inclusion,601898,601898.SH,China Coal Energy Co. Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,43,0043.HK,C. P. Pokphand Co. Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,317,0317.HK,CSSC Offshore & Marine Engineering (Group) Co. Ltd. - H Shares
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,330,0330.HK,Esprit Holdings Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,400,0400.HK,Cogobuy Group
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,680,0680.HK,Nan Hai Corporation Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,732,0732.HK,Truly International Holdings Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,931,0931.HK,China LNG Group Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,996,0996.HK,Carnival Group International Holdings Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1117,1117.HK,China Modern Dairy Holdings Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1363,1363.HK,CT Environmental Group Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1432,1432.HK,China Shengmu Organic Milk Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1680,1680.HK,Macau Legend Development Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1970,1970.HK,"IMAX China Holding, Inc."
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2727,2727.HK,Shanghai Electric Group Co. Ltd. - H Shares
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,54,0054.HK,Hopewell Holdings Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,486,0486.HK,United Company RUSAL Plc - F
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,581,0581.HK,China Oriental Group Co. Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,839,0839.HK,China Education Group Holdings Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,973,0973.HK,L'Occitane International S.A. - F
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1233,1233.HK,Times China Holdings Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1337,1337.HK,Razer Inc. - F
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1548,1548.HK,Genscript Biotech Corporation
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1728,1728.HK,China ZhengTong Auto Services Holdings Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1833,1833.HK,Ping An Healthcare and Technology Co. Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1910,1910.HK,Samsonite International S.A. - F
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1913,1913.HK,Prada S.P.A. - F
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2638,2638.HK,HK Electric Investments and HK Electric Investments Ltd. - SS
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2768,2768.HK,Jiayuan International Group Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3669,3669.HK,China Yongda Automobiles Services Holdings Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3918,3918.HK,NagaCorp Ltd. - F
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,6098,6098.HK,Country Garden Services Holdings Co. Ltd.
+9/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,6823,6823.HK,HKT Trust and HKT Ltd. - SS
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,20,0020.HK,Wheelock and Co. Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,41,0041.HK,Great Eagle Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,66,0066.HK,MTR Corporation Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,200,0200.HK,Melco International Development Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,297,0297.HK,Sinofert Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,323,0323.HK,Maanshan Iron & Steel Co. Ltd. - H Shares
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,347,0347.HK,Angang Steel Co. Ltd. - H Shares
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,405,0405.HK,Yuexiu Real Estate Investment Trust
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,480,0480.HK,HKR International Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,606,0606.HK,China Agri-Industries Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,763,0763.HK,ZTE Corporation - H Shares
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,819,0819.HK,Tianneng Power International Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,939,0939.HK,China Construction Bank Corporation - H Shares
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,1088,1088.HK,China Shenhua Energy Co. Ltd. - H Shares
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,1308,1308.HK,SITC International Holdings Co. Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,2039,2039.HK,"China Int'l Marine Containers (Group) Co., Ltd. - H Shares"
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,2196,2196.HK,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd. - H Shares"
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,2282,2282.HK,MGM China Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,2331,2331.HK,Li Ning Co. Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,2342,2342.HK,Comba Telecom Systems Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,2628,2628.HK,China Life Insurance Co. Ltd. - H Shares
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,3328,3328.HK,"Bank of Communications Co., Ltd. - H Shares"
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,3331,3331.HK,Vinda International Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,3968,3968.HK,"China Merchants Bank Co., Ltd. - H Shares"
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,3988,3988.HK,Bank of China Ltd. - H Shares
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,10,0010.HK,Hang Lung Group Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,45,0045.HK,"The Hongkong and Shanghai Hotels, Ltd."
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,54,0054.HK,Hopewell Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,78,0078.HK,Regal Hotels International Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,87,0087.HK,Swire Pacific Ltd. 'B'
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,142,0142.HK,First Pacific Co. Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,163,0163.HK,Emperor International Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,173,0173.HK,K. Wah International Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,175,0175.HK,Geely Automobile Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,179,0179.HK,Johnson Electric Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,288,0288.HK,WH Group Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,345,0345.HK,Vitasoy International Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,517,0517.HK,"COSCO SHIPPING International (Hong Kong) Co., Ltd."
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,968,0968.HK,Xinyi Solar Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1112,1112.HK,Health and Happiness (H&H) International Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1138,1138.HK,"COSCO SHIPPING Energy Transportation Co., Ltd. - H Shares"
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1257,1257.HK,China Everbright Greentech Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1299,1299.HK,AIA Group Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1658,1658.HK,"Postal Savings Bank of China Co., Ltd. - H Shares"
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1686,1686.HK,SUNeVision Holdings Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,3320,3320.HK,China Resources Pharmaceutical Group Ltd.
+9/10/18,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,3618,3618.HK,"Chongqing Rural Commercial Bank Co., Ltd. - H Shares"
+9/10/18,Hang Seng Corporate Sustainability Index,Exclusion,66,0066.HK,MTR Corporation Ltd.
+9/10/18,Hang Seng Corporate Sustainability Index,Exclusion,390,0390.HK,China Railway Group Ltd. - H Shares
+9/10/18,Hang Seng Corporate Sustainability Index,Exclusion,494,0494.HK,Li & Fung Ltd.
+9/10/18,Hang Seng Corporate Sustainability Index,Exclusion,1398,1398.HK,Industrial and Commercial Bank of China Ltd. - H Shares
+9/10/18,Hang Seng Corporate Sustainability Index,Exclusion,3968,3968.HK,"China Merchants Bank Co., Ltd. - H Shares"
+9/10/18,Hang Seng Corporate Sustainability Index,Exclusion,3988,3988.HK,Bank of China Ltd. - H Shares
+9/10/18,Hang Seng Corporate Sustainability Index,Inclusion,69,0069.HK,Shangri-La Asia Ltd.
+9/10/18,Hang Seng Corporate Sustainability Index,Inclusion,87,0087.HK,Swire Pacific Ltd. 'B'
+9/10/18,Hang Seng Corporate Sustainability Index,Inclusion,316,0316.HK,Orient Overseas (International) Ltd.
+9/10/18,Hang Seng Corporate Sustainability Index,Inclusion,683,0683.HK,Kerry Properties Ltd.
+9/10/18,Hang Seng Corporate Sustainability Index,Inclusion,981,0981.HK,Semiconductor Manufacturing International Corporation
+9/10/18,Hang Seng Corporate Sustainability Index,Inclusion,1109,1109.HK,China Resources Land Ltd.
+9/10/18,Hang Seng Index,Exclusion,23,0023.HK,"The Bank of East Asia, Ltd."
+9/10/18,Hang Seng Index,Exclusion,144,0144.HK,China Merchants Port Holdings Co. Ltd.
+9/10/18,Hang Seng Index,Inclusion,1177,1177.HK,Sino Biopharmaceutical Ltd.
+9/10/18,Hang Seng Index,Inclusion,2313,2313.HK,Shenzhou International Group Holdings Ltd.
+9/10/18,Hang Seng Stock Connect China AH Index Series,Exclusion,317 / 600685,0317.HK / 600685.SH,CSSC Offshore & Marine Engineering (Group) Co. Ltd.
+9/10/18,Hang Seng Stock Connect China AH Index Series,Inclusion,1528 / 601828,1528.HK / 601828.SH,Red Star Macalline Group Corporation Ltd.
+12/10/18,Hang Seng China Enterprises Index,Exclusion,6881,6881.HK,"China Galaxy Securities Co., Ltd. - H Shares"
+12/10/18,Hang Seng China Enterprises Index,Inclusion,788,0788.HK,China Tower Corporation Ltd. - H Shares
+12/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,788,0788.HK,China Tower Corporation Ltd. - H Shares MidCap Telecommunications
+12/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2048,2048.HK,E-House (China) Enterprise Holdings Ltd. MidCap Properties & Construction
+12/10/18,Hang Seng Composite LargeCap & MidCap Index,Inclusion,6862,6862.HK,Haidilao International Holding Ltd. LargeCap Consumer Services
+3/11/19,Hang Seng China 50 Index,Exclusion,1336 / 601336,1336.HK / 601336.SH,"New China Life Insurance Co., Ltd."
+3/11/19,Hang Seng China 50 Index,Inclusion,601360,601360.SH,"360 Security Technology, Inc."
+3/11/19,Hang Seng China Enterprises Index,Exclusion,6060,6060.HK,"ZhongAn Online P & C Insurance Co., Ltd. - H Shares"
+3/11/19,Hang Seng China Enterprises Index,Inclusion,3323,3323.HK,China National Building Material Co. Ltd. - H Shares
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,54,0054.HK,Hopewell Holdings Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,242,0242.HK,Shun Tak Holdings Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,315,0315.HK,SmarTone Telecommunications Holdings Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,316,0316.HK,Orient Overseas (International) Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,439,0439.HK,KuangChi Science Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,698,0698.HK,Tongda Group Holdings Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,737,0737.HK,Hopewell Highway Infrastructure Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,751,0751.HK,Skyworth Digital Holdings Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,777,0777.HK,NetDragon Websoft Holdings Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,934,0934.HK,Sinopec Kantons Holdings Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1282,1282.HK,China Goldjoy Group Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1293,1293.HK,Grand Baoxin Auto Group Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1919,1919.HK,"COSCO SHIPPING Holdings Co., Ltd. - H Shares"
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2048,2048.HK,E-House (China) Enterprise Holdings Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,268,0268.HK,Kingdee International Software Group Co. Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,467,0467.HK,United Energy Group Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,612,0612.HK,China Ding Yi Feng Holdings Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,691,0691.HK,China Shanshui Cement Group Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,780,0780.HK,Tongcheng-Elong Holdings Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1992,1992.HK,Fosun Tourism Group
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2005,2005.HK,SSY Group Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2331,2331.HK,Li Ning Co. Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2869,2869.HK,Greentown Service Group Co. Ltd.
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2888,2888.HK,Standard Chartered PLC
+3/11/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3633,3633.HK,Zhongyu Gas Holdings Ltd.
+3/11/19,Hang Seng Index,Exclusion,836,0836.HK,China Resources Power Holdings Co. Ltd.
+3/11/19,Hang Seng Index,Inclusion,669,0669.HK,Techtronic Industries Co. Ltd.
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,525 / 601333,0525.HK / 601333.SH,Guangshen Railway Co. Ltd.
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,921 / 000921,0921.HK / 000921.SZ,"Hisense Home Appliances Group Co., Ltd."
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,991 / 601991,0991.HK / 601991.SH,"Datang International Power Generation Co., Ltd."
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,1157 / 000157,1157.HK / 000157.SZ,"Zoomlion Heavy Industry Science and Technology Co., Ltd"
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,1528 / 601828,1528.HK / 601828.SH,Red Star Macalline Group Corporation Ltd.
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,1618 / 601618,1618.HK / 601618.SH,Metallurgical Corporation of China Ltd.
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,1812 / 000488,1812.HK / 000488.SZ,Shandong Chenming Paper Holdings Ltd.
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,2611 / 601211,2611.HK / 601211.SH,"Guotai Junan Securities Co., Ltd."
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,2727 / 601727,2727.HK / 601727.SH,Shanghai Electric Group Co. Ltd.
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,2866 / 601866,2866.HK / 601866.SH,"COSCO SHIPPING Development Co., Ltd."
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,3958 / 600958,3958.HK / 600958.SH,Orient Securities Co. Ltd.
+3/11/19,Hang Seng Stock Connect China AH Index Series,Exclusion,6099 / 600999,6099.HK / 600999.SH,"China Merchants Securities Co., Ltd."
+3/11/19,Hang Seng Stock Connect China AH Index Series,Inclusion,1339 / 601319,1339.HK / 601319.SH,The People's Insurance Co. (Group) of China Ltd.
+3/11/19,Hang Seng Stock Connect China AH Index Series,Inclusion,1772 / 002460,1772.HK / 002460.SZ,"Ganfeng Lithium Co., Ltd."
+3/11/19,Hang Seng Stock Connect China AH Index Series,Inclusion,1787 / 600547,1787.HK / 600547.SH,"Shandong Gold Mining Co., Ltd."
+3/11/19,Hang Seng Stock Connect China AH Index Series,Inclusion,2359 / 603259,2359.HK / 603259.SH,"WuXi AppTec Co., Ltd."
+3/11/19,Hang Seng Stock Connect China AH Index Series,Inclusion,6869 / 601869,6869.HK / 601869.SH,Yangtze Optical Fibre and Cable Joint Stock Ltd. Co.
+6/17/19,Hang Seng China Enterprises Index,Exclusion,753,0753.HK,Air China Ltd. - H Shares
+6/17/19,Hang Seng China Enterprises Index,Exclusion,902,0902.HK,"Huaneng Power International, Inc. - H Shares"
+6/17/19,Hang Seng China Enterprises Index,Exclusion,1776,1776.HK,"GF Securities Co., Ltd. - H Shares"
+6/17/19,Hang Seng China Enterprises Index,Exclusion,1816,1816.HK,"CGN Power Co., Ltd. - H Shares"
+6/17/19,Hang Seng China Enterprises Index,Exclusion,2333,2333.HK,Great Wall Motor Co. Ltd. - H Shares
+6/17/19,Hang Seng China Enterprises Index,Inclusion,291,0291.HK,China Resources Beer (Holdings) Co. Ltd.
+6/17/19,Hang Seng China Enterprises Index,Inclusion,960,0960.HK,Longfor Group Holdings Ltd.
+6/17/19,Hang Seng China Enterprises Index,Inclusion,2007,2007.HK,Country Garden Holdings Co. Ltd.
+6/17/19,Hang Seng China Enterprises Index,Inclusion,2020,2020.HK,ANTA Sports Products Ltd.
+6/17/19,Hang Seng China Enterprises Index,Inclusion,2688,2688.HK,ENN Energy Holdings Ltd.
+6/17/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1896,1896.HK,Maoyan Entertainment MidCap Consumer Services
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000001,000001.SZ,PAB
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000021,000021.SZ,KAIFA
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000035,000035.SZ,CHINA TIANYING
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000039,000039.SZ,CIMC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000046,000046.SZ,OCEANWIDE HOLDINGS
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000050,000050.SZ,TIANMA
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000063,000063.SZ,ZTE
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000066,000066.SZ,CGT GROUP
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000100,000100.SZ,TCL
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000513,000513.SZ,LIVZON GROUP
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000528,000528.SZ,LIUGONG
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000540,000540.SZ,ZHONGTIAN
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000546,000546.SZ,JYC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000825,000825.SZ,STSS
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,000997,000997.SZ,NEWLAND
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,001979,001979.SZ,CMSK
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,002078,002078.SZ,SUN PAPER
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,002179,002179.SZ,JONHON
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,002249,002249.SZ,DYDJ
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,002371,002371.SZ,SEVENSTAR
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,002407,002407.SZ,DFD
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,002415,002415.SZ,HIKVISION
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,002601,002601.SZ,BLL
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,002815,002815.SZ,SUNTAK
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,002916,002916.SZ,SCC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,300124,300124.SZ,INOVANCE
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,300274,300274.SZ,SUNGROW POWER
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,300398,300398.SZ,PHICHEM
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,300750,300750.SZ,CATL
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600011,600011.SH,HPI
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600012,600012.SH,ANHUI EXPRESSWAY
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600018,600018.SH,SIPG
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600020,600020.SH,ZHONGYUAN EXPRESSWAY
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600025,600025.SH,HUANENG HYDROPOWER
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600026,600026.SH,CSET
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600114,600114.SH,NBTM
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600171,600171.SH,BELLING
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600183,600183.SH,SYTECH
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600188,600188.SH,YANZHOUCOAL
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600216,600216.SH,ZMC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600271,600271.SH,AISINO CORPORATION
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600282,600282.SH,NISCO
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600323,600323.SH,GRANDBLUE ENV
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600332,600332.SH,GYBYS
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600337,600337.SH,MIHF
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600377,600377.SH,JIANGSU EXPRESS
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600380,600380.SH,JOINCARE
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600525,600525.SH,CYG
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600565,600565.SH,DIMA
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600580,600580.SH,WOLONG ELECTRIC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600588,600588.SH,YONYOU
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600600,600600.SH,TSINGTAO BREWERY
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600648,600648.SH,WGQ
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600750,600750.SH,JZYY
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600775,600775.SH,NPEC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600808,600808.SH,MAS C.L.
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600860,600860.SH,JINGCHENG MAC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600871,600871.SH,SSC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600874,600874.SH,TCEPC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600875,600875.SH,DEC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,600958,600958.SH,ORIENT SECURITIES
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601012,601012.SH,LONGI
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601066,601066.SH,CHINA SECURITIES
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601088,601088.SH,CHINA SHENHUA
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601138,601138.SH,FOXCONN INDUSTRIAL
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601166,601166.SH,INDUSTRIAL BANK
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601186,601186.SH,CRCC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601200,601200.SH,SHANGHAI ENVIRONMENT
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601211,601211.SH,GTJA
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601231,601231.SH,USISH
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601326,601326.SH,QINHUANGDAO PORT
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601330,601330.SH,DYNAGREEN
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601600,601600.SH,CHALCO
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601607,601607.SH,SHANGHAI PHARMA
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601688,601688.SH,HTSC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601717,601717.SH,ZMJ
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601788,601788.SH,EBSCN
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601811,601811.SH,XINHUA WINSHARE
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601818,601818.SH,CEB BANK
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601828,601828.SH,MACALLINE
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601866,601866.SH,COSCO SHIP DEV
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601881,601881.SH,CHINA GALAXY
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601888,601888.SH,CITS
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601899,601899.SH,ZIJIN MINING
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601939,601939.SH,CCB
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,601992,601992.SH,BBMG
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,603019,603019.SH,SUGON
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,603337,603337.SH,JACK
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,603588,603588.SH,BGE
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,603595,603595.SH,TONY ELECTRONIC
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,603659,603659.SH,PUTAILAI
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,603680,603680.SH,KTK GROUP
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,603737,603737.SH,SKSHU
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,603773,603773.SH,WG TECH
+9/9/19,Hang Seng (China A) Corporate Sustainability Benchmark Index,Inclusion,603993,603993.SH,CMOC
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Exclusion,601328,601328.SH,"Bank of Communications Co., Ltd."
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Exclusion,601398,601398.SH,Industrial and Commercial Bank of China Limited
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,000063,000063.SZ,ZTE Corporation
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,000100,000100.SZ,TCL Corporation
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,000825,000825.SZ,"Shanxi Taigang Stainless Steel Co., Ltd"
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,002202,002202.SZ,"Xinjiang Goldwind Science & Technology Co., Ltd"
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,002415,002415.SZ,"Hangzhou Hikvision Digital Technology Co., Ltd."
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,002916,002916.SZ,"Shennan Circuits Co., Ltd."
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,300750,300750.SZ,"Contemporary Amperex Technology Co., Limited"
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600089,600089.SH,"TBEA Co., Ltd."
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600115,600115.SH,China Eastern Airlines Corporation Limited
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600377,600377.SH,Jiangsu Expressway Company Limited
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600600,600600.SH,Tsingtao Brewery Company Limited
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601138,601138.SH,"Foxconn Industrial Internet Co., Ltd."
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601601,601601.SH,"China Pacific Insurance (Group) Co., Ltd."
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601607,601607.SH,"Shanghai Pharmaceuticals Holding Co., Ltd"
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601618,601618.SH,Metallurgical Corporation of China Ltd.
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601808,601808.SH,China Oilfield Services Limited
+9/9/19,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601991,601991.SH,"Datang International Power Generation Co., Ltd."
+9/9/19,Hang Seng China 50 Index,Exclusion,2611 / 601211,2611.HK / 601211.SH,"Guotai Junan Securities Co., Ltd."
+9/9/19,Hang Seng China 50 Index,Exclusion,600018,600018.SH,"Shanghai International Port (Group) Co., Ltd"
+9/9/19,Hang Seng China 50 Index,Inclusion,788,0788.HK,China Tower Corporation Ltd.
+9/9/19,Hang Seng China 50 Index,Inclusion,1339 / 601319,1339.HK / 601319.SH,The People's Insurance Co. (Group) of China Ltd.
+9/9/19,Hang Seng China A Industry Top Index,Exclusion,000063,000063.SZ,ZTE Corporation
+9/9/19,Hang Seng China A Industry Top Index,Exclusion,002027,002027.SZ,"Focus Media Information Technology Co., Ltd."
+9/9/19,Hang Seng China A Industry Top Index,Exclusion,600029,600029.SH,China Southern Airlines Company Limited
+9/9/19,Hang Seng China A Industry Top Index,Exclusion,600115,600115.SH,China Eastern Airlines Corporation Limited
+9/9/19,Hang Seng China A Industry Top Index,Exclusion,601018,601018.SH,Ningbo Zhoushan Port Company Limited
+9/9/19,Hang Seng China A Industry Top Index,Exclusion,601600,601600.SH,Aluminum Corporation of China Limited
+9/9/19,Hang Seng China A Industry Top Index,Inclusion,000338,000338.SZ,"Weichai Power Co., Ltd."
+9/9/19,Hang Seng China A Industry Top Index,Inclusion,000538,000538.SZ,"Yunnan Baiyao Group Co., Ltd."
+9/9/19,Hang Seng China A Industry Top Index,Inclusion,002304,002304.SZ,"Jiangsu Yanghe Brewery Joint-Stock Co., Ltd."
+9/9/19,Hang Seng China A Industry Top Index,Inclusion,300498,300498.SZ,"Wens Foodstuff Group Co., Ltd."
+9/9/19,Hang Seng China A Industry Top Index,Inclusion,300760,300760.SZ,"Shenzhen Mindray Bio-Medical Electronics Co., Ltd."
+9/9/19,Hang Seng China A Industry Top Index,Inclusion,600196,600196.SH,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd."
+9/9/19,Hang Seng China A Industry Top Index,Inclusion,600276,600276.SH,"Jiangsu Hengrui Medicine Co., Ltd."
+9/9/19,Hang Seng China A Industry Top Index,Inclusion,600887,600887.SH,"Inner Mongolia Yili Industrial Group Co., Ltd."
+9/9/19,Hang Seng China A Industry Top Index,Inclusion,601360,601360.SH,360 Security Technology Inc.
+9/9/19,Hang Seng China A Industry Top Index,Inclusion,601607,601607.SH,"Shanghai Pharmaceuticals Holding Co., Ltd"
+9/9/19,Hang Seng China A Industry Top Index,Inclusion,603993,603993.SH,"China Molybdenum Co., Ltd."
+9/9/19,Hang Seng China A Top 100 Index,Exclusion,000063,000063.SZ,ZTE Corporation
+9/9/19,Hang Seng China A Top 100 Index,Exclusion,000625,000625.SZ,Chongqing Changan Automobile Company Limited
+9/9/19,Hang Seng China A Top 100 Index,Exclusion,600068,600068.SH,China Gezhouba Group Company Limited
+9/9/19,Hang Seng China A Top 100 Index,Exclusion,600221,600221.SH,"Hainan Airlines Holding Co., Ltd."
+9/9/19,Hang Seng China A Top 100 Index,Exclusion,601018,601018.SH,Ningbo Zhoushan Port Company Limited
+9/9/19,Hang Seng China A Top 100 Index,Exclusion,601600,601600.SH,Aluminum Corporation of China Limited
+9/9/19,Hang Seng China A Top 100 Index,Exclusion,601881,601881.SH,"China Galaxy Securities Co.,Ltd."
+9/9/19,Hang Seng China A Top 100 Index,Exclusion,601992,601992.SH,BBMG Corporation
+9/9/19,Hang Seng China A Top 100 Index,Inclusion,300498,300498.SZ,"Wens Foodstuff Group Co., Ltd."
+9/9/19,Hang Seng China A Top 100 Index,Inclusion,300750,300750.SZ,"Contemporary Amperex Technology Co., Limited"
+9/9/19,Hang Seng China A Top 100 Index,Inclusion,600031,600031.SH,"Sany Heavy Industry Co., Ltd."
+9/9/19,Hang Seng China A Top 100 Index,Inclusion,600346,600346.SH,"Hengli Petrochemical Co., Ltd."
+9/9/19,Hang Seng China A Top 100 Index,Inclusion,600406,600406.SH,"NARI Technology Co., Ltd."
+9/9/19,Hang Seng China A Top 100 Index,Inclusion,601155,601155.SH,"Seazen Holdings Co., Ltd"
+9/9/19,Hang Seng China A Top 100 Index,Inclusion,601319,601319.SH,The People's Insurance Company (Group) of China Limited
+9/9/19,Hang Seng China A Top 100 Index,Inclusion,601888,601888.SH,China International Travel Service Corporation Limited
+9/9/19,Hang Seng China Enterprises Index,Exclusion,489,0489.HK,Dongfeng Motor Group Co. Ltd. - H Shares
+9/9/19,Hang Seng China Enterprises Index,Exclusion,1359,1359.HK,"China Cinda Asset Management Co., Ltd. - H Shares"
+9/9/19,Hang Seng China Enterprises Index,Exclusion,2238,2238.HK,"Guangzhou Automobile Group Co., Ltd. - H Shares"
+9/9/19,Hang Seng China Enterprises Index,Exclusion,2799,2799.HK,"China Huarong Asset Management Co., Ltd. - H Shares"
+9/9/19,Hang Seng China Enterprises Index,Exclusion,6886,6886.HK,"Huatai Securities Co., Ltd. - H Shares"
+9/9/19,Hang Seng China Enterprises Index,Inclusion,151,0151.HK,Want Want China Holdings Ltd.
+9/9/19,Hang Seng China Enterprises Index,Inclusion,175,0175.HK,Geely Automobile Holdings Ltd.
+9/9/19,Hang Seng China Enterprises Index,Inclusion,656,0656.HK,Fosun International Ltd.
+9/9/19,Hang Seng China Enterprises Index,Inclusion,966,0966.HK,China Taiping Insurance Holdings Co. Ltd.
+9/9/19,Hang Seng China Enterprises Index,Inclusion,1918,1918.HK,Sunac China Holdings Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,45,0045.HK,"The Hongkong and Shanghai Hotels, Ltd."
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,127,0127.HK,Chinese Estates Holdings Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,511,0511.HK,Television Broadcasts Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,582,0582.HK,Landing International Development Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,691,0691.HK,China Shanshui Cement Group Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1141,1141.HK,CMBC Capital Holdings Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1515,1515.HK,China Resources Medical Holdings Co. Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,1992,1992.HK,Fosun Tourism Group
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2038,2038.HK,FIH Mobile Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2356,2356.HK,Dah Sing Banking Group Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,2888,2888.HK,Standard Chartered PLC
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Exclusion,6099,6099.HK,"China Merchants Securities Co., Ltd. - H Shares"
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,667,0667.HK,China East Education Holdings Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1579,1579.HK,Yihai International Holding Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1717,1717.HK,Ausnutria Dairy Corporation Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1951,1951.HK,Jinxin Fertility Group Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3301,3301.HK,Ronshine China Holdings Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3692,3692.HK,Hansoh Pharmaceutical Group Co. Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3883,3883.HK,China Aoyuan Group Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3990,3990.HK,Midea Real Estate Holding Ltd.
+9/9/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,3998,3998.HK,Bosideng International Holdings Ltd.
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,45,0045.HK,HK&S HOTELS
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,163,0163.HK,EMPEROR INT'L
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,168,0168.HK,TSINGTAO BREW
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,215,0215.HK,HUTCHTEL HK
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,288,0288.HK,WH GROUP
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,316,0316.HK,OOIL
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,330,0330.HK,ESPRIT HOLDINGS
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,517,0517.HK,COSCO SHIP INTL
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,737,0737.HK,BAY AREA DEV
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,787,0787.HK,GLOBAL BRANDS
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,1199,1199.HK,COSCO SHIP PORT
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Exclusion,1208,1208.HK,MMG
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,20,0020.HK,WHEELOCK
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,52,0052.HK,FAIRWOOD HOLD
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,123,0123.HK,YUEXIU PROPERTY
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,586,0586.HK,CONCH VENTURE
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,808,0808.HK,PROSPERITY REIT
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1070,1070.HK,TCL ELECTRONICS
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1099,1099.HK,SINOPHARM
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,1333,1333.HK,CHINA ZHONGWANG
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,3396,3396.HK,LEGENDHOLDING
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,3883,3883.HK,CHINA AOYUAN
+9/9/19,Hang Seng Corporate Sustainability Benchmark Index,Inclusion,3988,3988.HK,BANK OF CHINA
+9/9/19,Hang Seng Corporate Sustainability Index,Exclusion,316,0316.HK,Orient Overseas (International) Ltd.
+9/9/19,Hang Seng Corporate Sustainability Index,Exclusion,941,0941.HK,China Mobile Ltd.
+9/9/19,Hang Seng Corporate Sustainability Index,Inclusion,345,0345.HK,Vitasoy International Holdings Ltd.
+9/9/19,Hang Seng Corporate Sustainability Index,Inclusion,1299,1299.HK,AIA Group Ltd.
+9/9/19,Hang Seng Stock Connect China AH Index Series,Exclusion,1772 / 002460,1772.HK / 002460.SZ,"Ganfeng Lithium Co., Ltd."
+9/9/19,Hang Seng Stock Connect China AH Index Series,Inclusion,548 / 600548,0548.HK / 600548.SH,Shenzhen Expressway Co. Ltd.
+9/9/19,Hang Seng Stock Connect China AH Index Series,Inclusion,598 / 601598,0598.HK / 601598.SH,Sinotrans Ltd.
+9/9/19,Hang Seng Stock Connect China AH Index Series,Inclusion,921 / 000921,0921.HK / 000921.SZ,"Hisense Home Appliances Group Co., Ltd."
+9/9/19,Hang Seng Stock Connect China AH Index Series,Inclusion,1157 / 000157,1157.HK / 000157.SZ,Zoomlion Heavy Industry Science and Technology Co.
+9/9/19,Hang Seng Stock Connect China AH Index Series,Inclusion,1528 / 601828,1528.HK / 601828.SH,Red Star Macalline Group Corporation Ltd.
+9/9/19,Hang Seng Stock Connect China AH Index Series,Inclusion,2611 / 601211,2611.HK / 601211.SH,"Guotai Junan Securities Co., Ltd."
+9/9/19,Hang Seng Stock Connect China AH Index Series,Inclusion,3958 / 600958,3958.HK / 600958.SH,Orient Securities Company Limited
+9/9/19,Hang Seng Stock Connect China AH Index Series,Inclusion,6066 / 601066,6066.HK / 601066.SH,"CSC Financial Co., Ltd."
+9/9/19,Hang Seng Stock Connect China AH Index Series,Inclusion,6178 / 601788,6178.HK / 601788.SH,Everbright Securities Co. Ltd.
+9/9/19,Hang Seng Stock Connect China AH Index Series,Inclusion,6806 / 000166,6806.HK / 000166.SZ,"Shenwan Hongyuan Group Co., Ltd."
+9/9/19,Hang Seng Stock Connect China AH Index Series,Inclusion,6865 / 601865,6865.HK / 601865.SH,"Flat Glass Group Co., Ltd."
+12/9/19,Hang Seng China Enterprises Index,Exclusion,390,0390.HK,China Railway Group Ltd. - H Shares
+12/9/19,Hang Seng China Enterprises Index,Exclusion,3323,3323.HK,China National Building Material Co. Ltd. - H Shares
+12/9/19,Hang Seng China Enterprises Index,Inclusion,1177,1177.HK,Sino Biopharmaceutical Ltd.
+12/9/19,Hang Seng China Enterprises Index,Inclusion,1193,1193.HK,China Resources Gas Group Ltd.
+12/9/19,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2772,2772.HK,Zhongliang Holdings Group Co. Ltd. MidCap Properties & Construction
+3/9/20,Hang Seng China 50 Index,Inclusion,914,0914.HK,Anhui Conch Cement Co. Ltd.
+3/9/20,Hang Seng China 50 Index,Inclusion,1109,1109.HK,China Resources Land Ltd.
+3/9/20,Hang Seng China 50 Index,Inclusion,603288,603288.SH,Foshan Haitian Flavouring and Food Company Ltd.
+3/9/20,Hang Seng China 50 Index,Removal,600010,600010.SH,"Baoshan Iron & Steel Co., Ltd."
+3/9/20,Hang Seng China 50 Index,Removal,601360,601360.SH,360 Security Technology Inc.
+3/9/20,Hang Seng China 50 Index,Removal,601390,601390.SH,China Railway Group Ltd.
+3/9/20,Hang Seng China Enterprises Index,Inclusion,586,0586.HK,China Conch Venture Holdings Ltd.
+3/9/20,Hang Seng China Enterprises Index,Inclusion,2382,2382.HK,Sunny Optical Technology (Group) Co. Ltd.
+3/9/20,Hang Seng China Enterprises Index,Removal,1339,1339.HK,The People's Insurance Co. (Group) of China Ltd. - H Shares
+3/9/20,Hang Seng China Enterprises Index,Removal,1766,1766.HK,CRRC Corporation Ltd. - H Shares
+3/9/20,Hang Seng Composite Index,Inclusion,116,0116.HK,Chow Sang Sang Holdings International Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,120,0120.HK,Cosmopolitan International Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,302,0302.HK,CMGE Technology Group Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,697,0697.HK,Shougang Concord International Enterprises Co. Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,826,0826.HK,Tiangong International Co. Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,1268,1268.HK,China MeiDong Auto Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,1282,1282.HK,Glory Sun Financial Group Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,1286,1286.HK,Impro Precision Industries Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,1691,1691.HK,JS Global Lifestyle Co. Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,1789,1789.HK,AK Medical Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,1836,1836.HK,Stella International Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,1873,1873.HK,Viva Biotech Holdings
+3/9/20,Hang Seng Composite Index,Inclusion,1881,1881.HK,Regal Real Estate Investment Trust
+3/9/20,Hang Seng Composite Index,Inclusion,2048,2048.HK,E-House (China) Enterprise Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,2103,2103.HK,Sinic Holdings (Group) Co. Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,2400,2400.HK,XD Inc.
+3/9/20,Hang Seng Composite Index,Inclusion,3319,3319.HK,"A-Living Services Co., Ltd. - H Shares"
+3/9/20,Hang Seng Composite Index,Inclusion,3331,3331.HK,Vinda International Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,6049,6049.HK,"Poly Property Development Co., Ltd. - H Shares"
+3/9/20,Hang Seng Composite Index,Inclusion,6069,6069.HK,Sheng Ye Capital Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,6110,6110.HK,Topsports International Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Inclusion,6186,6186.HK,China Feihe Ltd.
+3/9/20,Hang Seng Composite Index,Removal,52,0052.HK,Fairwood Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Removal,321,0321.HK,Texwinca Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Removal,400,0400.HK,Cogobuy Group
+3/9/20,Hang Seng Composite Index,Removal,439,0439.HK,KuangChi Science Ltd.
+3/9/20,Hang Seng Composite Index,Removal,508,0508.HK,Dingyi Group Investment Ltd.
+3/9/20,Hang Seng Composite Index,Removal,511,0511.HK,Television Broadcasts Ltd.
+3/9/20,Hang Seng Composite Index,Removal,512,0512.HK,China Grand Pharmaceutical and Healthcare Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Removal,579,0579.HK,"Beijing Jingneng Clean Energy Co., Ltd. - H Shares"
+3/9/20,Hang Seng Composite Index,Removal,699,0699.HK,CAR Inc.
+3/9/20,Hang Seng Composite Index,Removal,860,0860.HK,WE Solutions Ltd.
+3/9/20,Hang Seng Composite Index,Removal,931,0931.HK,China LNG Group Ltd.
+3/9/20,Hang Seng Composite Index,Removal,950,0950.HK,Lee's Pharmaceutical Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Removal,951,0951.HK,Chaowei Power Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Removal,1086,1086.HK,Goodbaby International Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Removal,1361,1361.HK,361 Degrees International Ltd.
+3/9/20,Hang Seng Composite Index,Removal,1680,1680.HK,Macau Legend Development Ltd.
+3/9/20,Hang Seng Composite Index,Removal,1916,1916.HK,"Jiangxi Bank Co., Ltd. - H Shares"
+3/9/20,Hang Seng Composite Index,Removal,1980,1980.HK,Tian Ge Interactive Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Removal,2099,2099.HK,China Gold International Resources Corp. Ltd.
+3/9/20,Hang Seng Composite Index,Removal,2232,2232.HK,Crystal International Group Ltd.
+3/9/20,Hang Seng Composite Index,Removal,2866,2866.HK,"COSCO SHIPPING Development Co., Ltd. - H Shares"
+3/9/20,Hang Seng Composite Index,Removal,3329,3329.HK,BOCOM International Holdings Co. Ltd.
+3/9/20,Hang Seng Composite Index,Removal,6100,6100.HK,"Wise Talent Information Technology Co., Ltd."
+3/9/20,Hang Seng Composite Index,Removal,6828,6828.HK,Beijing Gas Blue Sky Holdings Ltd.
+3/9/20,Hang Seng Composite Index,Removal,6889,6889.HK,"DYNAM JAPAN HOLDINGS Co., Ltd."
+3/9/20,Hang Seng Composite Index,Removal,87001,87001.HK,Hui Xian Real Estate Investment Trust
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,555,000555.SZ,Digital China Information Service Company Ltd.
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,967,000967.SZ,Infore Environment Technology Group Co. Ltd.
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,300602,300602.SZ,"Shenzhen FRD Science & Technology Co., Ltd"
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,300770,300770.SZ,"Guangdong South New Media Co., Ltd"
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,3319,3319.HK,"A-Living Services Co., Ltd."
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,3331,3331.HK,Vinda International Holdings Ltd.
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,603983,603983.SH,"Guangdong Marubi Biotechnology Co., Ltd"
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,6049,6049.HK,"Poly Property Development Co., Ltd."
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,6055,6055.HK,China Tobacco International (HK) Co. Ltd.
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,8,000008.SZ,"China High Speed Railway Technology Co., Ltd."
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,36,000036.SZ,China Union Holdings Ltd.
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2016,002016.SZ,"Guangdong Shirongzhaoye Co., Ltd."
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,178,0178.HK,Sa Sa International Holdings Ltd.
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,511,0511.HK,Television Broadcasts Ltd.
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,751,0751.HK,Skyworth Group Ltd.
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,3933,3933.HK,The United Laboratories International Holdings Ltd.
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,600499,600499.SH,"Keda Clean Energy Co., Ltd."
+3/9/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,603898,603898.SH,"Guangzhou Holike Creative Home Co., Ltd"
+6/8/20,Hang Seng China Enterprises Index,Inclusion,762,0762.HK,China Unicom (Hong Kong) Ltd.
+6/8/20,Hang Seng China Enterprises Index,Inclusion,813,0813.HK,Shimao Property Holdings Ltd.
+6/8/20,Hang Seng China Enterprises Index,Inclusion,2319,2319.HK,China Mengniu Dairy Co Ltd.
+6/8/20,Hang Seng China Enterprises Index,Removal,1336,1336.HK,New China Life Insurance Co Ltd. - H Shares
+6/8/20,Hang Seng China Enterprises Index,Removal,1800,1800.HK,China Communications Construction Co Ltd. - H Shares
+6/8/20,Hang Seng China Enterprises Index,Removal,6837,6837.HK,Haitong Securities Co Ltd. - H Shares
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Inclusion,2371,002371.SZ,"NAURA Technology Group Co.,Ltd."
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Inclusion,2594,002594.SZ,BYD Company Limited
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Inclusion,300124,300124.SZ,"Shenzhen Inovance Technology Co., Ltd"
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600028,600028.SH,China Petroleum & Chemical Corporation
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600183,600183.SH,"Shengyi Technology Co.,Ltd."
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601231,601231.SH,"Universal Scientific Industrial(Shanghai)Co., Ltd."
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601727,601727.SH,Shanghai Electric Group Company Limited
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Inclusion,603019,603019.SH,"Dawning Information Industry Co.,Ltd"
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Removal,825,000825.SZ,"Shanxi Taigang Stainless Steel Co.,Ltd"
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Removal,2415,002415.SZ,"Hangzhou Hikvision Digital Technology Co.,Ltd."
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Removal,2916,002916.SZ,"Shennan Circuits Co., Ltd."
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Removal,600089,600089.SH,"TBEA Co.,Ltd."
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Removal,601601,601601.SH,"China Pacific Insurance (Group) Co., Ltd."
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Removal,601607,601607.SH,"Shanghai Pharmaceuticals Holding Co.,Ltd"
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Removal,601618,601618.SH,Metallurgical Corporation of China Ltd.
+9/7/20,Hang Seng (China A) Corporate Sustainability Index,Removal,601991,601991.SH,"Datang International Power Generation Co.,Ltd."
+9/7/20,Hang Seng China 50 Index,Inclusion,300760,300760.SZ,"Shenzhen Mindray Bio-Medical Electronics Co., Ltd."
+9/7/20,Hang Seng China 50 Index,Inclusion,3690,3690.HK,Meituan Dianping - W
+9/7/20,Hang Seng China 50 Index,Inclusion,601816,601816.SH,"Beijing-Shanghai High Speed Railway Co.,Ltd."
+9/7/20,Hang Seng China 50 Index,Inclusion,9988,9988.HK,Alibaba Group Holding Ltd. - SW
+9/7/20,Hang Seng China 50 Index,Removal,762,0762.HK,China Unicom (Hong Kong) Ltd.
+9/7/20,Hang Seng China 50 Index,Removal,1800,1800.HK,China Communications Construction Company Limited
+9/7/20,Hang Seng China 50 Index,Removal,2328,2328.HK,PICC Property and Casualty Co. Ltd. - H Shares
+9/7/20,Hang Seng China 50 Index,Removal,600050,600050.SH,China United Network Communications Limited
+9/7/20,Hang Seng China 50 Index,Removal,600887,600887.SH,"Inner Mongolia Yili Industrial Group Co.,Ltd."
+9/7/20,Hang Seng China A Industry Top Index,Inclusion,3816,003816.SZ,"CGN Power Co.,Ltd."
+9/7/20,Hang Seng China A Industry Top Index,Inclusion,600031,600031.SH,"Sany Heavy Industry Co.,Ltd."
+9/7/20,Hang Seng China A Industry Top Index,Inclusion,600188,600188.SH,Yanzhou Coal Mining Company Limited
+9/7/20,Hang Seng China A Industry Top Index,Inclusion,600346,600346.SH,"Hengli Petrochemical Co.,Ltd."
+9/7/20,Hang Seng China A Industry Top Index,Inclusion,600585,600585.SH,Anhui Conch Cement Company Limited
+9/7/20,Hang Seng China A Industry Top Index,Inclusion,600606,600606.SH,Greenland Holdings Corporation Limited
+9/7/20,Hang Seng China A Industry Top Index,Inclusion,601698,601698.SH,"China Satellite Communications Co.,Ltd."
+9/7/20,Hang Seng China A Industry Top Index,Inclusion,601816,601816.SH,"Beijing-Shanghai High Speed Railway Co.,Ltd."
+9/7/20,Hang Seng China A Industry Top Index,Inclusion,603259,603259.SH,"WuXi Apptec Co.,Ltd."
+9/7/20,Hang Seng China A Industry Top Index,Removal,338,000338.SZ,"Weichai Power Co.,Ltd."
+9/7/20,Hang Seng China A Industry Top Index,Removal,600023,600023.SH,"Zhejiang Zheneng Electric Power Co.,Ltd."
+9/7/20,Hang Seng China A Industry Top Index,Removal,600118,600118.SH,"China Spacesat Co.,Ltd."
+9/7/20,Hang Seng China A Industry Top Index,Removal,600688,600688.SH,Sinopec Shanghai Petrochemical Company Limited
+9/7/20,Hang Seng China A Industry Top Index,Removal,601111,601111.SH,Air China Limited
+9/7/20,Hang Seng China A Industry Top Index,Removal,601186,601186.SH,China Railway Construction Corporation Limited
+9/7/20,Hang Seng China A Industry Top Index,Removal,601607,601607.SH,"Shanghai Pharmaceuticals Holding Co.,Ltd"
+9/7/20,Hang Seng China A Industry Top Index,Removal,601898,601898.SH,China Coal Energy Company Limited
+9/7/20,Hang Seng China A Top 100 Index,Inclusion,2475,002475.SZ,"Luxshare Precision Industry Co., Ltd."
+9/7/20,Hang Seng China A Top 100 Index,Inclusion,3816,003816.SZ,"CGN Power Co.,Ltd."
+9/7/20,Hang Seng China A Top 100 Index,Inclusion,600276,600276.SH,"Jiangsu Hengrui Medicine Co.,Ltd."
+9/7/20,Hang Seng China A Top 100 Index,Inclusion,601658,601658.SH,"Postal Savings Bank of China Co.,Ltd."
+9/7/20,Hang Seng China A Top 100 Index,Inclusion,601816,601816.SH,"Beijing-Shanghai High Speed Railway Co.,Ltd."
+9/7/20,Hang Seng China A Top 100 Index,Inclusion,601916,601916.SH,"China Zheshang Bank Co.,Ltd."
+9/7/20,Hang Seng China A Top 100 Index,Inclusion,603288,603288.SH,Foshan Haitian Flavouring and Food Company Ltd.
+9/7/20,Hang Seng China A Top 100 Index,Removal,600011,600011.SH,"Huaneng Power International,Inc."
+9/7/20,Hang Seng China A Top 100 Index,Removal,600023,600023.SH,"Zhejiang Zheneng Electric Power Co.,Ltd."
+9/7/20,Hang Seng China A Top 100 Index,Removal,600297,600297.SH,"China Grand Automotive Services Group Co., Ltd."
+9/7/20,Hang Seng China A Top 100 Index,Removal,600362,600362.SH,Jiangxi Copper Company Limited
+9/7/20,Hang Seng China A Top 100 Index,Removal,600688,600688.SH,Sinopec Shanghai Petrochemical Company Limited
+9/7/20,Hang Seng China A Top 100 Index,Removal,600795,600795.SH,"GD Power Development Co.,Ltd."
+9/7/20,Hang Seng China A Top 100 Index,Removal,601898,601898.SH,China Coal Energy Company Limited
+9/7/20,Hang Seng China Enterprises Index,Inclusion,1810,1810.HK,Xiaomi Corporation - W
+9/7/20,Hang Seng China Enterprises Index,Inclusion,3690,3690.HK,Meituan Dianping - W
+9/7/20,Hang Seng China Enterprises Index,Inclusion,9988,9988.HK,Alibaba Group Holding Ltd. - SW
+9/7/20,Hang Seng China Enterprises Index,Removal,1099,1099.HK,Sinopharm Group Co. Ltd. - H Shares
+9/7/20,Hang Seng China Enterprises Index,Removal,1211,1211.HK,BYD Co. Ltd. - H Shares
+9/7/20,Hang Seng China Enterprises Index,Removal,6030,6030.HK,CITIC Securities Co. Ltd. - H Shares
+9/7/20,Hang Seng Composite Index,Inclusion,35,0035.HK,Far East Consortium International Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,41,0041.HK,Great Eagle Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,699,0699.HK,CAR Inc.
+9/7/20,Hang Seng Composite Index,Inclusion,1141,1141.HK,CMBC Capital Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,1475,1475.HK,Nissin Foods Co. Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,1675,1675.HK,AsiaInfo Technologies Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,1773,1773.HK,Tianli Education International Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,1801,1801.HK,"Innovent Biologics, Inc."
+9/7/20,Hang Seng Composite Index,Inclusion,1817,1817.HK,Mulsanne Group Holding Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,1995,1995.HK,Ever Sunshine Lifestyle Services Group Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,2342,2342.HK,Comba Telecom Systems Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,2356,2356.HK,Dah Sing Banking Group Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,2500,2500.HK,Venus Medtech (Hangzhou) Inc. - B - H Shares
+9/7/20,Hang Seng Composite Index,Inclusion,3759,3759.HK,"Pharmaron Beijing Co., Ltd. - H Shares"
+9/7/20,Hang Seng Composite Index,Inclusion,3813,3813.HK,Pou Sheng International (Holdings) Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,6078,6078.HK,"Hygeia Healthcare Holdings Co., Ltd."
+9/7/20,Hang Seng Composite Index,Inclusion,6099,6099.HK,"China Merchants Securities Co., Ltd. - H Shares"
+9/7/20,Hang Seng Composite Index,Inclusion,6160,6160.HK,"BeiGene, Ltd."
+9/7/20,Hang Seng Composite Index,Inclusion,6185,6185.HK,CanSino Biologics Inc. - B - H Shares
+9/7/20,Hang Seng Composite Index,Inclusion,6855,6855.HK,Ascentage Pharma Group International - B
+9/7/20,Hang Seng Composite Index,Inclusion,6889,6889.HK,"Dynam Japan Holdings Co., Ltd. - F"
+9/7/20,Hang Seng Composite Index,Inclusion,9909,9909.HK,Powerlong Commercial Management Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,9922,9922.HK,Jiumaojiu International Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,9923,9923.HK,Yeahka Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,9926,9926.HK,"Akeso, Inc. - B"
+9/7/20,Hang Seng Composite Index,Inclusion,9928,9928.HK,Times Neighborhood Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,9966,9966.HK,Alphamab Oncology - B
+9/7/20,Hang Seng Composite Index,Inclusion,9968,9968.HK,Huijing Holdings Co. Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,9969,9969.HK,InnoCare Pharma Ltd. - B
+9/7/20,Hang Seng Composite Index,Inclusion,9983,9983.HK,Central China New Life Ltd.
+9/7/20,Hang Seng Composite Index,Inclusion,9996,9996.HK,Peijia Medical Ltd. - B
+9/7/20,Hang Seng Composite Index,Inclusion,9997,9997.HK,Kangji Medical Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Removal,78,0078.HK,Regal Hotels International Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Removal,317,0317.HK,CSSC Offshore & Marine Engineering (Group) Co. Ltd. - H Shs
+9/7/20,Hang Seng Composite Index,Removal,451,0451.HK,GCL New Energy Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Removal,525,0525.HK,Guangshen Railway Co. Ltd. - H Shares
+9/7/20,Hang Seng Composite Index,Removal,582,0582.HK,Landing International Development Ltd.
+9/7/20,Hang Seng Composite Index,Removal,607,0607.HK,Fullshare Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Removal,687,0687.HK,Tysan Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Removal,709,0709.HK,Giordano International Ltd.
+9/7/20,Hang Seng Composite Index,Removal,732,0732.HK,Truly International Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Removal,906,0906.HK,CPMC Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Removal,1131,1131.HK,Agritrade Resources Ltd.
+9/7/20,Hang Seng Composite Index,Removal,1205,1205.HK,CITIC Resources Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Removal,1286,1286.HK,Impro Precision Industries Ltd.
+9/7/20,Hang Seng Composite Index,Removal,1681,1681.HK,Consun Pharmaceutical Group Ltd.
+9/7/20,Hang Seng Composite Index,Removal,1806,1806.HK,Huifu Payment Ltd.
+9/7/20,Hang Seng Composite Index,Removal,1905,1905.HK,"Haitong UniTrust International Leasing Co., Ltd. - H Shares"
+9/7/20,Hang Seng Composite Index,Removal,2003,2003.HK,VCREDIT Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Removal,2051,2051.HK,51 Credit Card Inc.
+9/7/20,Hang Seng Composite Index,Removal,2255,2255.HK,Haichang Ocean Park Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Removal,2280,2280.HK,HC Group Inc.
+9/7/20,Hang Seng Composite Index,Removal,2362,2362.HK,Jinchuan Group International Resources Co. Ltd.
+9/7/20,Hang Seng Composite Index,Removal,3382,3382.HK,Tianjin Port Development Holdings Ltd.
+9/7/20,Hang Seng Composite Index,Removal,3983,3983.HK,China BlueChemical Ltd. - H Shares
+9/7/20,Hang Seng Corporate Sustainability Index,Inclusion,8,0008.HK,PCCW Ltd.
+9/7/20,Hang Seng Corporate Sustainability Index,Inclusion,659,0659.HK,NWS Holdings Ltd.
+9/7/20,Hang Seng Corporate Sustainability Index,Inclusion,2319,2319.HK,China Mengniu Dairy Co. Ltd.
+9/7/20,Hang Seng Corporate Sustainability Index,Removal,14,0014.HK,Hysan Development Co. Ltd.
+9/7/20,Hang Seng Corporate Sustainability Index,Removal,69,0069.HK,Shangri-La Asia Ltd.
+9/7/20,Hang Seng Corporate Sustainability Index,Removal,1109,1109.HK,China Resources Land Ltd.
+9/7/20,Hang Seng ESG 50 Index,Inclusion,148,0148.HK,Kingboard Holdings Ltd.
+9/7/20,Hang Seng ESG 50 Index,Inclusion,288,0288.HK,WH Group Ltd.
+9/7/20,Hang Seng ESG 50 Index,Inclusion,384,0384.HK,China Gas Holdings Ltd.
+9/7/20,Hang Seng ESG 50 Index,Inclusion,659,0659.HK,NWS Holdings Ltd.
+9/7/20,Hang Seng ESG 50 Index,Inclusion,836,0836.HK,China Resources Power Holdings Co. Ltd.
+9/7/20,Hang Seng ESG 50 Index,Inclusion,2319,2319.HK,China Mengniu Dairy Co. Ltd.
+9/7/20,Hang Seng ESG 50 Index,Inclusion,2688,2688.HK,ENN Energy Holdings Ltd.
+9/7/20,Hang Seng ESG 50 Index,Removal,175,0175.HK,Geely Automobile Holdings Ltd.
+9/7/20,Hang Seng ESG 50 Index,Removal,390,0390.HK,China Railway Group Ltd. - H Shares
+9/7/20,Hang Seng ESG 50 Index,Removal,1112,1112.HK,Health and Happiness (H&H) International Holdings Ltd.
+9/7/20,Hang Seng ESG 50 Index,Removal,1316,1316.HK,Nexteer Automotive Group Ltd.
+9/7/20,Hang Seng ESG 50 Index,Removal,1658,1658.HK,"Postal Savings Bank of China Co., Ltd. - H Shares"
+9/7/20,Hang Seng ESG 50 Index,Removal,3377,3377.HK,Sino-Ocean Group Holding Ltd.
+9/7/20,Hang Seng ESG 50 Index,Removal,3988,3988.HK,Bank of China Ltd. - H Shares
+9/7/20,Hang Seng Index,Inclusion,1810,1810.HK,Xiaomi Corporation - W
+9/7/20,Hang Seng Index,Inclusion,2269,2269.HK,WuXi Biologics (Cayman) Inc.
+9/7/20,Hang Seng Index,Inclusion,9988,9988.HK,Alibaba Group Holding Ltd. - SW
+9/7/20,Hang Seng Index,Removal,83,0083.HK,Sino Land Co. Ltd.
+9/7/20,Hang Seng Index,Removal,151,0151.HK,Want Want China Holdings Ltd.
+9/7/20,Hang Seng Index,Removal,1088,1088.HK,China Shenhua Energy Co. Ltd. - H Shares
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2243,002243.SZ,"Shenzhen Beauty Star Co.,Ltd"
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2791,002791.SZ,"Guangdong Kinlong Hardware Products Co.,Ltd."
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,41,0041.HK,Great Eagle Holdings Ltd.
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,1268,1268.HK,China MeiDong Auto Holdings Ltd.
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2039,2039.HK,"China Int'l Marine Containers (Group) Co., Ltd."
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2356,2356.HK,Dah Sing Banking Group Ltd.
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,600143,600143.SH,"Kingfa Sci.&Tech. Co.,Ltd."
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,9922,9922.HK,Jiumaojiu International Holdings Ltd.
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,9926,9926.HK,"Akeso, Inc. - B"
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2168,002168.SZ,"Shenzhen Hifuture Information Technology Co., Ltd."
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2475,002475.SZ,"Luxshare Precision Industry Co., Ltd."
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2482,002482.SZ,"Shenzhen Grandland Group Co.,Ltd."
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2815,002815.SZ,"Suntak Technology Co., Ltd."
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,215,0215.HK,Hutchison Telecommunications Hong Kong Holdings Ltd.
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,308,0308.HK,China Travel International Investment Hong Kong Ltd.
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,315,0315.HK,SmarTone Telecommunications Holdings Ltd.
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,300297,300297.SZ,"Bluedon Information Security Technologies Co.,Ltd."
+9/7/20,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,300633,300633.SZ,Sonoscape Medical Corp.
+12/7/20,Hang Seng China Enterprises Index,Inclusion,241,0241.HK,Alibaba Health Information Technology Ltd.
+12/7/20,Hang Seng China Enterprises Index,Inclusion,688,0688.HK,China Overseas Land & Investment Ltd.
+12/7/20,Hang Seng China Enterprises Index,Inclusion,981,0981.HK,Semiconductor Manufacturing International Corporation
+12/7/20,Hang Seng China Enterprises Index,Inclusion,3333,3333.HK,China Evergrande Group
+12/7/20,Hang Seng China Enterprises Index,Inclusion,3692,3692.HK,Hansoh Pharmaceutical Group Co. Ltd.
+12/7/20,Hang Seng China Enterprises Index,Inclusion,6186,6186.HK,China Feihe Ltd.
+12/7/20,Hang Seng China Enterprises Index,Inclusion,6862,6862.HK,Haidilao International Holding Ltd.
+12/7/20,Hang Seng China Enterprises Index,Inclusion,9618,9618.HK,"JD.com, Inc. - SW"
+12/7/20,Hang Seng China Enterprises Index,Inclusion,9999,9999.HK,"NetEase, Inc. - S"
+12/7/20,Hang Seng China Enterprises Index,Removal,151,0151.HK,Want Want China Holdings Ltd.
+12/7/20,Hang Seng China Enterprises Index,Removal,656,0656.HK,Fosun International Ltd.
+12/7/20,Hang Seng China Enterprises Index,Removal,728,0728.HK,China Telecom Corporation Ltd. - H Shares
+12/7/20,Hang Seng China Enterprises Index,Removal,966,0966.HK,China Taiping Insurance Holdings Co. Ltd.
+12/7/20,Hang Seng China Enterprises Index,Removal,998,0998.HK,China CITIC Bank Corporation Ltd. - H Shares
+12/7/20,Hang Seng China Enterprises Index,Removal,1088,1088.HK,China Shenhua Energy Co. Ltd. - H Shares
+12/7/20,Hang Seng China Enterprises Index,Removal,1988,1988.HK,"China Minsheng Banking Corp., Ltd. - H Shares"
+12/7/20,Hang Seng China Enterprises Index,Removal,2202,2202.HK,"China Vanke Co., Ltd. - H Shares"
+12/7/20,Hang Seng China Enterprises Index,Removal,2328,2328.HK,PICC Property and Casualty Co. Ltd. - H Shares
+12/7/20,Hang Seng Composite LargeCap & MidCap Index,Inclusion,909,0909.HK,Ming Yuan Cloud Group Holdings Ltd. MidCap Information Technology
+12/7/20,Hang Seng Composite LargeCap & MidCap Index,Inclusion,1179,1179.HK,Huazhu Group Ltd. - S MidCap Consumer Discretionary
+12/7/20,Hang Seng Composite LargeCap & MidCap Index,Inclusion,2057,2057.HK,ZTO Express (Cayman) Inc. - SW LargeCap Industrials
+12/7/20,Hang Seng Composite LargeCap & MidCap Index,Inclusion,9668,9668.HK,"China Bohai Bank Co., Ltd. - H Shares MidCap Financial"
+12/7/20,Hang Seng Composite LargeCap & MidCap Index,Inclusion,9688,9688.HK,Zai Lab Ltd. - SB MidCap Healthcare
+12/7/20,Hang Seng Composite LargeCap & MidCap Index,Inclusion,9987,9987.HK,"Yum China Holdings, Inc. - S MidCap Consumer Discretionary"
+12/7/20,Hang Seng Composite LargeCap & MidCap Index,Inclusion,9990,9990.HK,Archosaur Games Inc. MidCap Information Technology
+12/7/20,Hang Seng Index,Inclusion,1876,1876.HK,Budweiser Brewing Co. APAC Ltd.
+12/7/20,Hang Seng Index,Inclusion,2020,2020.HK,ANTA Sports Products Ltd.
+12/7/20,Hang Seng Index,Inclusion,3690,3690.HK,Meituan - W
+12/7/20,Hang Seng Index,Removal,19,0019.HK,Swire Pacific Ltd. 'A'
+12/7/20,Hang Seng TECH Index,Inclusion,909,0909.HK,Ming Yuan Cloud Group Holdings Ltd.
+12/7/20,Hang Seng TECH Index,Inclusion,9990,9990.HK,Archosaur Games Inc.
+12/7/20,Hang Seng TECH Index,Removal,136,0136.HK,HengTen Networks Group Ltd.
+12/7/20,Hang Seng TECH Index,Removal,777,0777.HK,NetDragon Websoft Holdings Ltd.
+3/15/21,Hang Seng China 50 Index,Inclusion,2475,002475.SZ,"Luxshare Precision Industry Co., Ltd."
+3/15/21,Hang Seng China 50 Index,Inclusion,1810,1810.HK,Xiaomi Corporation - W
+3/15/21,Hang Seng China 50 Index,Inclusion,300750,300750.SZ,"Contemporary Amperex Technology Co., Limited"
+3/15/21,Hang Seng China 50 Index,Inclusion,300999,300999.SZ,"Yihai Kerry Arawana Holdings Co.,Ltd"
+3/15/21,Hang Seng China 50 Index,Inclusion,601888,601888.SH,China Tourism Group Duty Free Corporation Limited
+3/15/21,Hang Seng China 50 Index,Inclusion,9618,9618.HK,"JD.com, Inc. - SW"
+3/15/21,Hang Seng China 50 Index,Inclusion,9633,9633.HK,"Nongfu Spring Co., Ltd. - H Shares"
+3/15/21,Hang Seng China 50 Index,Inclusion,9999,9999.HK,"NetEase, Inc. - S"
+3/15/21,Hang Seng China 50 Index,Removal,267,0267.HK,CITIC Ltd.
+3/15/21,Hang Seng China 50 Index,Removal,728,0728.HK,China Telecom Corporation Ltd. - H Shares
+3/15/21,Hang Seng China 50 Index,Removal,1109,1109.HK,China Resources Land Ltd.
+3/15/21,Hang Seng China 50 Index,Removal,1766,1766.HK,CRRC Corporation Ltd.
+3/15/21,Hang Seng China 50 Index,Removal,2007,2007.HK,Country Garden Holdings Co. Ltd.
+3/15/21,Hang Seng China 50 Index,Removal,3333,3333.HK,China Evergrande Group
+3/15/21,Hang Seng China 50 Index,Removal,601668,601668.SH,China State Construction Engineering Corporation Ltd.
+3/15/21,Hang Seng China 50 Index,Removal,6818,6818.HK,China Everbright Bank Co. Ltd.
+3/15/21,Hang Seng China Enterprises Index,Inclusion,6098,6098.HK,Country Garden Services Holdings Co. Ltd.
+3/15/21,Hang Seng China Enterprises Index,Inclusion,9633,9633.HK,"Nongfu Spring Co., Ltd. - H Shares"
+3/15/21,Hang Seng China Enterprises Index,Removal,586,0586.HK,China Conch Venture Holdings Ltd.
+3/15/21,Hang Seng China Enterprises Index,Removal,857,0857.HK,PetroChina Co. Ltd. - H Shares
+3/15/21,Hang Seng China Enterprises Index,Removal,1044,1044.HK,Hengan International Group Co. Ltd.
+3/15/21,Hang Seng China Enterprises Index,Removal,1193,1193.HK,China Resources Gas Group Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,775,0775.HK,"CK Life Sciences Int'l., (Holdings) Inc."
+3/15/21,Hang Seng Composite Index,Inclusion,873,0873.HK,Shimao Services Holdings Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,1167,1167.HK,"Jacobio Pharmaceuticals Group Co., Ltd. - B"
+3/15/21,Hang Seng Composite Index,Inclusion,1209,1209.HK,China Resources Mixc Lifestyle Services Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,1477,1477.HK,Ocumension Therapeutics - B
+3/15/21,Hang Seng Composite Index,Inclusion,1516,1516.HK,Sunac Services Holdings Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,1755,1755.HK,"S-Enjoy Service Group Co., Ltd."
+3/15/21,Hang Seng Composite Index,Inclusion,1769,1769.HK,Scholar Education Group
+3/15/21,Hang Seng Composite Index,Inclusion,1772,1772.HK,"Ganfeng Lithium Co., Ltd. - H Shares"
+3/15/21,Hang Seng Composite Index,Inclusion,1821,1821.HK,ESR Cayman Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,1877,1877.HK,"Shanghai Junshi Biosciences Co., Ltd. - H Shares"
+3/15/21,Hang Seng Composite Index,Inclusion,1952,1952.HK,Everest Medicines Ltd. - B
+3/15/21,Hang Seng Composite Index,Inclusion,1981,1981.HK,Cathay Media and Education Group Inc.
+3/15/21,Hang Seng Composite Index,Inclusion,1992,1992.HK,Fosun Tourism Group
+3/15/21,Hang Seng Composite Index,Inclusion,2096,2096.HK,Simcere Pharmaceutical Group Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,2126,2126.HK,JW (Cayman) Therapeutics Co. Ltd - B
+3/15/21,Hang Seng Composite Index,Inclusion,2142,2142.HK,HBM Holdings Ltd. - B
+3/15/21,Hang Seng Composite Index,Inclusion,2148,2148.HK,"Vesync Co., Ltd"
+3/15/21,Hang Seng Composite Index,Inclusion,2599,2599.HK,"Shinsun Holdings (Group) Co., Ltd."
+3/15/21,Hang Seng Composite Index,Inclusion,2798,2798.HK,Perennial Energy Holdings Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,3347,3347.HK,"Hangzhou Tigermed Consulting Co., Ltd. - H Shares"
+3/15/21,Hang Seng Composite Index,Inclusion,3913,3913.HK,KWG Living Group Holdings Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,6100,6100.HK,Tongdao Liepin Group
+3/15/21,Hang Seng Composite Index,Inclusion,6666,6666.HK,Evergrande Property Services Group Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,6690,6690.HK,"Haier Smart Home Co., Ltd. - H Shares"
+3/15/21,Hang Seng Composite Index,Inclusion,6988,6988.HK,Joy Spreader Interactive Technology. Ltd
+3/15/21,Hang Seng Composite Index,Inclusion,6989,6989.HK,Excellence Commercial Property & Facilities Mgt Group Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,6993,6993.HK,Blue Moon Group Holdings Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,6996,6996.HK,Antengene Corporation Ltd. - B
+3/15/21,Hang Seng Composite Index,Inclusion,6998,6998.HK,JHBP (CY) Holdings Ltd. - B
+3/15/21,Hang Seng Composite Index,Inclusion,9666,9666.HK,"Jinke Smart Services Group Co., Ltd. - H Shares"
+3/15/21,Hang Seng Composite Index,Inclusion,9698,9698.HK,GDS Holdings Ltd. - SW
+3/15/21,Hang Seng Composite Index,Inclusion,9991,9991.HK,Baozun Inc. - SW
+3/15/21,Hang Seng Composite Index,Inclusion,9992,9992.HK,Pop Mart International Group Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,9993,9993.HK,Radiance Holdings (Group) Co. Ltd.
+3/15/21,Hang Seng Composite Index,Inclusion,9995,9995.HK,"RemeGen Co., Ltd. - B - H Shares"
+3/15/21,Hang Seng Composite Index,Removal,35,0035.HK,Far East Consortium International Ltd.
+3/15/21,Hang Seng Composite Index,Removal,41,0041.HK,Great Eagle Holdings Ltd.
+3/15/21,Hang Seng Composite Index,Removal,120,0120.HK,Cosmopolitan International Holdings Ltd.
+3/15/21,Hang Seng Composite Index,Removal,178,0178.HK,Sa Sa International Holdings Ltd.
+3/15/21,Hang Seng Composite Index,Removal,323,0323.HK,Maanshan Iron & Steel Co. Ltd. - H Shares
+3/15/21,Hang Seng Composite Index,Removal,327,0327.HK,PAX Global Technology Ltd.
+3/15/21,Hang Seng Composite Index,Removal,347,0347.HK,Angang Steel Co. Ltd. - H Shares
+3/15/21,Hang Seng Composite Index,Removal,467,0467.HK,United Energy Group Ltd.
+3/15/21,Hang Seng Composite Index,Removal,468,0468.HK,Greatview Aseptic Packaging Co. Ltd.
+3/15/21,Hang Seng Composite Index,Removal,496,0496.HK,Kasen International Holdings Ltd.
+3/15/21,Hang Seng Composite Index,Removal,563,0563.HK,Shanghai Industrial Urban Development Group Ltd.
+3/15/21,Hang Seng Composite Index,Removal,598,0598.HK,Sinotrans Ltd. - H Shares
+3/15/21,Hang Seng Composite Index,Removal,686,0686.HK,"Beijing Energy International Holding Co., Ltd."
+3/15/21,Hang Seng Composite Index,Removal,698,0698.HK,Tongda Group Holdings Ltd.
+3/15/21,Hang Seng Composite Index,Removal,808,0808.HK,Prosperity Real Estate Investment Trust
+3/15/21,Hang Seng Composite Index,Removal,973,0973.HK,L'Occitane International S.A.
+3/15/21,Hang Seng Composite Index,Removal,1071,1071.HK,Huadian Power International Corporation Ltd. - H Shares
+3/15/21,Hang Seng Composite Index,Removal,1269,1269.HK,China First Capital Group Ltd.
+3/15/21,Hang Seng Composite Index,Removal,1293,1293.HK,Grand Baoxin Auto Group Ltd.
+3/15/21,Hang Seng Composite Index,Removal,1528,1528.HK,Red Star Macalline Group Corporation Ltd. - H Shares
+3/15/21,Hang Seng Composite Index,Removal,1618,1618.HK,Metallurgical Corporation of China Ltd. - H Shares
+3/15/21,Hang Seng Composite Index,Removal,1666,1666.HK,Tong Ren Tang Technologies Co. Ltd. - H Shares
+3/15/21,Hang Seng Composite Index,Removal,1728,1728.HK,China ZhengTong Auto Services Holdings Ltd.
+3/15/21,Hang Seng Composite Index,Removal,1881,1881.HK,Regal Real Estate Investment Trust
+3/15/21,Hang Seng Composite Index,Removal,1970,1970.HK,"IMAX China Holding, Inc."
+3/15/21,Hang Seng Composite Index,Removal,2009,2009.HK,BBMG Corporation - H Shares
+3/15/21,Hang Seng Composite Index,Removal,3306,3306.HK,JNBY Design Ltd.
+3/15/21,Hang Seng Composite Index,Removal,6889,6889.HK,"DYNAM JAPAN HOLDINGS Co., Ltd."
+3/15/21,Hang Seng Composite Index,Removal,9668,9668.HK,"China Bohai Bank Co., Ltd. - H Shares"
+3/15/21,Hang Seng Index,Inclusion,241,0241.HK,Alibaba Health Information Technology Ltd.
+3/15/21,Hang Seng Index,Inclusion,960,0960.HK,Longfor Group Holdings Ltd.
+3/15/21,Hang Seng Index,Inclusion,6862,6862.HK,Haidilao International Holding Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2351,002351.SZ,"Edifier Technology Co.,Ltd."
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2850,002850.SZ,"Shenzhen Kedali Industry Co.,Ltd"
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2967,002967.SZ,"Guangzhou Grg Metrology & Test Co.,Ltd."
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,909,0909.HK,Ming Yuan Cloud Group Holdings Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,1209,1209.HK,China Resources Mixc Lifestyle Services Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,1999,1999.HK,Man Wah Holdings Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,300348,300348.SZ,"Shenzhen Sunline Tech Co., Ltd."
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,300737,300737.SZ,"Keshun Waterproof Technologies Co., Ltd."
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,6666,6666.HK,Evergrande Property Services Group Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,6993,6993.HK,Blue Moon Group Holdings Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,9923,9923.HK,Yeahka Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2047,002047.SZ,"Shenzhen Bauing Construction Group Co.,Ltd."
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2303,002303.SZ,"Mys Group Co., Ltd."
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2611,002611.SZ,"Guangdong Dongfang Precision Science &
+Technology Co.,Ltd."
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2717,002717.SZ,"Lingnan Eco&Culture-Tourism Co., Ltd."
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,41,0041.HK,Great Eagle Holdings Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,59,0059.HK,Skyfame Realty (Holdings) Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,440,0440.HK,Dah Sing Financial Holdings Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,806,0806.HK,Value Partners Group Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,1383,1383.HK,Suncity Group Holdings Ltd.
+3/15/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,1668,1668.HK,China South City Holdings Ltd.
+3/15/21,Hang Seng TECH Index,Inclusion,6690,6690.HK,"Haier Smart Home Co., Ltd. - H Shares"
+3/15/21,Hang Seng TECH Index,Inclusion,9698,9698.HK,GDS Holdings Ltd. - SW
+3/15/21,Hang Seng TECH Index,Removal,1478,1478.HK,Q Technology (Group) Co. Ltd.
+3/15/21,Hang Seng TECH Index,Removal,1896,1896.HK,Maoyan Entertainment
+3/15/21,Hang Seng TECH Index,Removal,2400,2400.HK,XD Inc.
+3/15/21,Hang Seng TECH Index,Removal,2858,2858.HK,Yixin Group Ltd.
+6/7/21,Hang Seng China Enterprises Index,Inclusion,1211,1211.HK,BYD Company Limited - H shares
+6/7/21,Hang Seng China Enterprises Index,Inclusion,6666,6666.HK,Evergrande Property Services Group Limited
+6/7/21,Hang Seng China Enterprises Index,Removal,270,0270.HK,Guangdong Investment Limited
+6/7/21,Hang Seng China Enterprises Index,Removal,762,0762.HK,China Unicom (Hong Kong) Limited
+6/7/21,Hang Seng China Enterprises Index,Removal,788,0788.HK,China Tower Corporation Limited - H shares
+6/7/21,Hang Seng Composite Index,Inclusion,2158,2158.HK,Yidu Tech Inc.
+6/7/21,Hang Seng Composite Index,Inclusion,2160,2160.HK,Microport Cardioflow Medtech Corporation - B
+6/7/21,Hang Seng Composite Index,Inclusion,2518,2518.HK,Autohome Inc. - S
+6/7/21,Hang Seng Composite Index,Inclusion,6606,6606.HK,New Horizon Health Limited - B
+6/7/21,Hang Seng Index,Inclusion,968,0968.HK,Xinyi Solar Holdings Limited
+6/7/21,Hang Seng Index,Inclusion,1211,1211.HK,BYD Company Limited - H shares
+6/7/21,Hang Seng Index,Inclusion,6098,6098.HK,Country Garden Services Holdings Company Limited
+6/7/21,Hang Seng TECH Index,Inclusion,2518,2518.HK,Autohome Inc. - S
+6/7/21,Hang Seng TECH Index,Inclusion,9626,9626.HK,Bilibili Inc. - SW
+6/7/21,Hang Seng TECH Index,Removal,763,0763.HK,ZTE Corporation - H shares
+6/7/21,Hang Seng TECH Index,Removal,6088,6088.HK,Fit Hon Teng Limited
+6/7/21,Hang Seng TECH Index,Removal,9990,9990.HK,Archosaur Games Inc.
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Inclusion,1979,001979.SZ,"China Merchants Shekou Industrial Zone Holdings Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Inclusion,2460,002460.SZ,"Ganfeng Lithium Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Inclusion,2601,002601.SZ,"LB Group Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Inclusion,300274,300274.SZ,"Sungrow Power Supply Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600588,600588.SH,"Yonyou Network Technology Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600837,600837.SH,"Haitong Securities Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600958,600958.SH,"Orient Securities Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601088,601088.SH,"China Shenhua Energy Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Removal,300124,300124.SZ,"Shenzhen Inovance Technology Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Removal,600183,600183.SH,"Shengyi Technology Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Removal,600377,600377.SH,Jiangsu Expressway Company Ltd.*
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Removal,600690,600690.SH,"Haier Smart Home Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Removal,601727,601727.SH,"Shanghai Electric Group Co., Ltd."
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Removal,601808,601808.SH,China Oilfield Services Ltd.*
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Removal,601988,601988.SH,Bank of China Ltd.
+9/6/21,Hang Seng (China A) Corporate Sustainability Index,Removal,603019,603019.SH,"Dawning Information Industry Co., Ltd."
+9/6/21,Hang Seng China 50 Index,Inclusion,2714,002714.SZ,"Muyuan Foods Co., Ltd."
+9/6/21,Hang Seng China 50 Index,Inclusion,1024,1024.HK,Kuaishou Technology - W
+9/6/21,Hang Seng China 50 Index,Inclusion,1211,1211.HK,"BYD Co., Ltd."
+9/6/21,Hang Seng China 50 Index,Inclusion,601012,601012.SH,"Longi Green Energy Technology Co., Ltd."
+9/6/21,Hang Seng China 50 Index,Inclusion,6618,6618.HK,JD Health International Inc.
+9/6/21,Hang Seng China 50 Index,Inclusion,9888,9888.HK,"Baidu, Inc. - SW"
+9/6/21,Hang Seng China 50 Index,Removal,688,0688.HK,China Overseas Land & Investment Ltd.
+9/6/21,Hang Seng China 50 Index,Removal,788,0788.HK,China Tower Corporation Ltd.
+9/6/21,Hang Seng China 50 Index,Removal,998,0998.HK,China CITIC Bank Corporation Ltd.
+9/6/21,Hang Seng China 50 Index,Removal,1339,1339.HK,"The People's Insurance Co., (Group) of China Ltd."
+9/6/21,Hang Seng China 50 Index,Removal,1988,1988.HK,"China Minsheng Banking Corp., Ltd."
+9/6/21,Hang Seng China 50 Index,Removal,600104,600104.SH,SAIC Motor Corporation Ltd.
+9/6/21,Hang Seng China A Industry Top Index,Inclusion,63,000063.SZ,ZTE Corporation
+9/6/21,Hang Seng China A Industry Top Index,Inclusion,2475,002475.SZ,"Luxshare Precision Industry Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Inclusion,300999,300999.SZ,"Yihai Kerry Arawana Holdings Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Inclusion,600690,600690.SH,"Haier Smart Home Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Inclusion,600905,600905.SH,"China Three Gorges Renewables (Group) Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Inclusion,601808,601808.SH,China Oilfield Services Ltd.
+9/6/21,Hang Seng China A Industry Top Index,Inclusion,601888,601888.SH,China Tourism Group Duty Free Corporation Ltd.
+9/6/21,Hang Seng China A Industry Top Index,Inclusion,601919,601919.SH,"COSCO SHIPPING Holdings Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Inclusion,603501,603501.SH,"Will Semiconductor Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Inclusion,688981,688981.SH,Semiconductor Manufacturing International Corporation
+9/6/21,Hang Seng China A Industry Top Index,Removal,725,000725.SZ,"BOE Technology Group Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Removal,2024,002024.SZ,"Suning.Com Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Removal,2304,002304.SZ,"Jiangsu Yanghe Brewery Joint-Stock Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Removal,600018,600018.SH,"Shanghai International Port (Group) Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Removal,600188,600188.SH,"Yanzhou Coal Mining Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Removal,600606,600606.SH,Greenland Holdings Corporation Ltd.
+9/6/21,Hang Seng China A Industry Top Index,Removal,600703,600703.SH,"Sanan Optoelectronics Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Removal,600795,600795.SH,"GD Power Development Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Removal,601006,601006.SH,"Daqin Railway Co., Ltd."
+9/6/21,Hang Seng China A Industry Top Index,Removal,601360,601360.SH,360 Security Technology Inc.
+9/6/21,Hang Seng China A Industry Top Index,Removal,601816,601816.SH,"Beijing-Shanghai High Speed Railway Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Inclusion,63,000063.SZ,ZTE Corporation
+9/6/21,Hang Seng China A Top 100 Index,Inclusion,2493,002493.SZ,"Rongsheng Petrochemical Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Inclusion,2714,002714.SZ,"Muyuan Foods Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Inclusion,300760,300760.SZ,"Shenzhen Mindray Bio-Medical Electronics Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Inclusion,300999,300999.SZ,"Yihai Kerry Arawana Holdings Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Inclusion,601012,601012.SH,"Longi Green Energy Technology Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Inclusion,601066,601066.SH,"China Securities Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Inclusion,601919,601919.SH,"COSCO SHIPPING Holdings Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Removal,600029,600029.SH,"China Southern Airlines Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Removal,600115,600115.SH,China Eastern Airlines Corporation Ltd.
+9/6/21,Hang Seng China A Top 100 Index,Removal,600188,600188.SH,"Yanzhou Coal Mining Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Removal,600340,600340.SH,"China Fortune Land Development Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Removal,600383,600383.SH,Gemdale Corporation
+9/6/21,Hang Seng China A Top 100 Index,Removal,600886,600886.SH,"SDIC Power Holdings Co., Ltd."
+9/6/21,Hang Seng China A Top 100 Index,Removal,601111,601111.SH,Air China Ltd.
+9/6/21,Hang Seng China A Top 100 Index,Removal,601607,601607.SH,"Shanghai Pharmaceuticals Holding Co., Ltd."
+9/6/21,Hang Seng China Enterprises Index,Inclusion,2331,2331.HK,"Li Ning Co., Ltd."
+9/6/21,Hang Seng China Enterprises Index,Inclusion,2618,2618.HK,"JD Logistics, Inc."
+9/6/21,Hang Seng China Enterprises Index,Removal,813,0813.HK,Shimao Group Holdings Ltd.
+9/6/21,Hang Seng China Enterprises Index,Removal,914,0914.HK,"Anhui Conch Cement Co., Ltd."
+9/6/21,Hang Seng Composite Index,Inclusion,13,0013.HK,HUTCHMED (China) Ltd.
+9/6/21,Hang Seng Composite Index,Inclusion,43,0043.HK,"C. P. Pokphand Co., Ltd."
+9/6/21,Hang Seng Composite Index,Inclusion,1137,1137.HK,"Hong Kong Technology Venture Co., Ltd."
+9/6/21,Hang Seng Composite Index,Inclusion,2150,2150.HK,Nayuki Holdings Ltd.
+9/6/21,Hang Seng Composite Index,Inclusion,2171,2171.HK,CARsgen Therapeutics Holdings Ltd. - B
+9/6/21,Hang Seng Composite Index,Inclusion,2362,2362.HK,"Jinchuan Group International Resources Co., Ltd."
+9/6/21,Hang Seng Composite Index,Inclusion,2616,2616.HK,CStone Pharmaceuticals - B
+9/6/21,Hang Seng Composite Index,Inclusion,3738,3738.HK,Vobile Group Ltd.
+9/6/21,Hang Seng Composite Index,Inclusion,6600,6600.HK,SciClone Pharmaceuticals (Holdings) Ltd.
+9/6/21,Hang Seng Composite Index,Inclusion,6601,6601.HK,Cheerwin Group Ltd.
+9/6/21,Hang Seng Composite Index,Inclusion,6608,6608.HK,Bairong Inc. - W
+9/6/21,Hang Seng Composite Index,Inclusion,6699,6699.HK,Angelalign Technology Inc.
+9/6/21,Hang Seng Composite Index,Inclusion,6865,6865.HK,"Flat Glass Group Co., Ltd. - H Shares"
+9/6/21,Hang Seng Composite Index,Inclusion,9858,9858.HK,China Youran Dairy Group Ltd.
+9/6/21,Hang Seng Composite Index,Inclusion,9939,9939.HK,Kintor Pharmaceutical Ltd. - B
+9/6/21,Hang Seng Composite Index,Inclusion,9959,9959.HK,Linklogis Inc. - W
+9/6/21,Hang Seng Composite Index,Inclusion,9961,9961.HK,Trip.com Group Ltd. - S
+9/6/21,Hang Seng Composite Index,Removal,315,0315.HK,SmarTone Telecommunications Holdings Ltd.
+9/6/21,Hang Seng Composite Index,Removal,548,0548.HK,"Shenzhen Expressway Co., Ltd. - H Shares"
+9/6/21,Hang Seng Composite Index,Removal,874,0874.HK,"Guangzhou Baiyunshan Pharmaceutical Holdings Co., Ltd.- H
+Shares"
+9/6/21,Hang Seng Composite Index,Removal,978,0978.HK,China Merchants Land Ltd.
+9/6/21,Hang Seng Composite Index,Removal,1119,1119.HK,iDreamSky Technology Holdings Ltd.
+9/6/21,Hang Seng Composite Index,Removal,1138,1138.HK,"COSCO SHIPPING Energy Transportation Co., Ltd. - H Shares"
+9/6/21,Hang Seng Composite Index,Removal,1383,1383.HK,Suncity Group Holdings Ltd.
+9/6/21,Hang Seng Composite Index,Removal,1508,1508.HK,China Reinsurance (Group) Corporation - H Shares
+9/6/21,Hang Seng Composite Index,Removal,1558,1558.HK,"YiChang HEC ChangJiang Pharmaceutical Co., Ltd. - H Shares"
+9/6/21,Hang Seng Composite Index,Removal,1569,1569.HK,"Minsheng Education Group Co., Ltd."
+9/6/21,Hang Seng Composite Index,Removal,1778,1778.HK,"Colour Life Services Group Co., Ltd."
+9/6/21,Hang Seng Composite Index,Removal,1817,1817.HK,Mulsanne Group Holding Ltd.
+9/6/21,Hang Seng Composite Index,Removal,1848,1848.HK,China Aircraft Leasing Group Holdings Ltd.
+9/6/21,Hang Seng Composite Index,Removal,2329,2329.HK,Guorui Properties Ltd.
+9/6/21,Hang Seng Composite Index,Removal,2386,2386.HK,"SINOPEC Engineering (Group) Co., Ltd. - H Shares"
+9/6/21,Hang Seng Composite Index,Removal,2768,2768.HK,Jiayuan International Group Ltd.
+9/6/21,Hang Seng Composite Index,Removal,2877,2877.HK,China Shineway Pharmaceutical Group Ltd.
+9/6/21,Hang Seng Composite Index,Removal,3836,3836.HK,China Harmony Auto Holding Ltd.
+9/6/21,Hang Seng Composite Index,Removal,3958,3958.HK,DFZQ - H Shares
+9/6/21,Hang Seng Composite Index,Removal,6166,6166.HK,"China VAST Industrial Urban Development Co., Ltd."
+9/6/21,Hang Seng Composite Index,Removal,6806,6806.HK,"Shenwan Hongyuan Group Co., Ltd. - H Shares"
+9/6/21,Hang Seng Composite Index,Removal,6869,6869.HK,"Yangtze Optical Fibre and Cable Joint Stock Ltd. Co., - H Shares"
+9/6/21,Hang Seng Corporate Sustainability Index,Inclusion,66,0066.HK,MTR Corporation Ltd.
+9/6/21,Hang Seng Corporate Sustainability Index,Inclusion,288,0288.HK,WH Group Ltd.
+9/6/21,Hang Seng Corporate Sustainability Index,Inclusion,941,0941.HK,China Mobile Ltd.
+9/6/21,Hang Seng Corporate Sustainability Index,Inclusion,1109,1109.HK,China Resources Land Ltd.
+9/6/21,Hang Seng Corporate Sustainability Index,Inclusion,1347,1347.HK,Hua Hong Semiconductor Ltd.
+9/6/21,Hang Seng Corporate Sustainability Index,Inclusion,1929,1929.HK,Chow Tai Fook Jewellery Group Ltd.
+9/6/21,Hang Seng Corporate Sustainability Index,Inclusion,2382,2382.HK,Sunny Optical Technology (Group) Company Ltd.
+9/6/21,Hang Seng Corporate Sustainability Index,Removal,8,0008.HK,PCCW Ltd.*
+9/6/21,Hang Seng Corporate Sustainability Index,Removal,19,0019.HK,Swire Pacific Ltd.*
+9/6/21,Hang Seng Corporate Sustainability Index,Removal,257,0257.HK,China Everbright Environment Group Ltd.*
+9/6/21,Hang Seng Corporate Sustainability Index,Removal,293,0293.HK,Cathay Pacific Airways Ltd.*
+9/6/21,Hang Seng Corporate Sustainability Index,Removal,345,0345.HK,Vitasoy International Holdings Ltd.*
+9/6/21,Hang Seng Corporate Sustainability Index,Removal,659,0659.HK,NWS Holdings Ltd.*
+9/6/21,Hang Seng Corporate Sustainability Index,Removal,683,0683.HK,Kerry Properties Ltd.*
+9/6/21,Hang Seng ESG 50 Index,Inclusion,66,0066.HK,MTR Corporation Ltd.
+9/6/21,Hang Seng ESG 50 Index,Inclusion,175,0175.HK,Geely Automobile Holdings Ltd.
+9/6/21,Hang Seng ESG 50 Index,Inclusion,656,0656.HK,Fosun International Ltd.
+9/6/21,Hang Seng ESG 50 Index,Inclusion,669,0669.HK,"Techtronic Industries Co., Ltd."
+9/6/21,Hang Seng ESG 50 Index,Inclusion,884,0884.HK,"CIFI Holdings (Group) Co., Ltd."
+9/6/21,Hang Seng ESG 50 Index,Inclusion,1113,1113.HK,CK Asset Holdings Ltd.
+9/6/21,Hang Seng ESG 50 Index,Inclusion,1347,1347.HK,Hua Hong Semiconductor Ltd.
+9/6/21,Hang Seng ESG 50 Index,Inclusion,2382,2382.HK,"Sunny Optical Technology (Group) Co., Ltd."
+9/6/21,Hang Seng ESG 50 Index,Inclusion,2689,2689.HK,Nine Dragons Paper (Holdings) Ltd.
+9/6/21,Hang Seng ESG 50 Index,Inclusion,3380,3380.HK,Logan Group Company Ltd.
+9/6/21,Hang Seng ESG 50 Index,Inclusion,6098,6098.HK,"Country Garden Services Holdings Co., Ltd."
+9/6/21,Hang Seng ESG 50 Index,Removal,10,0010.HK,Hang Lung Group Ltd.*
+9/6/21,Hang Seng ESG 50 Index,Removal,14,0014.HK,"Hysan Development Co., Ltd.*"
+9/6/21,Hang Seng ESG 50 Index,Removal,69,0069.HK,Shangri-La Asia Ltd.*
+9/6/21,Hang Seng ESG 50 Index,Removal,148,0148.HK,Kingboard Holdings Ltd.
+9/6/21,Hang Seng ESG 50 Index,Removal,257,0257.HK,China Everbright Environment Group Ltd.*
+9/6/21,Hang Seng ESG 50 Index,Removal,345,0345.HK,Vitasoy International Holdings Ltd.*
+9/6/21,Hang Seng ESG 50 Index,Removal,384,0384.HK,China Gas Holdings Ltd.
+9/6/21,Hang Seng ESG 50 Index,Removal,659,0659.HK,NWS Holdings Ltd.*
+9/6/21,Hang Seng ESG 50 Index,Removal,683,0683.HK,Kerry Properties Ltd.*
+9/6/21,Hang Seng ESG 50 Index,Removal,2778,2778.HK,Champion Real Estate Investment Trust*
+9/6/21,Hang Seng ESG 50 Index,Removal,3311,3311.HK,China State Construction International Holdings Ltd.*
+9/6/21,Hang Seng Index,Inclusion,868,0868.HK,XinYi Glass Holdings Ltd.
+9/6/21,Hang Seng Index,Inclusion,2331,2331.HK,"Li Ning Co., Ltd."
+9/6/21,Hang Seng Index,Inclusion,3968,3968.HK,"China Merchants Bank Co., Ltd. - H Shares"
+9/6/21,Hang Seng Index,Removal,3328,3328.HK,"Bank of Communications Co., Ltd. - H shares"
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2,0002.HK,CLP Holdings Ltd.
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,539,000539.SZ,"Guangdong Electric Power Development Co., Ltd"
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,13,0013.HK,HUTCHMED (China) Ltd.
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2163,002163.SZ,"Hainan Development Holdings Nanhai Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2240,002240.SZ,"Shenzhen Chengxin Lithium Group Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,3012,003012.SZ,"Guangdong Dongpeng Holdings Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,69,0069.HK,Shangri-La Asia Ltd.
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,522,0522.HK,ASM Pacific Technology Ltd.
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,551,0551.HK,Yue Yuen Industrial (Holdings) Ltd.
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2150,2150.HK,Nayuki Holdings Ltd.
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,300083,300083.SZ,"Guangdong Create Century Intelligent Equipment
+Group Corporation Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,300832,300832.SZ,"Shenzhen New Industries Biomedical Engineering
+Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,300888,300888.SZ,"Winner Medical Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,6969,6969.HK,Smoore International Holdings Ltd.
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,25,000025.SZ,"Shenzhen Tellus Holding Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,70,000070.SZ,"Shenzhen SDG Information Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2292,002292.SZ,Alpha Group
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2421,002421.SZ,"Shenzhen Das Intellitech Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2503,002503.SZ,"Souyute Group Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2600,002600.SZ,"Lingyi Itech (Guangdong) Co.,"
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,895,0895.HK,"Dongjiang Environmental Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,1052,1052.HK,Yuexiu Transport Infrastructure Ltd.
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,1558,1558.HK,"YiChang HEC ChangJiang Pharmaceutical Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,1908,1908.HK,C&D International Investment Group Ltd.
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,300377,300377.SZ,"Shenzhen Ysstech Info-Tech Co., Ltd"
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,300676,300676.SZ,"Bgi Genomics Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,3613,3613.HK,"Beijing Tong Ren Tang Chinese Medicine Co., Ltd."
+9/6/21,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,6055,6055.HK,"China Tobacco International (HK) Co., Ltd."
+9/6/21,Hang Seng TECH Index,Inclusion,9961,9961.HK,Trip.com Group Ltd. - S
+9/6/21,Hang Seng TECH Index,Removal,1797,1797.HK,Koolearn Technology Holding Ltd.
+12/6/21,Hang Seng China Enterprises Index,Inclusion,1801,1801.HK,"Innovent Biologics, Inc."
+12/6/21,Hang Seng China Enterprises Index,Removal,3333,3333.HK,China Evergrande Group
+12/6/21,Hang Seng Composite Index,Inclusion,2137,2137.HK,Brii Biosciences Ltd. – B
+12/6/21,Hang Seng Composite Index,Inclusion,2192,2192.HK,"Medlive Technology Co., Ltd."
+12/6/21,Hang Seng Composite Index,Inclusion,9869,9869.HK,"Helens International Holdings Co., Ltd."
+12/6/21,Hang Seng Index,Inclusion,291,0291.HK,"China Resources Beer (Holdings) Co., Ltd."
+12/6/21,Hang Seng Index,Inclusion,2688,2688.HK,ENN Energy Holdings Ltd.
+12/6/21,Hang Seng Index,Inclusion,9618,9618.HK,"JD.com, Inc. – SW"
+12/6/21,Hang Seng Index,Inclusion,9999,9999.HK,"Netease, Inc. – S"
+6/13/22,Hang Seng China Enterprises Index,Inclusion,992,0992.HK,Lenovo Group Ltd.
+6/13/22,Hang Seng China Enterprises Index,Removal,3692,3692.HK,Hansoh Pharmaceutical Group Co. Ltd.
+6/13/22,Hang Seng Composite Index,Inclusion,9866,9866.HK,NIO INC. - SW
+6/13/22,Hang Seng Index,Inclusion,316,0316.HK,Orient Overseas (International) Ltd.
+6/13/22,Hang Seng Index,Inclusion,881,0881.HK,Zhongsheng Group Holdings Ltd.
+6/13/22,Hang Seng Index,Inclusion,981,0981.HK,Semiconductor Manufacturing International Corporation
+6/13/22,Hang Seng Index,Inclusion,1378,1378.HK,China Hongqiao Group Ltd.
+6/13/22,Hang Seng Index,Removal,2018,2018.HK,AAC Technologies Holdings Inc.
+6/13/22,Hang Seng TECH Index,Inclusion,9866,9866.HK,NIO INC. - SW
+6/13/22,Hang Seng TECH Index,Removal,522,0522.HK,ASM Pacific Technology Ltd.
+12/5/22,Hang Seng China Enterprises Index,Inclusion,857,0857.HK,PetroChina Co. Ltd. - H Shares
+12/5/22,Hang Seng China Enterprises Index,Inclusion,881,0881.HK,Zhongsheng Group Holdings Ltd.
+12/5/22,Hang Seng China Enterprises Index,Inclusion,2015,2015.HK,Li Auto Inc. - W
+12/5/22,Hang Seng China Enterprises Index,Inclusion,6690,6690.HK,"Haier Smart Home Co., Ltd. - H Shares"
+12/5/22,Hang Seng China Enterprises Index,Removal,241,0241.HK,Alibaba Health Information Technology Ltd.
+12/5/22,Hang Seng China Enterprises Index,Removal,384,0384.HK,China Gas Holdings Ltd.
+12/5/22,Hang Seng China Enterprises Index,Removal,1801,1801.HK,"Innovent Biologics, Inc."
+12/5/22,Hang Seng China Enterprises Index,Removal,9626,9626.HK,Bilibili Inc. - W
+12/5/22,Hang Seng Composite Index,Inclusion,1698,1698.HK,Tencent Music Entertainment Group - SW
+12/5/22,Hang Seng Composite Index,Inclusion,1880,1880.HK,China Tourism Group Duty Free Corporation Ltd. - H Shares
+12/5/22,Hang Seng Composite Index,Inclusion,9863,9863.HK,"Zhejiang Leapmotor Technology Co., Ltd. - H Shares"
+12/5/22,Hang Seng Index,Inclusion,322,0322.HK,Tingyi (Cayman Islands) Holding Corp.
+12/5/22,Hang Seng Index,Inclusion,1209,1209.HK,China Resources Mixc Lifestyle Services Ltd.
+12/5/22,Hang Seng Index,Inclusion,6690,6690.HK,"Haier Smart Home Co., Ltd. - H Shares"
+12/5/22,Hang Seng Stock Connect China Enterprises Index,Inclusion,857,0857.HK,PetroChina Co. Ltd. - H Shares
+12/5/22,Hang Seng Stock Connect China Enterprises Index,Inclusion,881,0881.HK,Zhongsheng Group Holdings Ltd.
+12/5/22,Hang Seng Stock Connect China Enterprises Index,Inclusion,2015,2015.HK,Li Auto Inc. - W
+12/5/22,Hang Seng Stock Connect China Enterprises Index,Inclusion,6690,6690.HK,"Haier Smart Home Co., Ltd. - H Shares"
+12/5/22,Hang Seng Stock Connect China Enterprises Index,Removal,241,0241.HK,Alibaba Health Information Technology Ltd.
+12/5/22,Hang Seng Stock Connect China Enterprises Index,Removal,384,0384.HK,China Gas Holdings Ltd.
+12/5/22,Hang Seng Stock Connect China Enterprises Index,Removal,1801,1801.HK,"Innovent Biologics, Inc."
+12/5/22,Hang Seng Stock Connect China Enterprises Index,Removal,601857,601857.SH,PetroChina Company Limited
+12/4/23,Hang Seng Composite Index,Inclusion,3650,3650.HK,Keep Inc.
+12/4/23,Hang Seng Composite Index,Inclusion,9690,9690.HK,TUHU Car Inc. - W
+12/4/23,Hang Seng Hong Kong-Listed Biotech Index,Inclusion,3933,3933.HK,The United Laboratories International Holdings Ltd.
+12/4/23,Hang Seng Hong Kong-Listed Biotech Index,Inclusion,9885,9885.HK,YSB Inc.
+12/4/23,Hang Seng Hong Kong-Listed Biotech Index,Removal,6929,6929.HK,OrbusNeich Medical Group Holdings Ltd.
+12/4/23,Hang Seng Hong Kong-Listed Biotech Index,Removal,9955,9955.HK,ClouDr Group Ltd.
+12/4/23,Hang Seng Index,Inclusion,2015,2015.HK,Li Auto Inc. - W
+12/4/23,Hang Seng Index,Inclusion,2359,2359.HK,"WuXi AppTec Co., Ltd. - H Shares"
+3/4/24,Hang Seng China Enterprises Index,Inclusion,762,0762.HK,China Unicom (Hong Kong) Ltd.
+3/4/24,Hang Seng China Enterprises Index,Removal,881,0881.HK,Zhongsheng Group Holdings Ltd.
+3/4/24,Hang Seng Composite Index,Inclusion,412,0412.HK,Shandong Hi-Speed Holdings Group Ltd.
+3/4/24,Hang Seng Composite Index,Inclusion,666,0666.HK,"REPT BATTERO Energy Co., Ltd. - H Shares"
+3/4/24,Hang Seng Composite Index,Inclusion,813,0813.HK,Shimao Group Holdings Ltd.
+3/4/24,Hang Seng Composite Index,Inclusion,884,0884.HK,"CIFI Holdings (Group) Co., Ltd."
+3/4/24,Hang Seng Composite Index,Inclusion,921,0921.HK,"Hisense Home Appliances Group Co., Ltd. - H Shares"
+3/4/24,Hang Seng Composite Index,Inclusion,1381,1381.HK,"Canvest Environmental Protection Group Co., Ltd."
+3/4/24,Hang Seng Composite Index,Inclusion,1519,1519.HK,J&T Global Express Ltd. - W
+3/4/24,Hang Seng Composite Index,Inclusion,1541,1541.HK,ImmuneOnco Biopharmaceuticals (Shanghai) Inc. - B - H Shares
+3/4/24,Hang Seng Composite Index,Inclusion,1735,1735.HK,Central New Energy Holding Group Ltd.
+3/4/24,Hang Seng Composite Index,Inclusion,1963,1963.HK,"Bank of Chongqing Co., Ltd. - H Shares"
+3/4/24,Hang Seng Composite Index,Inclusion,1969,1969.HK,"China Chunlai Education Group Co., Ltd."
+3/4/24,Hang Seng Composite Index,Inclusion,2169,2169.HK,Canggang Railway Ltd.
+3/4/24,Hang Seng Composite Index,Inclusion,2268,2268.HK,WuXi XDC Cayman Inc.
+3/4/24,Hang Seng Composite Index,Inclusion,2429,2429.HK,Beijing UBOX Online Technology Corp. - H Shares
+3/4/24,Hang Seng Composite Index,Inclusion,2511,2511.HK,"HighTide Therapeutics, Inc. - B"
+3/4/24,Hang Seng Composite Index,Inclusion,2517,2517.HK,"Guoquan Food (Shanghai) Co., Ltd. - H Shares"
+3/4/24,Hang Seng Composite Index,Inclusion,2877,2877.HK,China Shineway Pharmaceutical Group Ltd.
+3/4/24,Hang Seng Composite Index,Inclusion,6666,6666.HK,Evergrande Property Services Group Ltd.
+3/4/24,Hang Seng Composite Index,Inclusion,6682,6682.HK,"Beijing Fourth Paradigm Technology Co., Ltd. - H Shares"
+3/4/24,Hang Seng Composite Index,Inclusion,6683,6683.HK,Star Plus Legend Holdings Ltd.
+3/4/24,Hang Seng Composite Index,Inclusion,6990,6990.HK,"Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd. - B - H Sh"
+3/4/24,Hang Seng Composite Index,Inclusion,9638,9638.HK,Ferretti S.p.A. - F
+3/4/24,Hang Seng Composite Index,Inclusion,9676,9676.HK,"Shiyue Daotian Group Co., Ltd. - H Shares"
+3/4/24,Hang Seng Composite Index,Inclusion,9880,9880.HK,UBTECH ROBOTICS CORP LTD - H Shares
+3/4/24,Hang Seng Composite Index,Inclusion,9890,9890.HK,ZX Inc.
+3/4/24,Hang Seng Composite Index,Removal,3877,3877.HK,"CSSC (Hong Kong) Shipping Co., Ltd."
+3/4/24,Hang Seng Composite Index,Removal,6610,6610.HK,Flowing Cloud Technology Ltd
+3/4/24,Hang Seng Composite Index,Removal,6878,6878.HK,Differ Group Auto Ltd.
+3/4/24,Hang Seng Composite Index,Removal,6929,6929.HK,OrbusNeich Medical Group Holdings Ltd.
+3/4/24,Hang Seng Composite Index,Removal,9930,9930.HK,Horizon Construction Development Ltd.
+3/4/24,Hang Seng Composite Index,Removal,9939,9939.HK,Kintor Pharmaceutical Ltd. - B
+3/4/24,Hang Seng Composite Index,Removal,9985,9985.HK,WEILONG Delicious Global Holdings Ltd.
+3/4/24,Hang Seng Hong Kong-Listed Biotech Index,Inclusion,1513,1513.HK,Livzon Pharmaceutical Group Inc. - H Shares
+3/4/24,Hang Seng Hong Kong-Listed Biotech Index,Inclusion,2268,2268.HK,WuXi XDC Cayman Inc.
+3/4/24,Hang Seng Hong Kong-Listed Biotech Index,Removal,512,0512.HK,Grand Pharmaceutical Group Ltd.
+3/4/24,Hang Seng Hong Kong-Listed Biotech Index,Removal,6185,6185.HK,CanSino Biologics Inc. - H Shares
+3/4/24,Hang Seng Stock Connect China Enterprises Index,Inclusion,000333,000333.SZ,"Midea Group Co., Ltd."
+3/4/24,Hang Seng Stock Connect China Enterprises Index,Inclusion,762,0762.HK,China Unicom (Hong Kong) Ltd.
+3/4/24,Hang Seng Stock Connect China Enterprises Index,Removal,881,0881.HK,Zhongsheng Group Holdings Ltd.
+3/4/24,Hang Seng Stock Connect China Enterprises Index,Removal,600438,600438.SH,"Tongwei Co., Ltd."
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,001323,001323.SZ,"De Rucci Healthy Sleep Co., Ltd."
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,1735,1735.HK,Central New Energy Holding Group Ltd.
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,1942,1942.HK,MOG Digitech Holdings Ltd.
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,301510,301510.SZ,"Googol Technology Co., Ltd."
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,6666,6666.HK,Evergrande Property Services Group Ltd.
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,688114,688114.SH,"Mgi Tech Co., Ltd."
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,688318,688318.SH,"Shenzhen Fortune Trend Technology Co., Ltd."
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,9880,9880.HK,UBTECH ROBOTICS CORP LTD - H Shares
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,9885,9885.HK,YSB Inc.
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,000078,000078.SZ,"Shenzhen Neptunus Bioengineering Co., Ltd."
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,000893,000893.SZ,"Asia-Potash International Investment (Guangzhou) Co., Ltd."
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,002163,002163.SZ,"Hainan Development Holdings Nanhai Co., Ltd."
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,002670,002670.SZ,Guosheng Financial Holding Inc.
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,336,0336.HK,Huabao International Holdings Ltd.
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,1686,1686.HK,SUNeVision Holdings Ltd.
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,2150,2150.HK,Nayuki Holdings Ltd.
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,300671,300671.SZ,"Fine Made Microelectronics Group Co., Ltd."
+3/4/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,3319,3319.HK,"A-Living Smart City Services Co., Ltd. - H Shares"
+3/4/24,Hang Seng TECH Index,Inclusion,780,0780.HK,Tongcheng Travel Holdings Ltd.
+3/4/24,Hang Seng TECH Index,Removal,9698,9698.HK,GDS Holdings Ltd. - SW
+6/11/24,Hang Seng China Enterprises Index,Inclusion,2899,2899.HK,"Zijin Mining Group Co., Ltd. - H Shares"
+6/11/24,Hang Seng China Enterprises Index,Removal,968,0968.HK,Xinyi Solar Holdings Ltd.
+6/11/24,Hang Seng Composite Index,Inclusion,2498,2498.HK,"RoboSense Technology Co., Ltd"
+6/11/24,Hang Seng Hong Kong-Listed Biotech Index,Inclusion,6600,6600.HK,SciClone Pharmaceuticals (Holdings) Ltd.
+6/11/24,Hang Seng Hong Kong-Listed Biotech Index,Inclusion,6855,6855.HK,Ascentage Pharma Group International - B
+6/11/24,Hang Seng Hong Kong-Listed Biotech Index,Inclusion,6990,6990.HK,"Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd. - B - H Shares"
+6/11/24,Hang Seng Hong Kong-Listed Biotech Index,Removal,314,0314.HK,"Sipai Health Technology Co., Ltd."
+6/11/24,Hang Seng Hong Kong-Listed Biotech Index,Removal,9886,9886.HK,Dingdang Health Technology Group Ltd.
+6/11/24,Hang Seng Hong Kong-Listed Biotech Index,Removal,9997,9997.HK,Kangji Medical Holdings Ltd.
+6/11/24,Hang Seng Index,Inclusion,285,0285.HK,BYD Electronic International Co. Ltd.
+6/11/24,Hang Seng Index,Removal,6098,6098.HK,Country Garden Services Holdings Co. Ltd.
+6/11/24,Hang Seng Stock Connect China Enterprises Index,Inclusion,2899,2899.HK,"Zijin Mining Group Co., Ltd. - H Shares"
+6/11/24,Hang Seng Stock Connect China Enterprises Index,Inclusion,601319,601319.SH,The People's Insurance Company (Group) of China Limited
+6/11/24,Hang Seng Stock Connect China Enterprises Index,Inclusion,601998,601998.SH,China Citic Bank Corporation Limited
+6/11/24,Hang Seng Stock Connect China Enterprises Index,Removal,968,0968.HK,Xinyi Solar Holdings Ltd.
+6/11/24,Hang Seng Stock Connect China Enterprises Index,Removal,601633,601633.SH,"Great Wall Motor Co., Ltd."
+6/11/24,Hang Seng Stock Connect China Enterprises Index,Removal,601899,601899.SH,"Zijin Mining Group Co., Ltd."
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00002 ^,00002.HK,CHINA VANKE
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00019 ^,00019.HK,BAOSTEEL
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00021,00021.HK,KAIFA
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00026 ^,00026.HK,COSCO SHIP ENGY
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00028 ^,00028.HK,SINOPEC CORP
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00030,00030.HK,CITIC SEC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00035,00035.HK,CHINA TIANYING
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00036,00036.HK,CM BANK
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00039,00039.HK,CIMC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00050,00050.HK,TIANMA
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00050 ^,00050.HK,CHINA UNICOM
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00062,00062.HK,CR DOUBLE-CRANE
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00063 ^,00063.HK,ZTE
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00066,00066.HK,CGT GROUP
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00089,00089.HK,TBEA
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00100 ^,00100.HK,TCL TECH.
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00153,00153.HK,C&D INC.
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00183,00183.HK,SYTECH
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00196 ^,00196.HK,FOSUN PHARMA
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00274 ^,00274.HK,SUNGROW POWER SUPPLY
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00282,00282.HK,NISCO
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00323,00323.HK,GRANDBLUE ENV
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00338,00338.HK,WEICHAI POWER
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00377,00377.HK,JIANGSU EXPRESS
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00406,00406.HK,NARI-TECH
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00513,00513.HK,LIVZON PHARMA
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00600 ^,00600.HK,TSINGTAO BREW
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00725 ^,00725.HK,BOE
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00728,00728.HK,GUOYUAN SECURITIES
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00750 ^,00750.HK,CATL
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00776,00776.HK,GF SEC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00803 ^,00803.HK,ENN-EC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00837 ^,00837.HK,HAITONG SEC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00898,00898.HK,ANGANG STEEL
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00921,00921.HK,HISENSE HA
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00941 ^,00941.HK,CHINA MOBILE
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,00958 ^,00958.HK,DFZQ
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01138 ^,01138.HK,FOXCONN INDUSTRIAL IN
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01238 ^,01238.HK,GAC GROUP
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01289,01289.HK,CHINA LONGYUAN
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01318 ^,01318.HK,PING AN
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01727 ^,01727.HK,SH ELECTRIC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01808 ^,01808.HK,CHINA OILFIELD
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01818 ^,01818.HK,CEB BANK
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01877 ^,01877.HK,CHINT ELECTRICS
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01899 ^,01899.HK,ZIJIN MINING
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01919 ^,01919.HK,COSCO SHIP HOLD
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01979,01979.HK,CMSK
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,01988 ^,01988.HK,BANK OF CHINA
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02078,02078.HK,SUN PAPER
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02179,02179.HK,JONHON
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02202,02202.HK,GOLDWIND
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02230,02230.HK,IFLYTEK
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02241,02241.HK,GOERTEK
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02340,02340.HK,GEM
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02371,02371.HK,NAURA
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02460 ^,02460.HK,GANFENGLITHIUM
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02493,02493.HK,RSPC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02531,02531.HK,TITAN
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02594 ^,02594.HK,BYD COMPANY
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02601 ^,02601.HK,LBG
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02714,02714.HK,MUYUAN
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02815,02815.HK,SUNTAK
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,02916,02916.HK,SCC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,03816,03816.HK,CGN POWER
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,6,88981 ^,88981.HK,SMIC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add,00567,00567.HK,SHANYING INTERNATION
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add,00655,00655.HK,YYTM
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add,00801,00801.HK,HUAXIN CEMENT
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add,01311,01311.HK,CAMEL GROUP
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add,01788,01788.HK,EB SECURITIES
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add,01857,01857.HK,PETROCHINA
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add,01865,01865.HK,FLAT GLASS
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add,01939,01939.HK,CCB
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add,03259,03259.HK,WUXI APPTEC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add,88187,88187.HK,TIMES ELECTRIC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add,88707,88707.HK,ZEC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add 0,00016,00016.HK,MINSHENG BANK
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add 6,00008,00008.HK,BEIJING CAPITAL
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add 6,00048,00048.HK,PRE
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add 6,00124,00124.HK,INOVANCE
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add 6,00333,00333.HK,MIDEA GROUP
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add 6,00347,00347.HK,TIGERMED
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add 6,00759,00759.HK,PHARMARON
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add 6,00760,00760.HK,MINDRAY
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add 6,00825,00825.HK,STSS
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add 6,02129,02129.HK,TZE
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Add 6,02352,02352.HK,SF HOLDING
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,00029,00029.HK,CHINA SOUTH AIR
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,00104,00104.HK,SAIC MOTOR
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,00115,00115.HK,CHINA EAST AIR
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,00380,00380.HK,JOINCARE
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,00588,00588.HK,YONYOU
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,00732,00732.HK,SHANGHAI XINMEI
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,00919,00919.HK,BANK OF JIANGSU
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,00999,00999.HK,CMSC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,01088,01088.HK,CHINA SHENHUA
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,01108,01108.HK,CAITONG SECURITIES
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,02236,02236.HK,DAHUA INC
+9/9/24,Hang Seng (China A) Corporate Sustainability Benchmark Index,Remove,03993,03993.HK,CMOC
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Inclusion,300750,300750.SZ,"Contemporary Amperex Technology Co., Ltd."
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600028,600028.SH,China Petroleum & Chemical Corporation
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Inclusion,600600,600600.SH,"Tsingtao Brewery Co., Ltd."
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601318,601318.SH,"Ping An Insurance (Group) Company of China, Ltd."
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601808,601808.SH,China Oilfield Services Limited
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Inclusion,601899,601899.SH,"Zijin Mining Group Co., Ltd."
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Removal,000776,000776.SZ,"Gf Securities Co., Ltd"
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Removal,002179,002179.SZ,"Avic Jonhon Optronic Technology Co., Ltd."
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Removal,600030,600030.SH,"CITIC Securities Co., Ltd."
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Removal,600104,600104.SH,SAIC Motor Corporation Limited
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Removal,600547,600547.SH,"Shandong Gold Mining Co., Ltd."
+9/9/24,Hang Seng (China A) Corporate Sustainability Index,Removal,601012,601012.SH,"LONGi Green Energy Technology Co., Ltd."
+9/9/24,Hang Seng China A Industry Top Index,Inclusion,000568,000568.SZ,"Luzhou Laojiao Co., Ltd"
+9/9/24,Hang Seng China A Industry Top Index,Inclusion,300122,300122.SZ,"Chongqing Zhifei Biological Products Co., Ltd."
+9/9/24,Hang Seng China A Industry Top Index,Inclusion,600938,600938.SH,Cnooc Limited
+9/9/24,Hang Seng China A Industry Top Index,Inclusion,601600,601600.SH,Aluminum Corporation of China Limited
+9/9/24,Hang Seng China A Industry Top Index,Inclusion,603993,603993.SH,CMOC Group Limited
+9/9/24,Hang Seng China A Industry Top Index,Inclusion,688036,688036.SH,"Shenzhen Transsion Holdings Co., Ltd."
+9/9/24,Hang Seng China A Industry Top Index,Removal,002493,002493.SZ,"Rongsheng Petrochemical Co., Ltd."
+9/9/24,Hang Seng China A Industry Top Index,Removal,600188,600188.SH,"Yankuang Energy Group Co., Ltd."
+9/9/24,Hang Seng China A Industry Top Index,Removal,600196,600196.SH,"Shanghai Fosun Pharmaceutical (Group) Co., Ltd."
+9/9/24,Hang Seng China A Industry Top Index,Removal,600346,600346.SH,"Hengli Petrochemical Co., Ltd."
+9/9/24,Hang Seng China A Industry Top Index,Removal,603288,603288.SH,Foshan Haitian Flavouring and Food Company Ltd.
+9/9/24,Hang Seng China A Industry Top Index,Removal,603501,603501.SH,"Will Semiconductor Co., Ltd. Shanghai"
+9/9/24,Hang Seng China Enterprises Index,Inclusion,1519,1519.HK,J&T Global Express Ltd. - W
+9/9/24,Hang Seng China Enterprises Index,Inclusion,9901,9901.HK,New Oriental Education & Technology Group Inc. - S
+9/9/24,Hang Seng China Enterprises Index,Removal,20,0020.HK,SenseTime Group Inc. - W
+9/9/24,Hang Seng China Enterprises Index,Removal,2618,2618.HK,"JD Logistics, Inc."
+9/9/24,Hang Seng Composite Index,Inclusion,10,0010.HK,Hang Lung Group Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,173,0173.HK,K. Wah International Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,317,0317.HK,"CSSC Offshore & Marine Engineering (Group) Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Inclusion,598,0598.HK,Sinotrans Ltd. - H Shares
+9/9/24,Hang Seng Composite Index,Inclusion,906,0906.HK,CPMC Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,917,0917.HK,Qunabox Group Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,975,0975.HK,Mongolian Mining Corporation
+9/9/24,Hang Seng Composite Index,Inclusion,1071,1071.HK,Huadian Power International Corporation Ltd. - H Shares
+9/9/24,Hang Seng Composite Index,Inclusion,1274,1274.HK,"iMotion Automotive Technology (Suzhou) Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Inclusion,1277,1277.HK,Kinetic Development Group Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,1341,1341.HK,Hao Tian International Construction Investment Group Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,1405,1405.HK,DPC Dash Ltd
+9/9/24,Hang Seng Composite Index,Inclusion,1558,1558.HK,"YiChang HEC ChangJiang Pharmaceutical Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Inclusion,1709,1709.HK,DL Holdings Group Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,1773,1773.HK,Tianli International Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,1836,1836.HK,Stella International Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,1855,1855.HK,ZONQING Environmental Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,1921,1921.HK,Dalipal Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,2016,2016.HK,"China Zheshang Bank Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Inclusion,2039,2039.HK,"China Int'l Marine Containers (Group) Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Inclusion,2155,2155.HK,"Morimatsu International Holdings Co., Ltd."
+9/9/24,Hang Seng Composite Index,Inclusion,2228,2228.HK,QuantumPharm Inc. - P
+9/9/24,Hang Seng Composite Index,Inclusion,2356,2356.HK,Dah Sing Banking Group Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,2386,2386.HK,"SINOPEC Engineering (Group) Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Inclusion,2419,2419.HK,Dekon Food and Agriculture Group - H Shares
+9/9/24,Hang Seng Composite Index,Inclusion,2443,2443.HK,Autostreets Development Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,2453,2453.HK,"Concord Healthcare Group Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Inclusion,2459,2459.HK,Sanergy Group Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,2550,2550.HK,Easou Technology Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,2555,2555.HK,"Sichuan Baicha Baidao Industrial Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Inclusion,2556,2556.HK,Marketingforce Management Ltd
+9/9/24,Hang Seng Composite Index,Inclusion,2602,2602.HK,Onewo Inc. - H Shares
+9/9/24,Hang Seng Composite Index,Inclusion,3306,3306.HK,JNBY Design Ltd.
+9/9/24,Hang Seng Composite Index,Inclusion,3877,3877.HK,"CSSC (Hong Kong) Shipping Co., Ltd."
+9/9/24,Hang Seng Composite Index,Inclusion,6181,6181.HK,"Laopu Gold Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Inclusion,6963,6963.HK,"Sunshine Insurance Group Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Inclusion,9699,9699.HK,"Hangzhou SF Intra-city Industrial Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Inclusion,9899,9899.HK,Cloud Music Inc.
+9/9/24,Hang Seng Composite Index,Removal,120,0120.HK,Cosmopolitan International Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Removal,302,0302.HK,CMGE Technology Group Ltd.
+9/9/24,Hang Seng Composite Index,Removal,520,0520.HK,"Xiabuxiabu Catering Management (China) Holdings Co., Ltd."
+9/9/24,Hang Seng Composite Index,Removal,650,0650.HK,"Productive Technologies Co., Ltd."
+9/9/24,Hang Seng Composite Index,Removal,697,0697.HK,Shoucheng Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Removal,813,0813.HK,Shimao Group Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Removal,933,0933.HK,"Viva Goods Co., Ltd."
+9/9/24,Hang Seng Composite Index,Removal,1176,1176.HK,"Zhuguang Holdings Group Co., Ltd."
+9/9/24,Hang Seng Composite Index,Removal,1238,1238.HK,Powerlong Real Estate Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Removal,1244,1244.HK,3D Medicines Inc.
+9/9/24,Hang Seng Composite Index,Removal,1521,1521.HK,Frontage Holdings Corporation
+9/9/24,Hang Seng Composite Index,Removal,1563,1563.HK,Alliance International Education Leasing Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Removal,1668,1668.HK,China South City Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Removal,1765,1765.HK,"XJ International Holdings Co., Ltd."
+9/9/24,Hang Seng Composite Index,Removal,1877,1877.HK,"Shanghai Junshi Biosciences Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Removal,1890,1890.HK,China Kepei Education Group Ltd.
+9/9/24,Hang Seng Composite Index,Removal,2138,2138.HK,EC Healthcare
+9/9/24,Hang Seng Composite Index,Removal,2160,2160.HK,MicroPort CardioFlow Medtech Corporation - B
+9/9/24,Hang Seng Composite Index,Removal,2257,2257.HK,Sirnaomics Ltd. - B
+9/9/24,Hang Seng Composite Index,Removal,2415,2415.HK,MedSci Healthcare Holdings Ltd.
+9/9/24,Hang Seng Composite Index,Removal,2416,2416.HK,Edianyun Ltd.
+9/9/24,Hang Seng Composite Index,Removal,3377,3377.HK,Sino-Ocean Group Holding Ltd.
+9/9/24,Hang Seng Composite Index,Removal,6100,6100.HK,Tongdao Liepin Group
+9/9/24,Hang Seng Composite Index,Removal,6185,6185.HK,CanSino Biologics Inc. - H Shares
+9/9/24,Hang Seng Composite Index,Removal,9668,9668.HK,"China Bohai Bank Co., Ltd. - H Shares"
+9/9/24,Hang Seng Composite Index,Removal,9857,9857.HK,Linmon Media Ltd.
+9/9/24,Hang Seng Composite Index,Removal,9877,9877.HK,"Jenscare Scientific Co., Ltd. - B - H Shares"
+9/9/24,Hang Seng Composite Index,Removal,9886,9886.HK,Dingdang Health Technology Group Ltd.
+9/9/24,Hang Seng Composite Index,Removal,9955,9955.HK,ClouDr Group Ltd.
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,10,0010.HK,HANG LUNG GROUP
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,123,0123.HK,YUEXIU PROPERTY
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,144,0144.HK,CHINA MER PORT
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,267,0267.HK,CITIC
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,384,0384.HK,CHINA GAS HOLD
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,700,0700.HK,TENCENT
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,884,0884.HK,CIFI HOLD GP
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,1044,1044.HK,HENGAN INT'L
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,2020,2020.HK,ANTA SPORTS
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,2269,2269.HK,WUXI BIO
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,2727,2727.HK,SH ELECTRIC
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Add,3899,3899.HK,CIMC ENRIC
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Remove,69,0069.HK,SHANGRI-LA ASIA
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Remove,165,0165.HK,CHINA EB LTD
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Remove,215,0215.HK,HUTCHTEL HK
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Remove,489,0489.HK,DONGFENG GROUP
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Remove,762,0762.HK,CHINA UNICOM
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Remove,960,0960.HK,LONGFOR GROUP
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Remove,2208,2208.HK,GOLDWIND
+9/9/24,Hang Seng Corporate Sustainability Benchmark Index,Remove,6818,6818.HK,CEB BANK
+9/9/24,Hang Seng Corporate Sustainability Index,Inclusion,8,0008.HK,PCCW Ltd.
+9/9/24,Hang Seng Corporate Sustainability Index,Inclusion,688,0688.HK,China Overseas Land & Investment Ltd.
+9/9/24,Hang Seng Corporate Sustainability Index,Inclusion,2378,2378.HK,Prudential plc
+9/9/24,Hang Seng Corporate Sustainability Index,Removal,17,0017.HK,"New World Development Co., Ltd."
+9/9/24,Hang Seng Corporate Sustainability Index,Removal,656,0656.HK,Fosun International Ltd.
+9/9/24,Hang Seng Corporate Sustainability Index,Removal,1347,1347.HK,Hua Hong Semiconductor Ltd.
+9/9/24,Hang Seng ESG 50 Index,Inclusion,123,0123.HK,"Yuexiu Property Co., Ltd."
+9/9/24,Hang Seng ESG 50 Index,Inclusion,144,0144.HK,"China Merchants Port Holdings Co., Ltd."
+9/9/24,Hang Seng ESG 50 Index,Inclusion,700,0700.HK,Tencent Holdings Ltd.
+9/9/24,Hang Seng ESG 50 Index,Inclusion,2018,2018.HK,AAC Technologies Holdings Inc.
+9/9/24,Hang Seng ESG 50 Index,Inclusion,2269,2269.HK,WuXi Biologics (Cayman) Inc.
+9/9/24,Hang Seng ESG 50 Index,Inclusion,2282,2282.HK,MGM China Holdings Ltd.
+9/9/24,Hang Seng ESG 50 Index,Removal,656,0656.HK,Fosun International Ltd.
+9/9/24,Hang Seng ESG 50 Index,Removal,683,0683.HK,Kerry Properties Ltd.
+9/9/24,Hang Seng ESG 50 Index,Removal,762,0762.HK,China Unicom (Hong Kong) Ltd.
+9/9/24,Hang Seng ESG 50 Index,Removal,1691,1691.HK,"JS Global Lifestyle Co., Ltd."
+9/9/24,Hang Seng ESG 50 Index,Removal,2202,2202.HK,"China Vanke Co., Ltd. - H Shares"
+9/9/24,Hang Seng ESG 50 Index,Removal,2689,2689.HK,Nine Dragons Paper (Holdings) Ltd.
+9/9/24,Hang Seng Hong Kong-Listed Biotech Index,Inclusion,1558,1558.HK,"YiChang HEC ChangJiang Pharmaceutical Co., Ltd. - H Shares"
+9/9/24,Hang Seng Hong Kong-Listed Biotech Index,Removal,6660,6660.HK,"AIM Vaccine Co., Ltd. - H Shares"
+9/9/24,Hang Seng Stock Connect China Enterprises Index,Inclusion,1519,1519.HK,J&T Global Express Ltd. - W
+9/9/24,Hang Seng Stock Connect China Enterprises Index,Inclusion,600406,600406.SH,"NARI Technology Co., Ltd."
+9/9/24,Hang Seng Stock Connect China Enterprises Index,Inclusion,601225,601225.SH,"Shaanxi Coal Industry Co., Ltd."
+9/9/24,Hang Seng Stock Connect China Enterprises Index,Removal,20,0020.HK,SenseTime Group Inc. - W
+9/9/24,Hang Seng Stock Connect China Enterprises Index,Removal,2618,2618.HK,"JD Logistics, Inc."
+9/9/24,Hang Seng Stock Connect China Enterprises Index,Removal,300015,300015.SZ,"Aier Eye Hospital Group Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,000060,000060.SZ,"Shenzhen Zhongjin Lingnan Nonfemet Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,000893,000893.SZ,"Asia-Potash International Investment (Guangzhou) Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,1415,1415.HK,Cowell e Holdings Inc.
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2018,2018.HK,AAC Technologies Holdings Inc.
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2228,2228.HK,QuantumPharm Inc. - P
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2498,2498.HK,"RoboSense Technology Co., Ltd"
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,2602,2602.HK,Onewo Inc. - H Shares
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,300735,300735.SZ,"DBG Technology Co., Ltd"
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,3899,3899.HK,CIMC Enric Holdings Ltd.
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,3933,3933.HK,"United Laboratories International Holdings Ltd., The"
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,688177,688177.SH,"Bio-Thera Solutions, Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,688343,688343.SH,"Shenzhen Intellifusion Technologies Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,688361,688361.SH,"Skyverse Technology Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,688525,688525.SH,"Biwin Storage Technology Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,6963,6963.HK,"Sunshine Insurance Group Co., Ltd. - H Shares"
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Inclusion,9890,9890.HK,ZX Inc.
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,002191,002191.SZ,"Shenzhen Jinjia Group Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,002429,002429.SZ,"Shenzhen Mtc Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,002967,002967.SZ,"Grg Metrology & Test Group Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,200,0200.HK,"Akeso, Inc."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,314,0314.HK,"Helens International Holdings Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,345,0345.HK,Smoore International Holdings Ltd.
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,558,0558.HK,Evergrande Property Services Group Ltd.
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,1268,1268.HK,Midea Real Estate Holding Ltd.
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,1942,1942.HK,MOG Digitech Holdings Ltd.
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,300737,300737.SZ,"Keshun Waterproof Technologies Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,300973,300973.SZ,"Ligao Foods Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,3990,3990.HK,China MeiDong Auto Holdings Ltd.
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,6666,6666.HK,L.K. Technology Holdings Ltd.
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,6969,6969.HK,Vitasoy International Holdings Ltd.
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,9869,9869.HK,"Sipai Health Technology Co., Ltd."
+9/9/24,Hang Seng Stock Connect Greater Bay Area Composite Index,Removal,9926,9926.HK,Melco International Development Ltd.
+9/9/24,Hang Seng TECH Index,Inclusion,522,0522.HK,ASMPT Ltd.
+9/9/24,Hang Seng TECH Index,Removal,1833,1833.HK,"Ping An Healthcare and Technology Co., Ltd."
+12/9/24,Hang Seng China Enterprises Index,Inclusion,2328,2328.HK,"PICC Property and Casualty Co., Ltd. - H Shares"
+12/9/24,Hang Seng China Enterprises Index,Removal,960,0960.HK,Longfor Group Holdings Ltd.
+12/9/24,Hang Seng Composite Index,Inclusion,300,0300.HK,"Midea Group Co., Ltd. - H Shares"
+12/9/24,Hang Seng Composite Index,Inclusion,2533,2533.HK,Black Sesame International Holding Ltd.
+12/9/24,Hang Seng Hong Kong-Listed Biotech Index,Inclusion,512,0512.HK,Grand Pharmaceutical Group Ltd.
+12/9/24,Hang Seng Hong Kong-Listed Biotech Index,Inclusion,2228,2228.HK,QuantumPharm Inc. - P
+12/9/24,Hang Seng Hong Kong-Listed Biotech Index,Inclusion,6086,6086.HK,Fangzhou Inc.
+12/9/24,Hang Seng Hong Kong-Listed Biotech Index,Removal,1244,1244.HK,3D Medicines Inc.
+12/9/24,Hang Seng Hong Kong-Listed Biotech Index,Removal,2171,2171.HK,CARsgen Therapeutics Holdings Ltd. - B
+12/9/24,Hang Seng Hong Kong-Listed Biotech Index,Removal,3759,3759.HK,"Pharmaron Beijing Co., Ltd. - H Shares"
+12/9/24,Hang Seng Index,Inclusion,1024,1024.HK,Kuaishou Technology - W
+12/9/24,Hang Seng Index,Inclusion,9901,9901.HK,New Oriental Education & Technology Group Inc. - S
+12/9/24,Hang Seng Index,Removal,17,0017.HK,New World Development Co. Ltd.
+12/9/24,Hang Seng TECH Index,Inclusion,300,0300.HK,"Midea Group Co., Ltd. - H Shares"
+12/9/24,Hang Seng TECH Index,Removal,9898,9898.HK,Weibo Corporation - SW
+3/10/25,Hang Seng Biotech Index,Inclusion,1302,1302.HK,LifeTech Scientific Corporation
+3/10/25,Hang Seng Biotech Index,Removal,1541,1541.HK,ImmuneOnco Biopharmaceuticals (Shanghai) Inc. - B - H Shares
+3/10/25,Hang Seng China Enterprises Index,Inclusion,2057,2057.HK,ZTO Express (Cayman) Inc. - W
+3/10/25,Hang Seng China Enterprises Index,Inclusion,6160,6160.HK,"BeiGene, Ltd."
+3/10/25,Hang Seng China Enterprises Index,Removal,1177,1177.HK,Sino Biopharmaceutical Ltd.
+3/10/25,Hang Seng China Enterprises Index,Removal,2331,2331.HK,"Li Ning Co., Ltd."
+3/10/25,Hang Seng Composite Index,Inclusion,41,0041.HK,Great Eagle Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Inclusion,308,0308.HK,China Travel International Investment Hong Kong Ltd.
+3/10/25,Hang Seng Composite Index,Inclusion,697,0697.HK,Shoucheng Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Inclusion,999,0999.HK,Xiaocaiyuan International Holding Ltd.
+3/10/25,Hang Seng Composite Index,Inclusion,1318,1318.HK,"Mao Geping Cosmetics Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Inclusion,2232,2232.HK,Crystal International Group Ltd.
+3/10/25,Hang Seng Composite Index,Inclusion,2410,2410.HK,"TYK Medicines, Inc - B - H Shares"
+3/10/25,Hang Seng Composite Index,Inclusion,2431,2431.HK,"Minieye Technology Co., Ltd - H Shares"
+3/10/25,Hang Seng Composite Index,Inclusion,2432,2432.HK,Shenzhen Dobot Corp Ltd - H Shares
+3/10/25,Hang Seng Composite Index,Inclusion,2460,2460.HK,"China Resources Beverage (Holdings) Co., Ltd."
+3/10/25,Hang Seng Composite Index,Inclusion,2506,2506.HK,"Xunfei Healthcare Technology Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Inclusion,2507,2507.HK,Cirrus Aircraft Ltd.
+3/10/25,Hang Seng Composite Index,Inclusion,2510,2510.HK,T.S. Lines Ltd.
+3/10/25,Hang Seng Composite Index,Inclusion,2522,2522.HK,"Jiangxi Rimag Group Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Inclusion,2562,2562.HK,Synagistics Ltd.
+3/10/25,Hang Seng Composite Index,Inclusion,2563,2563.HK,"Beijing Biostar Pharmaceuticals Co., Ltd. - B - H Shares"
+3/10/25,Hang Seng Composite Index,Inclusion,2570,2570.HK,Shanghai REFIRE Group Ltd. - H Shares
+3/10/25,Hang Seng Composite Index,Inclusion,2577,2577.HK,"InnoScience (Suzhou) Technology Holding Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Inclusion,2582,2582.HK,"Jiangsu Guofu Hydrogen Energy Equipment Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Inclusion,2586,2586.HK,Dmall Inc.
+3/10/25,Hang Seng Composite Index,Inclusion,2587,2587.HK,HealthyWay Inc.
+3/10/25,Hang Seng Composite Index,Inclusion,2778,2778.HK,Champion Real Estate Investment Trust
+3/10/25,Hang Seng Composite Index,Inclusion,2799,2799.HK,"China CITIC Financial Asset Management Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Inclusion,3931,3931.HK,"CALB Group Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Inclusion,3939,3939.HK,Wanguo Gold Group Ltd.
+3/10/25,Hang Seng Composite Index,Inclusion,6086,6086.HK,Fangzhou Inc.
+3/10/25,Hang Seng Composite Index,Inclusion,6623,6623.HK,Lufax Holding Ltd
+3/10/25,Hang Seng Composite Index,Inclusion,9660,9660.HK,Horizon Robotics - W
+3/10/25,Hang Seng Composite Index,Inclusion,9985,9985.HK,WEILONG Delicious Global Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Removal,95,0095.HK,"LVGEM (China) Real Estate Investment Co., Ltd."
+3/10/25,Hang Seng Composite Index,Removal,338,0338.HK,"Sinopec Shanghai Petrochemical Co., Ltd.- H Shares"
+3/10/25,Hang Seng Composite Index,Removal,410,0410.HK,SOHO China Ltd.
+3/10/25,Hang Seng Composite Index,Removal,659,0659.HK,CTF Services Ltd.
+3/10/25,Hang Seng Composite Index,Removal,743,0743.HK,Asia Cement (China) Holdings Corporation
+3/10/25,Hang Seng Composite Index,Removal,806,0806.HK,Value Partners Group Ltd.
+3/10/25,Hang Seng Composite Index,Removal,884,0884.HK,"CIFI Holdings (Group) Co., Ltd."
+3/10/25,Hang Seng Composite Index,Removal,1119,1119.HK,iDreamSky Technology Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Removal,1268,1268.HK,China MeiDong Auto Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Removal,1385,1385.HK,"Shanghai Fudan Microelectronics Group Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Removal,1468,1468.HK,Kingkey Financial International (Holdings) Ltd.
+3/10/25,Hang Seng Composite Index,Removal,1541,1541.HK,ImmuneOnco Biopharmaceuticals (Shanghai) Inc. - B - H Shares
+3/10/25,Hang Seng Composite Index,Removal,1600,1600.HK,Tian Lun Gas Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Removal,1799,1799.HK,"Xinte Energy Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Removal,1942,1942.HK,MOG Digitech Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Removal,2105,2105.HK,"Laekna, Inc. - B"
+3/10/25,Hang Seng Composite Index,Removal,2121,2121.HK,"AInnovation Technology Group Co., Ltd.- H Shares"
+3/10/25,Hang Seng Composite Index,Removal,2150,2150.HK,Nayuki Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Removal,2171,2171.HK,CARsgen Therapeutics Holdings Ltd. - B
+3/10/25,Hang Seng Composite Index,Removal,2390,2390.HK,Zhihu Inc. - W
+3/10/25,Hang Seng Composite Index,Removal,2407,2407.HK,Gaush Meditech Ltd
+3/10/25,Hang Seng Composite Index,Removal,2411,2411.HK,Shenzhen Pagoda Industrial (Group) Corporation Ltd. - H Shares
+3/10/25,Hang Seng Composite Index,Removal,2487,2487.HK,Cutia Therapeutics - B
+3/10/25,Hang Seng Composite Index,Removal,2511,2511.HK,"HighTide Therapeutics, Inc. - B"
+3/10/25,Hang Seng Composite Index,Removal,2678,2678.HK,Texhong International Group Ltd.
+3/10/25,Hang Seng Composite Index,Removal,3309,3309.HK,C-MER Medical Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Removal,3347,3347.HK,"Hangzhou Tigermed Consulting Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Removal,3383,3383.HK,Agile Group Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Removal,3650,3650.HK,Keep Inc.
+3/10/25,Hang Seng Composite Index,Removal,3669,3669.HK,China Yongda Automobiles Services Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Removal,3759,3759.HK,"Pharmaron Beijing Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Removal,6639,6639.HK,Arrail Group Ltd.
+3/10/25,Hang Seng Composite Index,Removal,6660,6660.HK,"AIM Vaccine Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Removal,6698,6698.HK,STAR CM Holdings Ltd.
+3/10/25,Hang Seng Composite Index,Removal,9638,9638.HK,Ferretti S.p.A.
+3/10/25,Hang Seng Composite Index,Removal,9669,9669.HK,Beisen Holding Ltd.
+3/10/25,Hang Seng Composite Index,Removal,9869,9869.HK,"Helens International Holdings Co., Ltd."
+3/10/25,Hang Seng Composite Index,Removal,9959,9959.HK,Linklogis Inc. - W
+3/10/25,Hang Seng Composite Index,Removal,9966,9966.HK,Alphamab Oncology - B
+3/10/25,Hang Seng Composite Index,Removal,9995,9995.HK,"RemeGen Co., Ltd. - H Shares"
+3/10/25,Hang Seng Composite Index,Removal,9996,9996.HK,Peijia Medical Ltd. - B
+3/10/25,Hang Seng TECH Index,Inclusion,1698,1698.HK,Tencent Music Entertainment Group - SW
+3/10/25,Hang Seng TECH Index,Inclusion,9660,9660.HK,Horizon Robotics - W
+3/10/25,Hang Seng TECH Index,Removal,1797,1797.HK,East Buy Holding Ltd.
+3/10/25,Hang Seng TECH Index,Removal,6060,6060.HK,"ZhongAn Online P & C Insurance Co., Ltd. - H Shares"
+6/9/25,Hang Seng Biotech Index,Inclusion,2410,2410.HK,"TYK Medicines, Inc - B - H Shares"
+6/9/25,Hang Seng Biotech Index,Inclusion,9997,9997.HK,Kangji Medical Holdings Ltd.
+6/9/25,Hang Seng Biotech Index,Removal,9966,9966.HK,Alphamab Oncology - B
+6/9/25,Hang Seng Biotech Index,Removal,9995,9995.HK,"RemeGen Co., Ltd. - H Shares"
+6/9/25,Hang Seng Composite Index,Inclusion,325,0325.HK,Bloks Group Ltd.
+6/9/25,Hang Seng Composite Index,Inclusion,1364,1364.HK,Guming Holdings Ltd.
+6/9/25,Hang Seng Composite Index,Inclusion,2097,2097.HK,MIXUE Group - H Shares
+6/9/25,Hang Seng Index,Inclusion,300,0300.HK,"Midea Group Co., Ltd. - H Shares"
+6/9/25,Hang Seng Index,Inclusion,2057,2057.HK,ZTO Express (Cayman) Inc. - W
+6/9/25,Hang Seng TECH Index,Inclusion,1211,1211.HK,BYD Co. Ltd. - H Shares
+6/9/25,Hang Seng TECH Index,Removal,772,0772.HK,China Literature Ltd.
+12/8/25,Hang Seng China Enterprises Index,Inclusion,1378,1378.HK,China Hongqiao Group Ltd.
+12/8/25,Hang Seng China Enterprises Index,Inclusion,1801,1801.HK,"Innovent Biologics, Inc."
+12/8/25,Hang Seng China Enterprises Index,Inclusion,9987,9987.HK,"Yum China Holdings, Inc."
+12/8/25,Hang Seng China Enterprises Index,Removal,2688,2688.HK,ENN Energy Holdings Ltd.
+12/8/25,Hang Seng China Enterprises Index,Removal,6862,6862.HK,Haidilao International Holding Ltd.
+12/8/25,Hang Seng China Enterprises Index,Removal,9901,9901.HK,New Oriental Education & Technology Group Inc. - S
+12/8/25,Hang Seng Composite Index,Inclusion,1828,1828.HK,FWD Group Holdings Ltd.
+12/8/25,Hang Seng Composite Index,Inclusion,2525,2525.HK,Hesai Group - W
+12/8/25,Hang Seng Composite Index,Inclusion,2580,2580.HK,"Aux Electric Co., Ltd."
+12/8/25,Hang Seng Composite Index,Inclusion,2590,2590.HK,"Beijing Geekplus Technology Co., Ltd. - W - H Shares"
+12/8/25,Hang Seng Composite Index,Inclusion,2591,2591.HK,"Guangzhou Innogen Pharmaceutical Group Co., Ltd. - B - H Shares"
+12/8/25,Hang Seng Composite Index,Inclusion,9973,9973.HK,"Chery Automobile Co., Ltd. - H Shares"
+12/8/25,Hang Seng HKEX Stock Connect China Enterprises Index,Inclusion,002371,002371.SZ,"NAURA Technology Group Co., Ltd."
+12/8/25,Hang Seng HKEX Stock Connect China Enterprises Index,Inclusion,1378,1378.HK,China Hongqiao Group Ltd.
+12/8/25,Hang Seng HKEX Stock Connect China Enterprises Index,Inclusion,1801,1801.HK,"Innovent Biologics, Inc."
+12/8/25,Hang Seng HKEX Stock Connect China Enterprises Index,Inclusion,9987,9987.HK,"Yum China Holdings, Inc."
+12/8/25,Hang Seng HKEX Stock Connect China Enterprises Index,Removal,2688,2688.HK,ENN Energy Holdings Ltd.
+12/8/25,Hang Seng HKEX Stock Connect China Enterprises Index,Removal,600025,600025.SH,Huaneng Lancang River Hydropower Inc.
+12/8/25,Hang Seng HKEX Stock Connect China Enterprises Index,Removal,600887,600887.SH,"Inner Mongolia Yili Industrial Group Co., Ltd."
+12/8/25,Hang Seng HKEX Stock Connect China Enterprises Index,Removal,6862,6862.HK,Haidilao International Holding Ltd.
+12/8/25,Hang Seng Index,Inclusion,1801,1801.HK,"Innovent Biologics, Inc."
+12/8/25,Hang Seng TECH Index,Inclusion,9863,9863.HK,"Zhejiang Leapmotor Technology Co., Ltd. - H Shares"
+12/8/25,Hang Seng TECH Index,Removal,522,0522.HK,ASMPT Ltd.
+3/9/26,Hang Seng HKEX Stock Connect China Enterprises Index,Inclusion,2423,2423.HK,KE Holdings Inc. - W
+3/9/26,Hang Seng HKEX Stock Connect China Enterprises Index,Inclusion,300308,300308.SZ,"Zhongji Innolight Co., Ltd."
+3/9/26,Hang Seng HKEX Stock Connect China Enterprises Index,Inclusion,601211,601211.SH,"Guotai Haitong Securities Co., Ltd."
+3/9/26,Hang Seng HKEX Stock Connect China Enterprises Index,Inclusion,9660,9660.HK,Horizon Robotics - W
+3/9/26,Hang Seng HKEX Stock Connect China Enterprises Index,Removal,000568,000568.SZ,Luzhou Laojiao Company Limited
+3/9/26,Hang Seng HKEX Stock Connect China Enterprises Index,Removal,291,0291.HK,China Resources Beer (Holdings) Co. Ltd.
+3/9/26,Hang Seng HKEX Stock Connect China Enterprises Index,Removal,2319,2319.HK,"China Mengniu Dairy Co., Ltd."
+3/9/26,Hang Seng HKEX Stock Connect China Enterprises Index,Removal,600406,600406.SH,"NARI Technology Co., Ltd."

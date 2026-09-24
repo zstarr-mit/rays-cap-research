@@ -1,0 +1,81 @@
+Binary inclusion baseline — evaluation report
+============================================================
+Generated (UTC): 2026-04-02T00:38:34.528419+00:00
+
+Configuration
+----------------------------------------
+  events_path: data/hang_seng_events_2016_2026_master.csv
+  calendar_days_before (feature anchor): 120
+  target: y_inclusion_binary (1=Inclusion, 0=Exclusion; Removal events excluded)
+  walk-forward: min_train_months=12, test_months_per_fold=6, n_folds cap=4
+  index_contains filter: None
+
+Dataset (full table after feature build)
+----------------------------------------
+  rows_with_features: 1031
+  rows_skipped (no price/anchor): 157
+  positive_count (inclusion): 807
+  positive_rate: 0.7827
+
+Walk-forward test coverage
+----------------------------------------
+  rows_with_out-of-fold_prediction: 298 / 1031
+  (Rows in months never used as a test fold have no OOF score.)
+
+Pooled test windows (concatenated walk-forward test folds)
+----------------------------------------
+  Ranking / calibration (probability scores)
+    ROC-AUC:              0.7440
+    PR-AUC (avg prec):    0.9461
+    Brier score:          0.1754  (lower is better)
+    Log loss:             0.5450  (lower is better)
+
+  Classification at threshold 0.5 on predicted P(inclusion)
+    Accuracy:             0.7248
+    Balanced accuracy:    0.6689
+    Precision (class 1):  0.9282
+    Recall (class 1):     0.7433
+    F1 (class 1):         0.8255
+    Matthews correlation: 0.2435
+
+  Confusion matrix @0.5  [rows actual 0,1 ; cols pred 0,1]
+    TN=22  FP=15
+    FN=67  TP=194
+
+  Top-k precision on test pool (fraction positive in top k% by score)
+    precision@1%:  1.0000
+    precision@5%:  1.0000
+    precision@10%: 1.0000
+
+  Baselines on same pooled test rows
+    Majority-class accuracy (always predict mode): 0.8758
+
+  sklearn classification_report @0.5
+               precision    recall  f1-score   support
+
+neg_exclusion     0.2472    0.5946    0.3492        37
+pos_inclusion     0.9282    0.7433    0.8255       261
+
+     accuracy                         0.7248       298
+    macro avg     0.5877    0.6689    0.5874       298
+ weighted avg     0.8437    0.7248    0.7664       298
+
+Per-fold metrics (each test window)
+----------------------------------------
+ fold                             split_label  train_rows  test_rows  train_pos_rate  test_pos_rate  accuracy  balanced_accuracy  precision_pos  recall_pos   f1_pos     mcc    brier  log_loss  roc_auc   pr_auc  precision_at_1pct  precision_at_5pct  precision_at_10pct   tn   fp   fn    tp status
+    1 train<= 2019-06 | test=2019-09..2020-12         425        298            0.56       0.875839  0.724832           0.668945        0.92823    0.743295 0.825532 0.24346 0.175396  0.544962  0.74402 0.946131                1.0                1.0                 1.0 22.0 15.0 67.0 194.0     ok
+
+  Mean (ok folds only):
+    accuracy: 0.7248  (std nan)
+    balanced_accuracy: 0.6689  (std nan)
+    f1_pos: 0.8255  (std nan)
+    roc_auc: 0.7440  (std nan)
+    pr_auc: 0.9461  (std nan)
+    mcc: 0.2435  (std nan)
+    brier: 0.1754  (std nan)
+
+Interpretation notes
+----------------------------------------
+  - ROC-AUC / PR-AUC measure ranking quality on held-out months, not live PnL.
+  - High accuracy can track class balance; use balanced accuracy, MCC, and PR-AUC for imbalanced views.
+  - precision@k is noisy when the test fold has few rows.

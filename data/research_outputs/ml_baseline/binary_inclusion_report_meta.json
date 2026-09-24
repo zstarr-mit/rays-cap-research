@@ -1,0 +1,7 @@
+{
+  "report_path": "data/research_outputs/ml_baseline/binary_inclusion_metrics_report.txt",
+  "oof_predictions_path": "data/research_outputs/ml_baseline/binary_inclusion_oof_predictions.csv",
+  "fold_metrics_path": "data/research_outputs/ml_baseline/binary_inclusion_fold_metrics_full.csv",
+  "n_folds_recorded": 3,
+  "n_oof_scored": 1022
+}

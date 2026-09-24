@@ -1,0 +1,39 @@
+{
+  "task": "stock_connect_keep_sell",
+  "dataset_path": "data/research_outputs/stock_connect_keep_sell/keep_sell_training_table.csv",
+  "rows_total_with_label": 100,
+  "pos_rate_total": 0.51,
+  "split_mode": "fallback_time_split",
+  "n_folds": 1,
+  "n_ok_folds": 1,
+  "avg_pr_auc_ok_folds": 0.992217385569186,
+  "avg_roc_auc_ok_folds": 0.9736842105263158,
+  "features_numeric": [
+    "year",
+    "month",
+    "market_cap_approx_asof",
+    "ps_ttm",
+    "pe_ttm",
+    "ps_ttm_peer_z",
+    "pe_ttm_peer_z",
+    "ps_ttm_peer_pctile",
+    "pe_ttm_peer_pctile",
+    "revenue_ttm_asof",
+    "net_income_ttm_asof",
+    "ocf_ttm_asof",
+    "roe_asof",
+    "rev_ttm_qoq_trend",
+    "ni_ttm_qoq_trend",
+    "ocf_ttm_qoq_trend",
+    "fundamental_staleness_days",
+    "forward_pe_snapshot",
+    "forward_total_return"
+  ],
+  "features_categorical": [
+    "index",
+    "peer_group",
+    "sector_snapshot",
+    "industry_snapshot",
+    "is_commodity_like"
+  ]
+}

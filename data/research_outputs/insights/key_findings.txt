@@ -1,0 +1,6 @@
+- Feature-enriched events available: 1793
+- Pre-event 20d momentum (mean): Inclusion=0.0448, Exclusion=0.0173.
+- Pre-event 20d dollar-volume (mean): Inclusion=534770646.50, Exclusion=258893208.44.
+- Highest average post-event T+1 to T+20 drift in current sample: Hang Seng Corporate Sustainability Benchmark Index (0.1198).
+- Share of events with negative post-event T+1 to T+20 return: 54.43%.
+- To improve reliability, add candidate-universe non-event rows and richer point-in-time fundamentals/liquidity data.

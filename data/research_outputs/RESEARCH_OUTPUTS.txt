@@ -1,0 +1,41 @@
+Layout for data/research_outputs/
+===================================
+
+core/
+  Normalized events (master_events_normalized.csv), eligible list,
+  enrichment universes (hk_only / all_symbols / combined), summary_event_*.csv
+
+diagnostics/
+  Validation and QA: diag_*.csv, master_*_audit.csv (parse, duplicates, primary symbol, etc.)
+
+coverage/
+  yfinance_download_audit*.csv, price_coverage_*.csv, price_missing_*.csv
+
+features/
+  event_features_enriched.csv, event_feature_audit.csv — pre-event market features per index row
+
+event_study/
+  event_windows_daily.csv, event_study_agg_*.csv, event_study_pre_post_summary.csv
+
+insights/
+  insight_*.csv, key_findings.txt — descriptive comparisons from the pipeline
+
+charts/
+  PNG figures from hk_event_research_pipeline.py
+
+candidate_panels/
+  candidate_panel_*.csv, candidate_stock_date_panel.csv — stock×date panels for horizon labels
+
+ml_baseline/
+  Binary inclusion model: train_table_snapshot, metrics report, walk-forward outputs
+
+ml_market_liquidity_baseline/
+  Market liquidity baseline artifacts
+
+review_cycle/
+  Option A review-batch labels + asof dates (build_review_cycle_panel.py)
+
+stock_connect_fundamental_trends/
+  yfinance fundamentals experiments for Stock Connect events
+
+Run hk_event_research_pipeline.py to regenerate core → insights outputs in these folders.

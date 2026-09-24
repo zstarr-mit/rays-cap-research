@@ -1,0 +1,2 @@
+fold,split_label,train_rows,test_rows,train_pos_rate,test_pos_rate,pr_auc,roc_auc,precision_at_1pct,precision_at_5pct,precision_at_10pct,status
+1,fallback_time_split cutoff=2024-03-04,75,25,0.4266666666666667,0.76,0.992217385569186,0.9736842105263158,1.0,1.0,1.0,ok

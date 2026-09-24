@@ -1,0 +1,10 @@
+metric,value
+rows_full,1884.0
+rows_subset,30.0
+subset_fraction,0.01592356687898089
+full_fund_coverage,0.020700636942675158
+subset_fund_coverage,1.0
+n_good_tickers,30.0
+n_good_years,2.0
+min_ticker_coverage_for_subset,0.25
+min_year_coverage_for_subset,0.1

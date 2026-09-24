@@ -1,0 +1,149 @@
+date,index,change_type,ticker_normalized
+2016-03-14,Hang Seng China 50 Index,Exclusion,1211.HK / 002594.SZ
+2016-03-14,Hang Seng China 50 Index,Exclusion,1211.HK / 002594.SZ
+2016-03-14,Hang Seng China 50 Index,Exclusion,2333.HK / 601633.SH
+2016-03-14,Hang Seng China 50 Index,Exclusion,2333.HK / 601633.SH
+2016-03-14,Hang Seng China 50 Index,Inclusion,1186.HK / 601186.SH
+2016-03-14,Hang Seng China 50 Index,Inclusion,1186.HK / 601186.SH
+2016-03-14,Hang Seng China 50 Index,Inclusion,1776.HK / 000776.SZ
+2016-03-14,Hang Seng China 50 Index,Inclusion,1776.HK / 000776.SZ
+2016-03-14,Hang Seng China AH Index Series,Inclusion,0317.HK / 600685.SH
+2016-03-14,Hang Seng China AH Index Series,Inclusion,0317.HK / 600685.SH
+2017-03-06,Hang Seng China 50 Index,Exclusion,0902.HK / 600011.SH
+2017-03-06,Hang Seng China 50 Index,Exclusion,0902.HK / 600011.SH
+2017-03-06,Hang Seng China AH Index Series,Exclusion,0168.HK / 600600.SH
+2017-03-06,Hang Seng China AH Index Series,Exclusion,0168.HK / 600600.SH
+2017-03-06,Hang Seng China AH Index Series,Exclusion,0991.HK / 601991.SH
+2017-03-06,Hang Seng China AH Index Series,Exclusion,0991.HK / 601991.SH
+2017-03-06,Hang Seng China AH Index Series,Exclusion,1072.HK / 600875.SH
+2017-03-06,Hang Seng China AH Index Series,Exclusion,1072.HK / 600875.SH
+2017-03-06,Hang Seng China AH Index Series,Exclusion,2039.HK / 000039.SZ
+2017-03-06,Hang Seng China AH Index Series,Exclusion,2039.HK / 000039.SZ
+2017-03-06,Hang Seng China AH Index Series,Exclusion,2238.HK / 601238.SH
+2017-03-06,Hang Seng China AH Index Series,Exclusion,2238.HK / 601238.SH
+2017-03-06,Hang Seng China AH Index Series,Exclusion,2883.HK / 601808.SH
+2017-03-06,Hang Seng China AH Index Series,Exclusion,2883.HK / 601808.SH
+2017-03-06,Hang Seng China AH Index Series,Inclusion,3958.HK / 600958.SH
+2017-03-06,Hang Seng China AH Index Series,Inclusion,3958.HK / 600958.SH
+2017-03-06,Hang Seng China AH Index Series,Inclusion,6099.HK / 600999.SH
+2017-03-06,Hang Seng China AH Index Series,Inclusion,6099.HK / 600999.SH
+2017-03-06,Hang Seng China AH Index Series,Inclusion,6178.HK / 601788.SH
+2017-03-06,Hang Seng China AH Index Series,Inclusion,6178.HK / 601788.SH
+2017-09-04,Hang Seng China AH Index Series,Exclusion,1033.HK / 600871.SH
+2017-09-04,Hang Seng China AH Index Series,Exclusion,1033.HK / 600871.SH
+2017-09-04,Hang Seng China AH Index Series,Exclusion,3958.HK / 600958.SH
+2017-09-04,Hang Seng China AH Index Series,Exclusion,3958.HK / 600958.SH
+2017-09-04,Hang Seng China AH Index Series,Exclusion,6178.HK / 601788.SH
+2017-09-04,Hang Seng China AH Index Series,Exclusion,6178.HK / 601788.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0168.HK / 600600.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0168.HK / 600600.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0177.HK / 600377.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0177.HK / 600377.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0323.HK / 600808.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0323.HK / 600808.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0548.HK / 600548.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0548.HK / 600548.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0921.HK / 000921.SZ
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0921.HK / 000921.SZ
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0991.HK / 601991.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,0991.HK / 601991.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,1065.HK / 600874.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,1065.HK / 600874.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,1138.HK / 600026.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,1138.HK / 600026.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,1812.HK / 000488.SZ
+2017-09-04,Hang Seng China AH Index Series,Inclusion,1812.HK / 000488.SZ
+2017-09-04,Hang Seng China AH Index Series,Inclusion,2039.HK / 000039.SZ
+2017-09-04,Hang Seng China AH Index Series,Inclusion,2039.HK / 000039.SZ
+2017-09-04,Hang Seng China AH Index Series,Inclusion,2238.HK / 601238.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,2238.HK / 601238.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,2611.HK / 601211.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,2611.HK / 601211.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,2883.HK / 601808.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,2883.HK / 601808.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,6881.HK / 601881.SH
+2017-09-04,Hang Seng China AH Index Series,Inclusion,6881.HK / 601881.SH
+2018-03-05,Hang Seng China 50 Index,Exclusion,1776.HK / 000776.SZ
+2018-03-05,Hang Seng China 50 Index,Exclusion,1776.HK / 000776.SZ
+2018-03-05,Hang Seng China 50 Index,Inclusion,1336.HK / 601336.SH
+2018-03-05,Hang Seng China 50 Index,Inclusion,1336.HK / 601336.SH
+2018-03-05,Hang Seng China AH Index Series,Exclusion,0548.HK / 600548.SH
+2018-03-05,Hang Seng China AH Index Series,Exclusion,0548.HK / 600548.SH
+2018-03-05,Hang Seng China AH Index Series,Exclusion,1065.HK / 600874.SH
+2018-03-05,Hang Seng China AH Index Series,Exclusion,1065.HK / 600874.SH
+2018-03-05,Hang Seng China AH Index Series,Inclusion,1513.HK / 000513.SZ
+2018-03-05,Hang Seng China AH Index Series,Inclusion,1513.HK / 000513.SZ
+2018-03-05,Hang Seng China AH Index Series,Inclusion,3958.HK / 600958.SH
+2018-03-05,Hang Seng China AH Index Series,Inclusion,3958.HK / 600958.SH
+2018-09-10,Hang Seng China 50 Index,Exclusion,1186.HK / 601186.SH
+2018-09-10,Hang Seng China 50 Index,Exclusion,1186.HK / 601186.SH
+2018-09-10,Hang Seng China 50 Index,Exclusion,6837.HK / 600837.SH
+2018-09-10,Hang Seng China 50 Index,Exclusion,6837.HK / 600837.SH
+2018-09-10,Hang Seng Stock Connect China AH Index Series,Exclusion,0317.HK / 600685.SH
+2018-09-10,Hang Seng Stock Connect China AH Index Series,Exclusion,0317.HK / 600685.SH
+2018-09-10,Hang Seng Stock Connect China AH Index Series,Inclusion,1528.HK / 601828.SH
+2018-09-10,Hang Seng Stock Connect China AH Index Series,Inclusion,1528.HK / 601828.SH
+2019-03-11,Hang Seng China 50 Index,Exclusion,1336.HK / 601336.SH
+2019-03-11,Hang Seng China 50 Index,Exclusion,1336.HK / 601336.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,0525.HK / 601333.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,0525.HK / 601333.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,0921.HK / 000921.SZ
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,0921.HK / 000921.SZ
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,0991.HK / 601991.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,0991.HK / 601991.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,1157.HK / 000157.SZ
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,1157.HK / 000157.SZ
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,1528.HK / 601828.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,1528.HK / 601828.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,1618.HK / 601618.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,1618.HK / 601618.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,1812.HK / 000488.SZ
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,1812.HK / 000488.SZ
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,2611.HK / 601211.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,2611.HK / 601211.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,2727.HK / 601727.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,2727.HK / 601727.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,2866.HK / 601866.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,2866.HK / 601866.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,3958.HK / 600958.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,3958.HK / 600958.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,6099.HK / 600999.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Exclusion,6099.HK / 600999.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Inclusion,1339.HK / 601319.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Inclusion,1339.HK / 601319.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Inclusion,1772.HK / 002460.SZ
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Inclusion,1772.HK / 002460.SZ
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Inclusion,1787.HK / 600547.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Inclusion,1787.HK / 600547.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Inclusion,2359.HK / 603259.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Inclusion,2359.HK / 603259.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Inclusion,6869.HK / 601869.SH
+2019-03-11,Hang Seng Stock Connect China AH Index Series,Inclusion,6869.HK / 601869.SH
+2019-09-09,Hang Seng China 50 Index,Exclusion,2611.HK / 601211.SH
+2019-09-09,Hang Seng China 50 Index,Exclusion,2611.HK / 601211.SH
+2019-09-09,Hang Seng China 50 Index,Inclusion,1339.HK / 601319.SH
+2019-09-09,Hang Seng China 50 Index,Inclusion,1339.HK / 601319.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Exclusion,1772.HK / 002460.SZ
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Exclusion,1772.HK / 002460.SZ
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,0548.HK / 600548.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,0548.HK / 600548.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,0598.HK / 601598.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,0598.HK / 601598.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,0921.HK / 000921.SZ
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,0921.HK / 000921.SZ
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,1157.HK / 000157.SZ
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,1157.HK / 000157.SZ
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,1528.HK / 601828.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,1528.HK / 601828.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,2611.HK / 601211.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,2611.HK / 601211.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,3958.HK / 600958.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,3958.HK / 600958.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,6066.HK / 601066.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,6066.HK / 601066.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,6178.HK / 601788.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,6178.HK / 601788.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,6806.HK / 000166.SZ
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,6806.HK / 000166.SZ
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,6865.HK / 601865.SH
+2019-09-09,Hang Seng Stock Connect China AH Index Series,Inclusion,6865.HK / 601865.SH

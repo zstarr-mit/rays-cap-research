@@ -1,0 +1,19 @@
+{
+  "events_path": "data/hang_seng_events_2016_2026_master.csv",
+  "eligible_path": "data/eligible_securities.csv",
+  "index_contains": null,
+  "primary_only": true,
+  "k_list": [
+    5
+  ],
+  "include_no_change": true,
+  "max_no_change_per_announcement": null,
+  "rows": 21756,
+  "asof_ok_rate": 1.0,
+  "label_counts": {
+    "no_change": 20109,
+    "included": 934,
+    "removed": 459,
+    "excluded": 254
+  }
+}

@@ -1,0 +1,5 @@
+metric,value
+rows_with_features,1476.0
+rows_skipped_no_anchor,171.0
+target_positive_count,807.0
+target_positive_rate,0.5467479674796748

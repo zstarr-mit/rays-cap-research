@@ -1,0 +1,8 @@
+{
+  "tag": "inc_vs_exc_v2",
+  "report_path": "data/research_outputs/ml_baseline/binary_inclusion_metrics_report_inc_vs_exc_v2.txt",
+  "oof_predictions_path": "data/research_outputs/ml_baseline/binary_inclusion_oof_predictions_inc_vs_exc_v2.csv",
+  "fold_metrics_path": "data/research_outputs/ml_baseline/binary_inclusion_fold_metrics_full_inc_vs_exc_v2.csv",
+  "n_folds_recorded": 3,
+  "n_oof_scored": 298
+}

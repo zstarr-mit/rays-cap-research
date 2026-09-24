@@ -1,0 +1,57 @@
+date,index,change_type,ticker,ticker_normalized,company,change_type_label,y_inclusion
+2023-09-01,Hang Seng Composite,Inclusion,3650,3650.HK,Keep Inc.,Inclusion,1
+2023-09-01,Hang Seng Biotech,Inclusion,3933,3933.HK,The United Laboratories International Holdings Ltd.,Inclusion,1
+2023-09-01,Hang Seng Composite,Inclusion,9690,9690.HK,TUHU Car Inc.,Inclusion,1
+2023-09-01,Hang Seng Biotech,Inclusion,9885,9885.HK,YSB Inc.,Inclusion,1
+2024-02-01,Stock Connect China Enterprises,Inclusion,000333,000333.SZ,Midea Group,Inclusion,1
+2024-02-01,HSCEI,Inclusion,0762,0762.HK,China Unicom,Inclusion,1
+2024-02-01,Stock Connect China Enterprises,Inclusion,0762,0762.HK,China Unicom,Inclusion,1
+2024-02-01,HSTECH,Inclusion,0780,0780.HK,Tongcheng Travel,Inclusion,1
+2024-05-01,HSI,Inclusion,0285,0285.HK,BYD Electronic,Inclusion,1
+2024-05-01,HSCEI,Inclusion,2899,2899.HK,Zijin Mining,Inclusion,1
+2024-05-01,Stock Connect,Inclusion,2899,2899.HK,Zijin Mining,Inclusion,1
+2024-05-01,Stock Connect,Inclusion,601319,601319.SH,PICC,Inclusion,1
+2024-05-01,Stock Connect,Inclusion,601998,601998.SH,China CITIC Bank,Inclusion,1
+2024-09-01,HSCEI,Inclusion,1519,1519.HK,J&T Global Express,Inclusion,1
+2024-09-01,Stock Connect,Inclusion,1519,1519.HK,J&T Global Express,Inclusion,1
+2024-09-01,Stock Connect,Inclusion,600406,600406.SH,NARI Technology,Inclusion,1
+2024-09-01,Stock Connect,Inclusion,601225,601225.SH,Shaanxi Coal,Inclusion,1
+2024-09-01,HSCEI,Inclusion,9901,9901.HK,New Oriental,Inclusion,1
+2024-11-01,HSTECH,Inclusion,0300,0300.HK,Midea Group,Inclusion,1
+2024-11-01,HSI,Inclusion,1024,1024.HK,Kuaishou,Inclusion,1
+2024-11-01,HSCEI,Inclusion,2328,2328.HK,PICC P&C,Inclusion,1
+2024-11-01,HSI,Inclusion,9901,9901.HK,New Oriental,Inclusion,1
+2025-02-01,Biotech,Inclusion,1302,1302.HK,LifeTech,Inclusion,1
+2025-02-01,HSTECH,Inclusion,1698,1698.HK,Tencent Music,Inclusion,1
+2025-02-01,HSCEI,Inclusion,2057,2057.HK,ZTO Express,Inclusion,1
+2025-02-01,HSCEI,Inclusion,6160,6160.HK,BeiGene,Inclusion,1
+2025-02-01,HSTECH,Inclusion,9660,9660.HK,Horizon Robotics,Inclusion,1
+2025-02-21,Hang Seng Biotech Index,Inclusion,1302,1302.HK,LifeTech Scientific Corporation,Inclusion,1
+2025-02-21,Hang Seng TECH Index,Inclusion,1698,1698.HK,Tencent Music Entertainment Group - SW,Inclusion,1
+2025-02-21,HSCEI,Inclusion,2057,2057.HK,ZTO Express (Cayman) Inc. - W,Inclusion,1
+2025-02-21,HSCEI,Inclusion,6160,6160.HK,BeiGene Ltd.,Inclusion,1
+2025-02-21,Hang Seng TECH Index,Inclusion,9660,9660.HK,Horizon Robotics - W,Inclusion,1
+2025-11-01,Stock Connect,Exclusion,2688,2688.HK,ENN Energy,Exclusion,0
+2025-11-01,Stock Connect,Exclusion,600025,600025.SH,Huaneng Lancang,Exclusion,0
+2025-11-01,Stock Connect,Exclusion,600887,600887.SH,Yili,Exclusion,0
+2025-11-01,Stock Connect,Exclusion,6862,6862.HK,Haidilao,Exclusion,0
+2025-11-21,HKEX Stock Connect China Enterprises Index,Inclusion,1378,1378.HK,China Hongqiao Group Ltd.,Inclusion,1
+2025-11-21,HKEX Stock Connect China Enterprises Index,Inclusion,1801,1801.HK,Innovent Biologics Inc.,Inclusion,1
+2025-11-21,HKEX Stock Connect China Enterprises Index,Inclusion,2371,2371.HK,NAURA Technology Group Co. Ltd.,Inclusion,1
+2025-11-21,HKEX Stock Connect China Enterprises Index,Exclusion,2688,2688.HK,ENN Energy Holdings Ltd.,Exclusion,0
+2025-11-21,HKEX Stock Connect China Enterprises Index,Exclusion,600025,600025.HK,Huaneng Lancang River Hydropower Inc.,Exclusion,0
+2025-11-21,HKEX Stock Connect China Enterprises Index,Exclusion,600887,600887.HK,Inner Mongolia Yili Industrial Group Co. Ltd.,Exclusion,0
+2025-11-21,HKEX Stock Connect China Enterprises Index,Exclusion,6862,6862.HK,Haidilao International Holding Ltd.,Exclusion,0
+2025-11-21,HKEX Stock Connect China Enterprises Index,Inclusion,9987,9987.HK,Yum China Holdings Inc.,Inclusion,1
+2026-02-01,Stock Connect,Exclusion,000568,000568.SZ,Luzhou Laojiao,Exclusion,0
+2026-02-01,Stock Connect,Exclusion,0291,0291.HK,China Resources Beer,Exclusion,0
+2026-02-01,Stock Connect,Exclusion,2319,2319.HK,Mengniu Dairy,Exclusion,0
+2026-02-01,Stock Connect,Exclusion,600406,600406.SH,NARI Technology,Exclusion,0
+2026-02-13,HKEX Stock Connect China Enterprises Index,Exclusion,2319,2319.HK,China Mengniu Dairy Co. Ltd.,Exclusion,0
+2026-02-13,HKEX Stock Connect China Enterprises Index,Inclusion,2423,2423.HK,KE Holdings Inc. - W,Inclusion,1
+2026-02-13,HKEX Stock Connect China Enterprises Index,Exclusion,291,291.HK,China Resources Beer (Holdings) Co. Ltd.,Exclusion,0
+2026-02-13,HKEX Stock Connect China Enterprises Index,Inclusion,300308,300308.HK,Zhongji Innolight Co. Ltd.,Inclusion,1
+2026-02-13,HKEX Stock Connect China Enterprises Index,Exclusion,568,568.HK,Luzhou Laojiao Company Limited,Exclusion,0
+2026-02-13,HKEX Stock Connect China Enterprises Index,Exclusion,600406,600406.HK,NARI Technology Co. Ltd.,Exclusion,0
+2026-02-13,HKEX Stock Connect China Enterprises Index,Inclusion,601211,601211.HK,Guotai Haitong Securities Co. Ltd.,Inclusion,1
+2026-02-13,HKEX Stock Connect China Enterprises Index,Inclusion,9660,9660.HK,Horizon Robotics - W,Inclusion,1

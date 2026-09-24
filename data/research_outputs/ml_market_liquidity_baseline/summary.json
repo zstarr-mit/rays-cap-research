@@ -1,0 +1,10 @@
+{
+  "rows_total": 1793,
+  "pos_rate_total": 0.5750139431121026,
+  "n_folds": 3,
+  "n_ok_folds": 3,
+  "avg_pr_auc": 0.7137980802796475,
+  "avg_roc_auc": 0.6574794054090305,
+  "avg_precision_at_5pct": 0.8097755044046604,
+  "avg_precision_at_10pct": 0.8408798248194267
+}

@@ -1,0 +1,4 @@
+fold,split_label,train_rows,test_rows,train_pos_rate,test_pos_rate,accuracy,balanced_accuracy,precision_pos,recall_pos,f1_pos,mcc,brier,log_loss,roc_auc,pr_auc,precision_at_1pct,precision_at_5pct,precision_at_10pct,tn,fp,fn,tp,status
+1,train<= 2019-06 | test=2019-09..2020-12,425,298,0.56,0.8758389261744967,0.7248322147651006,0.6689448068758415,0.9282296650717703,0.7432950191570882,0.825531914893617,0.2434601087687186,0.1753961410531341,0.5449621221739871,0.7440198819509163,0.9461309548950949,1.0,1.0,1.0,22.0,15.0,67.0,194.0,ok
+2,train<= 2020-12 | test=2021-03..2022-12,723,130,,,,,,,,,,,,,,,,,,,,skipped_one_class
+3,train<= 2022-12 | test=2023-12..2025-03,853,162,,,,,,,,,,,,,,,,,,,,skipped_one_class

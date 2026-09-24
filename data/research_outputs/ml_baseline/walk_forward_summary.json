@@ -1,0 +1,12 @@
+{
+  "task": "binary_inclusion_vs_exclusion_removal",
+  "target_col": "y_inclusion_binary",
+  "calendar_days_before_feature_anchor": 120,
+  "events_path": "data/hang_seng_events_2016_2026_master.csv",
+  "rows_total": 1476,
+  "pos_rate_total": 0.5467479674796748,
+  "n_folds": 3,
+  "n_ok_folds": 3,
+  "avg_pr_auc_ok_folds": 0.7844960996824925,
+  "avg_roc_auc_ok_folds": 0.7779393207969848
+}

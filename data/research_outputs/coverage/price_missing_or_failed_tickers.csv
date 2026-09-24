@@ -1,0 +1,6 @@
+ticker_yf,sources,status,n_rows,min_date,max_date,error
+300308.HK,event,failed_empty,0,,,empty_history
+600025.HK,event,failed_empty,0,,,empty_history
+600406.HK,event,failed_empty,0,,,empty_history
+600887.HK,event,failed_empty,0,,,empty_history
+601211.HK,event,failed_empty,0,,,empty_history

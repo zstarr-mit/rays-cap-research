@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Large regenerable yfinance caches
+data/yfinance_cache_research/
+data/yfinance_fundamentals_cache/
+data/yfinance_peer_info_cache/

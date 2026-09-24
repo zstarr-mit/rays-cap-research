@@ -1,0 +1,86 @@
+date,index,change_type,ticker,ticker_normalized,company
+2023-09-01,Hang Seng Biotech,Inclusion,3933,3933.HK,The United Laboratories International Holdings Ltd.
+2023-09-01,Hang Seng Biotech,Removal,6929,6929.HK,OrbusNeich Medical Group
+2023-09-01,Hang Seng Biotech,Inclusion,9885,9885.HK,YSB Inc.
+2023-09-01,Hang Seng Biotech,Removal,9955,9955.HK,ClouDr Group
+2023-09-01,Hang Seng Composite,Inclusion,3650,3650.HK,Keep Inc.
+2023-09-01,Hang Seng Composite,Inclusion,9690,9690.HK,TUHU Car Inc.
+2024-02-01,HSCEI,Inclusion,0762,0762.HK,China Unicom
+2024-02-01,HSCEI,Removal,0881,0881.HK,Zhongsheng Group
+2024-02-01,HSTECH,Inclusion,0780,0780.HK,Tongcheng Travel
+2024-02-01,HSTECH,Removal,9698,9698.HK,GDS Holdings
+2024-02-01,Stock Connect China Enterprises,Inclusion,000333,000333.SZ,Midea Group
+2024-02-01,Stock Connect China Enterprises,Inclusion,0762,0762.HK,China Unicom
+2024-02-01,Stock Connect China Enterprises,Removal,0881,0881.HK,Zhongsheng Group
+2024-02-01,Stock Connect China Enterprises,Removal,600438,600438.SH,Tongwei
+2024-05-01,HSCEI,Removal,0968,0968.HK,Xinyi Solar
+2024-05-01,HSCEI,Inclusion,2899,2899.HK,Zijin Mining
+2024-05-01,HSI,Inclusion,0285,0285.HK,BYD Electronic
+2024-05-01,HSI,Removal,6098,6098.HK,Country Garden Services
+2024-05-01,Stock Connect,Removal,0968,0968.HK,Xinyi Solar
+2024-05-01,Stock Connect,Inclusion,2899,2899.HK,Zijin Mining
+2024-05-01,Stock Connect,Inclusion,601319,601319.SH,PICC
+2024-05-01,Stock Connect,Removal,601633,601633.SH,Great Wall Motor
+2024-05-01,Stock Connect,Removal,601899,601899.SH,Zijin Mining (A)
+2024-05-01,Stock Connect,Inclusion,601998,601998.SH,China CITIC Bank
+2024-09-01,HSCEI,Removal,0020,0020.HK,SenseTime
+2024-09-01,HSCEI,Inclusion,1519,1519.HK,J&T Global Express
+2024-09-01,HSCEI,Removal,2618,2618.HK,JD Logistics
+2024-09-01,HSCEI,Inclusion,9901,9901.HK,New Oriental
+2024-09-01,Stock Connect,Removal,0020,0020.HK,SenseTime
+2024-09-01,Stock Connect,Inclusion,1519,1519.HK,J&T Global Express
+2024-09-01,Stock Connect,Removal,2618,2618.HK,JD Logistics
+2024-09-01,Stock Connect,Removal,300015,300015.SZ,Aier Eye Hospital
+2024-09-01,Stock Connect,Inclusion,600406,600406.SH,NARI Technology
+2024-09-01,Stock Connect,Inclusion,601225,601225.SH,Shaanxi Coal
+2024-11-01,HSCEI,Removal,0960,0960.HK,Longfor
+2024-11-01,HSCEI,Inclusion,2328,2328.HK,PICC P&C
+2024-11-01,HSI,Removal,0017,0017.HK,New World Development
+2024-11-01,HSI,Inclusion,1024,1024.HK,Kuaishou
+2024-11-01,HSI,Inclusion,9901,9901.HK,New Oriental
+2024-11-01,HSTECH,Inclusion,0300,0300.HK,Midea Group
+2024-11-01,HSTECH,Removal,9898,9898.HK,Weibo
+2025-02-01,Biotech,Inclusion,1302,1302.HK,LifeTech
+2025-02-01,Biotech,Removal,1541,1541.HK,ImmuneOnco
+2025-02-01,HSCEI,Removal,1177,1177.HK,Sino Biopharm
+2025-02-01,HSCEI,Inclusion,2057,2057.HK,ZTO Express
+2025-02-01,HSCEI,Removal,2331,2331.HK,Li Ning
+2025-02-01,HSCEI,Inclusion,6160,6160.HK,BeiGene
+2025-02-01,HSTECH,Inclusion,1698,1698.HK,Tencent Music
+2025-02-01,HSTECH,Removal,1797,1797.HK,East Buy
+2025-02-01,HSTECH,Removal,6060,6060.HK,ZhongAn
+2025-02-01,HSTECH,Inclusion,9660,9660.HK,Horizon Robotics
+2025-02-21,HSCEI,Removal,1177,1177.HK,Sino Biopharmaceutical Ltd.
+2025-02-21,HSCEI,Inclusion,2057,2057.HK,ZTO Express (Cayman) Inc. - W
+2025-02-21,HSCEI,Removal,2331,2331.HK,Li Ning Co. Ltd.
+2025-02-21,HSCEI,Inclusion,6160,6160.HK,BeiGene Ltd.
+2025-02-21,Hang Seng Biotech Index,Inclusion,1302,1302.HK,LifeTech Scientific Corporation
+2025-02-21,Hang Seng Biotech Index,Removal,1541,1541.HK,ImmuneOnco Biopharmaceuticals (Shanghai) Inc.
+2025-02-21,Hang Seng TECH Index,Inclusion,1698,1698.HK,Tencent Music Entertainment Group - SW
+2025-02-21,Hang Seng TECH Index,Removal,1797,1797.HK,East Buy Holding Ltd.
+2025-02-21,Hang Seng TECH Index,Removal,6060,6060.HK,ZhongAn Online P & C Insurance Co. Ltd.
+2025-02-21,Hang Seng TECH Index,Inclusion,9660,9660.HK,Horizon Robotics - W
+2025-11-01,Stock Connect,Exclusion,2688,2688.HK,ENN Energy
+2025-11-01,Stock Connect,Exclusion,600025,600025.SH,Huaneng Lancang
+2025-11-01,Stock Connect,Exclusion,600887,600887.SH,Yili
+2025-11-01,Stock Connect,Exclusion,6862,6862.HK,Haidilao
+2025-11-21,HKEX Stock Connect China Enterprises Index,Inclusion,1378,1378.HK,China Hongqiao Group Ltd.
+2025-11-21,HKEX Stock Connect China Enterprises Index,Inclusion,1801,1801.HK,Innovent Biologics Inc.
+2025-11-21,HKEX Stock Connect China Enterprises Index,Inclusion,2371,2371.HK,NAURA Technology Group Co. Ltd.
+2025-11-21,HKEX Stock Connect China Enterprises Index,Exclusion,2688,2688.HK,ENN Energy Holdings Ltd.
+2025-11-21,HKEX Stock Connect China Enterprises Index,Exclusion,600025,600025.HK,Huaneng Lancang River Hydropower Inc.
+2025-11-21,HKEX Stock Connect China Enterprises Index,Exclusion,600887,600887.HK,Inner Mongolia Yili Industrial Group Co. Ltd.
+2025-11-21,HKEX Stock Connect China Enterprises Index,Exclusion,6862,6862.HK,Haidilao International Holding Ltd.
+2025-11-21,HKEX Stock Connect China Enterprises Index,Inclusion,9987,9987.HK,Yum China Holdings Inc.
+2026-02-01,Stock Connect,Exclusion,000568,000568.SZ,Luzhou Laojiao
+2026-02-01,Stock Connect,Exclusion,0291,0291.HK,China Resources Beer
+2026-02-01,Stock Connect,Exclusion,2319,2319.HK,Mengniu Dairy
+2026-02-01,Stock Connect,Exclusion,600406,600406.SH,NARI Technology
+2026-02-13,HKEX Stock Connect China Enterprises Index,Exclusion,2319,2319.HK,China Mengniu Dairy Co. Ltd.
+2026-02-13,HKEX Stock Connect China Enterprises Index,Inclusion,2423,2423.HK,KE Holdings Inc. - W
+2026-02-13,HKEX Stock Connect China Enterprises Index,Exclusion,291,291.HK,China Resources Beer (Holdings) Co. Ltd.
+2026-02-13,HKEX Stock Connect China Enterprises Index,Inclusion,300308,300308.HK,Zhongji Innolight Co. Ltd.
+2026-02-13,HKEX Stock Connect China Enterprises Index,Exclusion,568,568.HK,Luzhou Laojiao Company Limited
+2026-02-13,HKEX Stock Connect China Enterprises Index,Exclusion,600406,600406.HK,NARI Technology Co. Ltd.
+2026-02-13,HKEX Stock Connect China Enterprises Index,Inclusion,601211,601211.HK,Guotai Haitong Securities Co. Ltd.
+2026-02-13,HKEX Stock Connect China Enterprises Index,Inclusion,9660,9660.HK,Horizon Robotics - W
